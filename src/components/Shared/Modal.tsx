@@ -1,4 +1,4 @@
-import { ReactNode, useEffect } from "react";
+import { ReactNode } from "react";
 import { createPortal } from "react-dom";
 
 interface ModalProps {
@@ -14,13 +14,6 @@ const Modal = ({ onClose, className, children }: ModalProps) => {
       onClose();
     } else return;
   };
-
-  useEffect(() => {
-    document.body.style.overflow = "hidden";
-    return () => {
-      document.body.style.overflow = "unset";
-    };
-  }, []);
 
   return createPortal(
     <div

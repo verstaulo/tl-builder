@@ -1,66 +1,66 @@
 {
   "main_weapon": {
-    "image": "default_equipment_icons/Weapon.webp",
+    "image": "tl-builder/images/default_equipment_icons/Weapon.webp",
     "title": "Select Primary Weapon",
     "level": 0
   },
   "secondary_weapon": {
-    "image": "default_equipment_icons/Weapon.webp",
+    "image": "tl-builder/images/default_equipment_icons/Weapon.webp",
     "title": "Select Secondary Weapon",
     "level": 0
   },
   "head": {
-    "image": "default_equipment_icons/Head.webp",
+    "image": "tl-builder/images/default_equipment_icons/Head.webp",
     "title": "Select Head",
     "level": 0
   },
   "body": {
-    "image": "default_equipment_icons/Body.webp",
+    "image": "tl-builder/images/default_equipment_icons/Body.webp",
     "title": "Select Body",
     "level": 0
   },
   "gloves": {
-    "image": "default_equipment_icons/Gloves.webp",
+    "image": "tl-builder/images/default_equipment_icons/Gloves.webp",
     "title": "Select Gloves",
     "level": 0
   },
   "legs": {
-    "image": "default_equipment_icons/Legs.webp",
+    "image": "tl-builder/images/default_equipment_icons/Legs.webp",
     "title": "Select Legs",
     "level": 0
   },
   "boots": {
-    "image": "default_equipment_icons/Boots.webp",
+    "image": "tl-builder/images/default_equipment_icons/Boots.webp",
     "title": "Select Boots",
     "level": 0
   },
   "cloak": {
-    "image": "default_equipment_icons/Cloak.webp",
+    "image": "tl-builder/images/default_equipment_icons/Cloak.webp",
     "title": "Select Cloak",
     "level": 0
   },
   "necklace": {
-    "image": "default_equipment_icons/Necklace.webp",
+    "image": "tl-builder/images/default_equipment_icons/Necklace.webp",
     "title": "Select Necklace",
     "level": 0
   },
   "belt": {
-    "image": "default_equipment_icons/Bracelet.webp",
+    "image": "tl-builder/images/default_equipment_icons/Bracelet.webp",
     "title": "Select Belt",
     "level": 0
   },
   "bracelet": {
-    "image": "default_equipment_icons/Bracelet.webp",
+    "image": "tl-builder/images/default_equipment_icons/Bracelet.webp",
     "title": "Select Bracelet",
     "level": 0
   },
   "ring_first": {
-    "image": "default_equipment_icons/Ring.webp",
+    "image": "tl-builder/images/default_equipment_icons/Ring.webp",
     "title": "Select Ring",
     "level": 0
   },
   "ring_second": {
-    "image": "default_equipment_icons/Ring.webp",
+    "image": "tl-builder/images/default_equipment_icons/Ring.webp",
     "title": "Select Ring",
     "level": 0
   }

@@ -5,35 +5,35 @@
       "items": [
         {
           "item_title": "Melee Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_defense": 40
           }
         },
         {
           "item_title": "Health Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "health_regen": 14
           }
         },
         {
           "item_title": "Decayed Sword God",
-          "img": "mastery_img/shield_utility1.png",
+          "img": "tl-builder/images/mastery_img/shield_utility1.png",
           "stats": {
             "weaken_chance": 75
           }
         },
         {
           "item_title": "Max Health",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_health": 280
           }
         },
         {
           "item_title": "All Evasion",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_evasion": 40,
             "ranged_evasion": 40,
@@ -42,28 +42,28 @@
         },
         {
           "item_title": "Impregnable Stance",
-          "img": "mastery_img/shield_utility2.png",
+          "img": "tl-builder/images/mastery_img/shield_utility2.png",
           "stats": {
             "shield_block_chance": 8
           }
         },
         {
           "item_title": "Buff Duration",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "buff_duration": 6
           }
         },
         {
           "item_title": "Damage Reduction",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "damage_reduction": 6
           }
         },
         {
           "item_title": "Indomitable Spirit",
-          "img": "mastery_img/shield_utility3.png",
+          "img": "tl-builder/images/mastery_img/shield_utility3.png",
           "stats": {
             "stun_resistance": 125
           }
@@ -75,14 +75,14 @@
       "items": [
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 20
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 4,
             "main_min_damage": 4
@@ -90,49 +90,49 @@
         },
         {
           "item_title": "Undefeated Perseverance",
-          "img": "mastery_img/shield_utility1.png",
+          "img": "tl-builder/images/mastery_img/shield_utility1.png",
           "stats": {
             "boss_endurance": 120
           }
         },
         {
           "item_title": "Max Health",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_health": 280
           }
         },
         {
           "item_title": "Stun Resistance",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "stun_resistance": 48
           }
         },
         {
           "item_title": "Desperate Evasion",
-          "img": "mastery_img/shield_utility2.png",
+          "img": "tl-builder/images/mastery_img/shield_utility2.png",
           "stats": {
             "boss_evasion": 50
           }
         },
         {
           "item_title": "Mana Cost Efficiency",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_cost_efficiency": 6
           }
         },
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 60
           }
         },
         {
           "item_title": "Subjugator's Punishment",
-          "img": "mastery_img/shield_utility3.png",
+          "img": "tl-builder/images/mastery_img/shield_utility3.png",
           "stats": {
             "boss_damage_bonus": 49
           }
@@ -144,49 +144,49 @@
       "items": [
         {
           "item_title": "Max Health",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_health": 140
           }
         },
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 20
           }
         },
         {
           "item_title": "Calculated Rush",
-          "img": "mastery_img/shield_utility1.png",
+          "img": "tl-builder/images/mastery_img/shield_utility1.png",
           "stats": {
             "collision_chance": 75
           }
         },
         {
           "item_title": "Damage Reduction",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "damage_reduction": 4
           }
         },
         {
           "item_title": "Weaken Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "weaken_chance": 48
           }
         },
         {
           "item_title": "Steely Physique",
-          "img": "mastery_img/shield_utility2.png",
+          "img": "tl-builder/images/mastery_img/shield_utility2.png",
           "stats": {
             "collision_resistance": 100
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 12,
             "main_min_damage": 12
@@ -194,14 +194,14 @@
         },
         {
           "item_title": "Melee Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_defense": 120
           }
         },
         {
           "item_title": "Blade of Rage",
-          "img": "mastery_img/shield_utility3.png",
+          "img": "tl-builder/images/mastery_img/shield_utility3.png",
           "stats": {
             "cooldown_speed": 5
           }
@@ -215,63 +215,63 @@
       "items": [
         {
           "item_title": "Ranged Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "ranged_defense": 40
           }
         },
         {
           "item_title": "Melee Evasion",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_evasion": 40
           }
         },
         {
           "item_title": "Passionate Cheer",
-          "img": "../../public/mastery_img/greatsword_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility1.png",
           "stats": {
             "amitoi_heal": 6
           }
         },
         {
           "item_title": "Max Health",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_health": 280
           }
         },
         {
           "item_title": "Cooldown Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "cooldown_speed": 2
           }
         },
         {
           "item_title": "Overcome Snare",
-          "img": "../../public/mastery_img/greatsword_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility2.png",
           "stats": {
             "bind_resistance": 100
           }
         },
         {
           "item_title": "Buff Duration",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "buff_duration": 6
           }
         },
         {
           "item_title": "Skill Damage Resistance",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "skill_damage_resistance": 60
           }
         },
         {
           "item_title": "Bold Steps",
-          "img": "../../public/mastery_img/greatsword_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility3.png",
           "stats": {
             "move_speed_bonus": 6.5
           }
@@ -283,28 +283,28 @@
       "items": [
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 14
           }
         },
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 20
           }
         },
         {
           "item_title": "Ultimate Impact",
-          "img": "../../public/mastery_img/greatsword_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility1.png",
           "stats": {
             "stun_chance": 75
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 8,
             "main_min_damage": 8
@@ -312,35 +312,35 @@
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 28
           }
         },
         {
           "item_title": "Complete Stun",
-          "img": "../../public/mastery_img/greatsword_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility2.png",
           "stats": {
             "stun_duration": 1
           }
         },
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 60
           }
         },
         {
           "item_title": "Stun Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "stun_chance": 72
           }
         },
         {
           "item_title": "Firm Resolution",
-          "img": "../../public/mastery_img/greatsword_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility3.png",
           "stats": {
             "cooldown_speed": 5
           }
@@ -352,14 +352,14 @@
       "items": [
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 20
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 4,
             "main_min_damage": 4
@@ -367,49 +367,49 @@
         },
         {
           "item_title": "Rough and Wild",
-          "img": "../../public/mastery_img/greatsword_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility1.png",
           "stats": {
             "damage_bonus": 6
           }
         },
         {
           "item_title": "Melee Critical Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_critical_hit": 40
           }
         },
         {
           "item_title": "Mana Cost Efficiency",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_cost_efficiency": 4
           }
         },
         {
           "item_title": "Fierce Attack",
-          "img": "../../public/mastery_img/greatsword_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility2.png",
           "stats": {
             "attack_speed_bonus": 5
           }
         },
         {
           "item_title": "Skill Damage Boost",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "skill_damage_boost": 30
           }
         },
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 60
           }
         },
         {
           "item_title": "Fierce Glare",
-          "img": "../../public/mastery_img/greatsword_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/greatsword_utility3.png",
           "stats": {
             "melee_heavy_attack_chance": 100
           }
@@ -423,63 +423,63 @@
       "items": [
         {
           "item_title": "Max Health",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_health": 140
           }
         },
         {
           "item_title": "Magic Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "magic_defense": 40
           }
         },
         {
           "item_title": "Vitality of Dew",
-          "img": "../../public/mastery_img/longbow_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility1.png",
           "stats": {
             "health_regen": 42
           }
         },
         {
           "item_title": "Move Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "move_speed_bonus": 2.4
           }
         },
         {
           "item_title": "Buff Duration",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "buff_duration": 4
           }
         },
         {
           "item_title": "Anti-magic Arts",
-          "img": "../../public/mastery_img/longbow_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility2.png",
           "stats": {
             "skill_damage_resistance": 80
           }
         },
         {
           "item_title": "Magic Evasion",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "magic_evasion": 120
           }
         },
         {
           "item_title": "Perception",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "perception": 2
           }
         },
         {
           "item_title": "Grace Song",
-          "img": "../../public/mastery_img/longbow_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility3.png",
           "stats": {
             "bind_resistance": 37.5,
             "petrification_resistance": 37.5,
@@ -495,63 +495,63 @@
       "items": [
         {
           "item_title": "Ranged Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "ranged_hit": 20
           }
         },
         {
           "item_title": "Move Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "move_speed_bonus": 1.2
           }
         },
         {
           "item_title": "Wedge of Oppression",
-          "img": "../../public/mastery_img/longbow_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility1.png",
           "stats": {
             "bind_chance": 75
           }
         },
         {
           "item_title": "Max Mana",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_mana": 280
           }
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 28
           }
         },
         {
           "item_title": "Gale Arrowhead",
-          "img": "../../public/mastery_img/longbow_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility2.png",
           "stats": {
             "cooldown_speed": 4
           }
         },
         {
           "item_title": "Range Up",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "bonus_range": 6
           }
         },
         {
           "item_title": "Mana Cost Efficiency",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_cost_efficiency": 6
           }
         },
         {
           "item_title": "Phantom Snare",
-          "img": "../../public/mastery_img/longbow_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility3.png",
           "stats": {
             "bind_duration": 1
           }
@@ -563,35 +563,35 @@
       "items": [
         {
           "item_title": "Ranged Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "ranged_hit": 20
           }
         },
         {
           "item_title": "Ranged Crit Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "ranged_critical_hit": 20
           }
         },
         {
           "item_title": "Pointy Thorns",
-          "img": "../../public/mastery_img/longbow_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility1.png",
           "stats": {
             "main_max_damage": 12
           }
         },
         {
           "item_title": "Damage Bonus",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "damage_bonus": 4
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 8,
             "main_min_damage": 8
@@ -599,28 +599,28 @@
         },
         {
           "item_title": "Critical Nock",
-          "img": "../../public/mastery_img/longbow_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility2.png",
           "stats": {
             "skill_damage_boost": 40
           }
         },
         {
           "item_title": "Attack Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "attack_speed_bonus": 3.6
           }
         },
         {
           "item_title": "Ranged Crit Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "ranged_critical_hit": 60
           }
         },
         {
           "item_title": "Brutal Shooter",
-          "img": "../../public/mastery_img/longbow_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/longbow_utility3.png",
           "stats": {
             "critical_damage": 10
           }
@@ -634,63 +634,63 @@
         "items": [
           {
             "item_title": "Health Regen",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "health_regen": 14
             }
           },
           {
             "item_title": "Magic Defense",
-            "img": "mastery_icons/defense_img.png",
+            "img": "tl-builder/images/mastery_icons/defense_img.png",
             "stats": {
               "magic_defense": 40
             }
           },
           {
             "item_title": "Dynamic Duo",
-            "img": "../../public/mastery_img/crossbow_utility1.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility1.png",
             "stats": {
               "amitoi_heal": 6
             }
           },
           {
             "item_title": "Max Health",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "max_health": 280
             }
           },
           {
             "item_title": "Magic Endurance",
-            "img": "mastery_icons/defense_img.png",
+            "img": "tl-builder/images/mastery_icons/defense_img.png",
             "stats": {
               "magic_endurance": 40
             }
           },
           {
             "item_title": "Ultimate Healing",
-            "img": "../../public/mastery_img/crossbow_utility2.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility2.png",
             "stats": {
               "health_regen": 56
             }
           },
           {
             "item_title": "Debuff Duration",
-            "img": "mastery_icons/defense_img.png",
+            "img": "tl-builder/images/mastery_icons/defense_img.png",
             "stats": {
               "debuff_duration": 6
             }
           },
           {
             "item_title": "Cooldown Speed",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "cooldown_speed": 3
             }
           },
           {
             "item_title": "Refined Touch",
-            "img": "../../public/mastery_img/crossbow_utility3.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility3.png",
             "stats": {
               "mana_cost_efficiency": 10
             }
@@ -702,63 +702,63 @@
         "items": [
           {
             "item_title": "Ranged Hit",
-            "img": "mastery_icons/attack_img.png",
+            "img": "tl-builder/images/mastery_icons/attack_img.png",
             "stats": {
               "ranged_hit": 20
             }
           },
           {
             "item_title": "Mana Regeneration",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "mana_regen": 14
             }
           },
           {
             "item_title": "Plains Shooter",
-            "img": "../../public/mastery_img/crossbow_utility1.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility1.png",
             "stats": {
               "bonus_range": 6
             }
           },
           {
             "item_title": "Weaken Chance",
-            "img": "mastery_icons/attack_img.png",
+            "img": "tl-builder/images/mastery_icons/attack_img.png",
             "stats": {
               "weaken_chance": 48
             }
           },
           {
             "item_title": "Mana Cost Efficiency",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "mana_cost_efficiency": 4
             }
           },
           {
             "item_title": "Cold Vision",
-            "img": "../../public/mastery_img/crossbow_utility2.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility2.png",
             "stats": {
               "ranged_hit": 80
             }
           },
           {
             "item_title": "Magic Defense",
-            "img": "mastery_icons/defense_img.png",
+            "img": "tl-builder/images/mastery_icons/defense_img.png",
             "stats": {
               "magic_defense": 120
             }
           },
           {
             "item_title": "Ranged Critical Hit",
-            "img": "mastery_icons/attack_img.png",
+            "img": "tl-builder/images/mastery_icons/attack_img.png",
             "stats": {
               "ranged_critical_hit": 60
             }
           },
           {
             "item_title": "Quick Steps",
-            "img": "../../public/mastery_img/crossbow_utility3.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility3.png",
             "stats": {
               "move_speed_bonus": 6.5
             }
@@ -770,7 +770,7 @@
         "items": [
           {
             "item_title": "Base Damage",
-            "img": "mastery_icons/attack_img.png",
+            "img": "tl-builder/images/mastery_icons/attack_img.png",
             "stats": {
               "main_max_damage": 4,
               "main_min_damage": 4
@@ -778,21 +778,21 @@
           },
           {
             "item_title": "Skill Damage Boost",
-            "img": "mastery_icons/attack_img.png",
+            "img": "tl-builder/images/mastery_icons/attack_img.png",
             "stats": {
               "skill_damage_boost": 10
             }
           },
           {
             "item_title": "Cold Rage",
-            "img": "../../public/mastery_img/crossbow_utility1.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility1.png",
             "stats": {
               "off_hand_weapon_attack_chance_bonus": 6
             }
           },
           {
             "item_title": "Base Damage",
-            "img": "mastery_icons/attack_img.png",
+            "img": "tl-builder/images/mastery_icons/attack_img.png",
             "stats": {
               "main_max_damage": 8,
               "main_min_damage": 8
@@ -800,35 +800,35 @@
           },
           {
             "item_title": "Buff Duration",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "buff_duration": 4
             }
           },
           {
             "item_title": "Rapid-Fire",
-            "img": "../../public/mastery_img/crossbow_utility2.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility2.png",
             "stats": {
               "attack_speed_bonus": 5
             }
           },
           {
             "item_title": "Cooldown Speed",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "cooldown_speed": 3
             }
           },
           {
             "item_title": "Mana Regen",
-            "img": "mastery_icons/support_img.png",
+            "img": "tl-builder/images/mastery_icons/support_img.png",
             "stats": {
               "mana_regen": 42
             }
           },
           {
             "item_title": "Brutal Wound",
-            "img": "../../public/mastery_img/crossbow_utility3.png",
+            "img": "../../public/tl-builder/images/mastery_img/crossbow_utility3.png",
             "stats": {
               "ranged_damage_bonus": 10
             }
@@ -842,35 +842,35 @@
       "items": [
         {
           "item_title": "Melee Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_defense": 40
           }
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 14
           }
         },
         {
           "item_title": "Spell Flexibility",
-          "img": "../../public/mastery_img/staff_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility1.png",
           "stats": {
             "mana_cost_efficiency": 6
           }
         },
         {
           "item_title": "Magic Hit",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "magic_hit": 40
           }
         },
         {
           "item_title": "All Evasion",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_evasion": 40,
             "ranged_evasion": 40,
@@ -879,28 +879,28 @@
         },
         {
           "item_title": "Mana Blessing",
-          "img": "../../public/mastery_img/staff_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility2.png",
           "stats": {
             "mana_regen": 56
           }
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 42
           }
         },
         {
           "item_title": "Melee Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_defense": 120
           }
         },
         {
           "item_title": "Reverberation Shield",
-          "img": "../../public/mastery_img/staff_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility3.png",
           "stats": {
             "silence_resistance": 125
           }
@@ -912,7 +912,7 @@
       "items": [
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 4,
             "main_min_damage": 4
@@ -920,21 +920,21 @@
         },
         {
           "item_title": "Magic Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "magic_hit": 20
           }
         },
         {
           "item_title": "Fatal Incantation",
-          "img": "../../public/mastery_img/staff_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility1.png",
           "stats": {
             "magic_critical_hit": 60
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 8,
             "main_min_damage": 8
@@ -942,35 +942,35 @@
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 28
           }
         },
         {
           "item_title": "Mana Intensification",
-          "img": "../../public/mastery_img/staff_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility2.png",
           "stats": {
             "skill_damage_boost": 40
           }
         },
         {
           "item_title": "Cooldown Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "cooldown_speed": 3
           }
         },
         {
           "item_title": "Damage Bonus",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "damage_bonus": 6
           }
         },
         {
           "item_title": "Strange Spacetime",
-          "img": "../../public/mastery_img/staff_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility3.png",
           "stats": {
             "cooldown_speed": 5
           }
@@ -982,63 +982,63 @@
       "items": [
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 14
           }
         },
         {
           "item_title": "Weaken Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "weaken_chance": 24
           }
         },
         {
           "item_title": "Flame Wound",
-          "img": "../../public/mastery_img/staff_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility1.png",
           "stats": {
             "burning_damage": 10
           }
         },
         {
           "item_title": "Max Mana",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_mana": 280
           }
         },
         {
           "item_title": "Magic Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "magic_hit": 40
           }
         },
         {
           "item_title": "Ignition Booster",
-          "img": "../../public/mastery_img/staff_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility2.png",
           "stats": {
             "burning_chance": 5
           }
         },
         {
           "item_title": "Weaken Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "weaken_chance": 72
           }
         },
         {
           "item_title": "Wisdom",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "wisdom": 2
           }
         },
         {
           "item_title": "Vast Destruction",
-          "img": "../../public/mastery_img/staff_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/staff_utility3.png",
           "stats": {
             "aoe_bonus_range": 20
           }
@@ -1052,7 +1052,7 @@
       "items": [
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 4,
             "main_min_damage": 4
@@ -1060,21 +1060,21 @@
         },
         {
           "item_title": "Damage Bonus",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "damage_bonus": 2
           }
         },
         {
           "item_title": "Witch's Contract",
-          "img": "../../public/mastery_img/wand_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility1.png",
           "stats": {
             "curse_damage": 6
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 8,
             "main_min_damage": 8
@@ -1082,35 +1082,35 @@
         },
         {
           "item_title": "Range Up",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "bonus_range": 4
           }
         },
         {
           "item_title": "Regenerative Meditation",
-          "img": "../../public/mastery_img/wand_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility2.png",
           "stats": {
             "mana_regen": 56
           }
         },
         {
           "item_title": "Cooldown Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "cooldown_speed": 3
           }
         },
         {
           "item_title": "Wisdom",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "wisdom": 2
           }
         },
         {
           "item_title": "Greedy Need",
-          "img": "../../public/mastery_img/wand_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility3.png",
           "stats": {
             "cooldown_speed": 5
           }
@@ -1122,28 +1122,28 @@
       "items": [
         {
           "item_title": "Melee Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "melee_defense": 40
           }
         },
         {
           "item_title": "Attack Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "attack_speed_bonus": 1.2
           }
         },
         {
           "item_title": "Deep Pain",
-          "img": "../../public/mastery_img/wand_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility1.png",
           "stats": {
             "magic_critical_hit": 60
           }
         },
         {
           "item_title": "All Evasion",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "melee_evasion": 40,
             "ranged_evasion": 40,
@@ -1152,35 +1152,35 @@
         },
         {
           "item_title": "Range Up",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "bonus_range": 4
           }
         },
         {
           "item_title": "Redemptive Penance",
-          "img": "../../public/mastery_img/wand_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility2.png",
           "stats": {
             "skill_heal_bonus": 8
           }
         },
         {
           "item_title": "Buff Duration",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "buff_duration": 6
           }
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 42
           }
         },
         {
           "item_title": "Merciless Wraith",
-          "img": "../../public/mastery_img/wand_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility3.png",
           "stats": {
             "heavy_attack_chance": 100
           }
@@ -1192,63 +1192,63 @@
       "items": [
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 14
           }
         },
         {
           "item_title": "Weaken Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "weaken_chance": 24
           }
         },
         {
           "item_title": "Spiritual Locus",
-          "img": "../../public/mastery_img/wand_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility1.png",
           "stats": {
             "mana_cost_efficiency": 6
           }
         },
         {
           "item_title": "Max Mana",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "max_mana": 280
           }
         },
         {
           "item_title": "Cooldown Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "cooldown_speed": 2
           }
         },
         {
           "item_title": "Time of the Curse",
-          "img": "../../public/mastery_img/wand_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility2.png",
           "stats": {
             "curse_duration": 1
           }
         },
         {
           "item_title": "Weaken Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "weaken_chance": 72
           }
         },
         {
           "item_title": "Magic Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "magic_hit": 60
           }
         },
         {
           "item_title": "Spell of Retribution",
-          "img": "../../public/mastery_img/wand_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/wand_utility3.png",
           "stats": {
             "skill_damage_boost": 50
           }
@@ -1262,42 +1262,42 @@
       "items": [
         {
           "item_title": "Ranged Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "ranged_defense": 40
           }
         },
         {
           "item_title": "Health Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "health_regen": 14
           }
         },
         {
           "item_title": "Debuff Immunity",
-          "img": "../../public/mastery_img/dagger_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility1.png",
           "stats": {
             "debuff_duration": 6
           }
         },
         {
           "item_title": "Mana Cost Efficiency",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_cost_efficiency": 4
           }
         },
         {
           "item_title": "Cooldown Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "cooldown_speed": 2
           }
         },
         {
           "item_title": "Master of Evasion",
-          "img": "../../public/mastery_img/dagger_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility2.png",
           "stats": {
             "melee_evasion": 105,
             "ranged_evasion": 105,
@@ -1306,21 +1306,21 @@
         },
         {
           "item_title": "Buff Duration",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "buff_duration": 6
           }
         },
         {
           "item_title": "Ranged Defense",
-          "img": "mastery_icons/defense_img.png",
+          "img": "tl-builder/images/mastery_icons/defense_img.png",
           "stats": {
             "ranged_defense": 120
           }
         },
         {
           "item_title": "Strong Will",
-          "img": "../../public/mastery_img/dagger_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility3.png",
           "stats": {
             "weaken_resistance": 125
           }
@@ -1332,63 +1332,63 @@
       "items": [
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 20
           }
         },
         {
           "item_title": "Off-Hand Weapon Attack Chance",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "off_hand_weapon_attack_chance_bonus": 1.5
           }
         },
         {
           "item_title": "Enfeebling Terror",
-          "img": "../../public/mastery_img/dagger_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility1.png",
           "stats": {
             "weaken_chance": 75
           }
         },
         {
           "item_title": "Mana Regen",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_regen": 28
           }
         },
         {
           "item_title": "Buff Duration",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "buff_duration": 4
           }
         },
         {
           "item_title": "Sorrowful Silence",
-          "img": "../../public/mastery_img/dagger_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility2.png",
           "stats": {
             "silence_chance": 100
           }
         },
         {
           "item_title": "Mana Cost Efficiency",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "mana_cost_efficiency": 6
           }
         },
         {
           "item_title": "Melee Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_hit": 60
           }
         },
         {
           "item_title": "Shrewd Judgment",
-          "img": "../../public/mastery_img/dagger_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility3.png",
           "stats": {
             "cooldown_speed": 5
           }
@@ -1400,14 +1400,14 @@
       "items": [
         {
           "item_title": "Melee Critical Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_critical_hit": 20
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 4,
             "main_min_damage": 4
@@ -1415,35 +1415,35 @@
         },
         {
           "item_title": "Ambidexterity",
-          "img": "../../public/mastery_img/dagger_utility1.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility1.png",
           "stats": {
             "off_hand_weapon_attack_chance_bonus": 6
           }
         },
         {
           "item_title": "Melee Critical Hit",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "melee_critical_hit": 40
           }
         },
         {
           "item_title": "Cooldown Speed",
-          "img": "mastery_icons/support_img.png",
+          "img": "tl-builder/images/mastery_icons/support_img.png",
           "stats": {
             "cooldown_speed": 2
           }
         },
         {
           "item_title": "Deep Grudge",
-          "img": "../../public/mastery_img/dagger_utility2.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility2.png",
           "stats": {
             "critical_damage": 8
           }
         },
         {
           "item_title": "Base Damage",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "main_max_damage": 12,
             "main_min_damage": 12
@@ -1451,14 +1451,14 @@
         },
         {
           "item_title": "Skill Damage Boost",
-          "img": "mastery_icons/attack_img.png",
+          "img": "tl-builder/images/mastery_icons/attack_img.png",
           "stats": {
             "skill_damage_boost": 30
           }
         },
         {
           "item_title": "Maddening Excitement",
-          "img": "../../public/mastery_img/dagger_utility3.png",
+          "img": "../../public/tl-builder/images/mastery_img/dagger_utility3.png",
           "stats": {
             "attack_speed_bonus": 6.5
           }
