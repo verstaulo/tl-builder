@@ -47,6 +47,8 @@ const EquipmentItem = ({
   };
 
   const selectItemHandler = (item: TWeapon | TAccessory | TArmor) => {
+    console.log(item);
+    
     dispatch(putOnEquipment({ itemStateKey: itemStateKey, item: item }));
     dispatch(
       setCharacterStats({

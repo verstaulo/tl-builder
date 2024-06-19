@@ -182,14 +182,14 @@
     "setInfo": {
       "setEffects": {
         "four_items": {
-          "attack_speed_bonus": 10
+          "skill_heal": 25
         },
         "two_items": {
-          "critical_damage": 21
+          "cooldown_speed": 7.5
         }
       },
-      "setName": "death_set",
-      "setTitle": "Part of the Death Set"
+      "setName": "transcended_one_set",
+      "setTitle": "Path of The Transcended One Set"
     },
     "stats": {
       "melee_defense": 142,
