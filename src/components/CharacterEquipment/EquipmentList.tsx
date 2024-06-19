@@ -51,6 +51,7 @@ const EquipmentList = ({ equipmentType, className, handleSelect }: Props) => {
   );
 
   const itemGroup = items[0].itemGroup;
+  const itemType = items[0].type;
 
   return (
     <motion.div
@@ -77,7 +78,7 @@ const EquipmentList = ({ equipmentType, className, handleSelect }: Props) => {
             handleSelectFilter={handleSelectFilter}
           />
         ) : null}
-        {itemGroup === "armor" ? (
+        {itemGroup === "armor" && itemType !== "cloak" ? (
           <Filters
             filtersList={armorFilters}
             filterActiveName={activeFilters.armorFilter}
