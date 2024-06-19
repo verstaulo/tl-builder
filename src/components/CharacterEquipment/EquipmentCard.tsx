@@ -1,12 +1,11 @@
-
 interface CardProps {
   defaultStyle?: boolean;
   tier: string;
   image: string;
   title: string;
   level: number;
+  titleVisibilty?: boolean;
   className?: string;
-  contentVisibility?: boolean;
 }
 const backgroundStyles = {
   legendary: " bg-legendary_gradient",
@@ -31,18 +30,17 @@ const EquipmentCard = ({
   title,
   level,
   defaultStyle,
-  contentVisibility,
+  titleVisibilty,
   className = "",
 }: CardProps) => {
   return (
-    <div 
+    <div
       className={
         "group rounded-[0.5rem] select-none lg:p-2 flex justify-center items-center gap-2 min-w-10 " +
         (defaultStyle ? " size-auto " : " size-16 ") +
         backgroundStyles[tier as keyof typeof backgroundStyles] +
         " " +
-        (className ? className : "") +
-        (contentVisibility ? " block p-1" : "")
+        (className ? className : "")
       }
     >
       <img
@@ -54,7 +52,7 @@ const EquipmentCard = ({
         src={image}
         alt=""
       />
-      <p className={"text-neutral3 grow " + (contentVisibility ? "block" : "lg:block hidden")}>
+      <p className={"text-neutral3 grow lg:block " + (titleVisibilty ? "sm:block" : "sm:hidden")}>
         {title}
       </p>
       {level > 0 && (

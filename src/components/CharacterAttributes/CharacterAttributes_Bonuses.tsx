@@ -44,7 +44,7 @@ interface Props {
 
 const CharacterAttributes_Bonuses = ({ title, currentValue }: Props) => {
   return (
-    <div className="grid grid-cols-2 gap-2 bg-neutral6 p-2 select-none">
+    <div className="grid lg:grid-cols-2 gap-2 bg-neutral6 p-2 select-none">
       <p className="text-neutral4 text-center text-sm">{achievementBonus[title].title}</p>
       <ul>
         <li

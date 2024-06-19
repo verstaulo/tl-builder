@@ -126,7 +126,7 @@ const EquipmenMenu = ({ item, mode, onRemove, itemStateKey }: Props) => {
 
   return (
     <div
-      className="bg-neutral6 p-2 rounded-xl w-[400px] select-none text-sm flex flex-col gap-2 mx-auto"
+      className="bg-neutral6 p-2 rounded-xl select-none text-sm flex flex-col gap-2 mx-auto"
       onClick={(e) => e.stopPropagation()}
     >
       <div className="flex justify-between items-center gap-2 mb-2">

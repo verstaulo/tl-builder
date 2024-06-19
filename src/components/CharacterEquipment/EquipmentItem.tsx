@@ -75,7 +75,7 @@ const EquipmentItem = ({
       
   return (
     <motion.li
-      className={"rounded-lg flex flex-col gap-2 " + (className || "")}
+      className={"rounded-lg flex flex-col gap-2 relative " + (className || "")}
       onClick={clickHandler}
     >
       <EquipmentCard
@@ -89,7 +89,7 @@ const EquipmentItem = ({
 
       <AnimatePresence>
         {currentItem && isMenuVisible && (
-          <motion.div
+          <motion.div className="sm:absolute sm:top-0 sm:left-[calc(100%+10px)] sm:w-[400px] lg:block lg:static lg:w-full"
             initial={{ height: 0, opacity:0}}
             animate={{ height: "auto" , opacity:1}}
             exit={{ height: 0, opacity:0}}

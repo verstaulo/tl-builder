@@ -56,7 +56,7 @@ const EquipmentList = ({ equipmentType, className, handleSelect }: Props) => {
     <motion.div
       layout
       onClick={(e) => e.stopPropagation()}
-      className={"min-w-[420px] p-4 bg-neutral6" + (className ? className : "")}
+      className={"p-4 bg-neutral6" + (className ? className : "")}
       initial={{ opacity: 0, borderRadius: "12px" }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
@@ -109,8 +109,8 @@ const EquipmentList = ({ equipmentType, className, handleSelect }: Props) => {
               >
                 <EquipmentCard
                   className="cursor-pointer"
-                  contentVisibility
                   defaultStyle
+                  titleVisibilty
                   tier={item.tier}
                   image={item.image}
                   title={item.title}

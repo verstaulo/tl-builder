@@ -16,7 +16,7 @@ const Filters = ({
 }: FilterProps) => {
   const [activeFilter, setActiveFilter] = useState(filterActiveName);
   return (
-    <ul className="flex gap-2 flex-wrap">
+    <ul className="flex gap-2 flex-wrap justify-center">
       {filtersList.map((filter) => (
         <li key={filter}>
           <label

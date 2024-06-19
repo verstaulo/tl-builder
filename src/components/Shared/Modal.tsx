@@ -18,7 +18,7 @@ const Modal = ({ onClose, className, children }: ModalProps) => {
   return createPortal(
     <div
       className={
-        "fixed top-0 lef-0 z-[99] h-screen w-screen overflow-auto p-4 " +
+        "fixed inset-0 p-2 " +
         (className ? className : "")
       }
       onClick={clickHandler}
