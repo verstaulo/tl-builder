@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { ReactNode, useEffect } from "react";
 import { createPortal } from "react-dom";
 
 interface ModalProps {
@@ -15,14 +15,15 @@ const Modal = ({ onClose, className, children }: ModalProps) => {
     } else return;
   };
 
+  useEffect(() => {
+    document.body.setAttribute("style", "overflow:hidden");
+    return () => {
+      document.body.setAttribute("style", "overflow:unset");
+    };
+  });
+
   return createPortal(
-    <div
-      className={
-        "fixed inset-0 p-2 " +
-        (className ? className : "")
-      }
-      onClick={clickHandler}
-    >
+    <div className={"fixed inset-0 p-2 " + (className ? className : "")} onClick={clickHandler}>
       {children ? children : null}
     </div>,
     document.querySelector<HTMLDivElement>("#portal")!
