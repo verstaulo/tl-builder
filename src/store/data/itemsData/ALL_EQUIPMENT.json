@@ -6,10 +6,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0001",
-      "image": "tl-builder/images/items/weapon/staff/toubleks_thunderous_soul.png",
+      "image": "./images/items/weapon/staff/toubleks_thunderous_soul.png",
       "perk": {
         "description": "Melee, Ranged, Magic Critical Hit 30 ▲ per 1m of distance between you and the target",
-        "image": "tl-builder/images/items/weapon/staff/toubleks_thunderous_soul-perk.webp",
+        "image": "./images/items/weapon/staff/toubleks_thunderous_soul-perk.webp",
         "title": "Toublek's Boost"
       },
       "stats": {
@@ -36,10 +36,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0002",
-      "image": "tl-builder/images/items/weapon/staff/taluss_resonance_staff.png",
+      "image": "./images/items/weapon/staff/taluss_resonance_staff.png",
       "perk": {
         "description": "When Stunned, trigger Petrification: Freeze for 1s to protect yourself. Cooldown 51s",
-        "image": "tl-builder/images/items/weapon/staff/taluss_cold_stone-perk.png",
+        "image": "./images/items/weapon/staff/taluss_cold_stone-perk.png",
         "title": "Talus's Cold Stone"
       },
       "stats": {
@@ -66,10 +66,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0003",
-      "image": "tl-builder/images/items/weapon/staff/ariduss_dark_staff.png",
+      "image": "./images/items/weapon/staff/ariduss_dark_staff.png",
       "perk": {
         "description": "Collision Effect immune for once if staying in the same place for 5s. Deactivated when moving. Reactivation Limitation Time: 45",
-        "image": "tl-builder/images/items/weapon/staff/ariduss_dark_staff-perk.png",
+        "image": "./images/items/weapon/staff/ariduss_dark_staff-perk.png",
         "title": "Aridus's Barrier"
       },
       "stats": {
@@ -96,7 +96,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0004",
-      "image": "tl-builder/images/items/weapon/staff/lightbringer_prayer_staff.png",
+      "image": "./images/items/weapon/staff/lightbringer_prayer_staff.png",
       "stats": {
         "attack_range": 16,
         "attack_speed": 0.574,
@@ -122,10 +122,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0005",
-      "image": "tl-builder/images/items/weapon/staff/queen_bellandirs_domination_wand.png",
+      "image": "./images/items/weapon/staff/queen_bellandirs_domination_wand.png",
       "perk": {
         "description": "Has 12.5% chance of dealing 60 bonus damage upon landing an attack.",
-        "image": "tl-builder/images/items/weapon/staff/queen_bellandirs_domination_wand-perk.png",
+        "image": "./images/items/weapon/staff/queen_bellandirs_domination_wand-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -153,7 +153,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0006",
-      "image": "tl-builder/images/items/weapon/staff/special_resistance_staff.png",
+      "image": "./images/items/weapon/staff/special_resistance_staff.png",
       "stats": {
         "attack_range": 16,
         "attack_speed": 0.641,
@@ -178,7 +178,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-s-0007",
-      "image": "tl-builder/images/items/weapon/staff/special_shamans_staff.png",
+      "image": "./images/items/weapon/staff/special_shamans_staff.png",
       "stats": {
         "attack_range": 17.6,
         "attack_speed": 0.675,
@@ -204,10 +204,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0001",
-      "image": "tl-builder/images/items/weapon/dagger/lequirus's_thorny_edge.webp",
+      "image": "./images/items/weapon/dagger/lequirus's_thorny_edge.webp",
       "perk": {
         "description": "Base Damage 23 ▲ for 3s upon using Mobility Skills",
-        "image": "tl-builder/images/items/weapon/dagger/lequirus's_thorny_edge-perk.webp",
+        "image": "./images/items/weapon/dagger/lequirus's_thorny_edge-perk.webp",
         "title": "Lequirus's Gale Blade"
       },
       "stats": {
@@ -238,7 +238,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0002",
-      "image": "tl-builder/images/items/weapon/dagger/grieving_hand_of_death.png",
+      "image": "./images/items/weapon/dagger/grieving_hand_of_death.png",
       "stats": {
         "attack_range": 2.2,
         "attack_speed": 0.428,
@@ -266,10 +266,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0003",
-      "image": "tl-builder/images/items/weapon/dagger/kowazans_twilight_blade.png",
+      "image": "./images/items/weapon/dagger/kowazans_twilight_blade.png",
       "perk": {
         "description": "At night, Melee Critical Hit 250 ▲",
-        "image": "tl-builder/images/items/weapon/dagger/kowazans_twilight_blade-perk.png",
+        "image": "./images/items/weapon/dagger/kowazans_twilight_blade-perk.png",
         "title": "Kowazan's Mania"
       },
       "stats": {
@@ -299,10 +299,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0004",
-      "image": "tl-builder/images/items/weapon/dagger/minezeroks_dagger.png",
+      "image": "./images/items/weapon/dagger/minezeroks_dagger.png",
       "perk": {
         "description": "On hit, has an 8% chance to apply Weaken: Curse, which applies -410 Melee Defense to the target for 3s",
-        "image": "tl-builder/images/items/weapon/dagger/minezeroks_dagger-perk.png",
+        "image": "./images/items/weapon/dagger/minezeroks_dagger-perk.png",
         "title": "Minezerok's Bridle"
       },
       "stats": {
@@ -332,7 +332,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0005",
-      "image": "tl-builder/images/items/weapon/dagger/rex_chimaeruss_fang.png",
+      "image": "./images/items/weapon/dagger/rex_chimaeruss_fang.png",
       "stats": {
         "attack_range": 2,
         "attack_speed": 0.405,
@@ -361,7 +361,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0006",
-      "image": "tl-builder/images/items/weapon/dagger/special_resistance_dagger.png",
+      "image": "./images/items/weapon/dagger/special_resistance_dagger.png",
       "stats": {
         "attack_range": 2.4,
         "attack_speed": 0.472,
@@ -389,10 +389,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-d-0007",
-      "image": "tl-builder/images/items/weapon/dagger/tevents_massacre_blade.png",
+      "image": "./images/items/weapon/dagger/tevents_massacre_blade.png",
       "perk": {
         "description": "Melee, Ranged, Magic Evasion 120 ▲ for 4s on Critical Hit. Cooldown 15s",
-        "image": "tl-builder/images/items/weapon/dagger/tevents_massacre_blade-perk.png",
+        "image": "./images/items/weapon/dagger/tevents_massacre_blade-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -423,10 +423,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0001",
-      "image": "tl-builder/images/items/weapon/wand/excavators_mysterious_scepter.png",
+      "image": "./images/items/weapon/wand/excavators_mysterious_scepter.png",
       "perk": {
         "description": "Additional 380 Health heal per 6s when using Rapid Healing skills on allies with Health less than 15%. Cooldown 30s",
-        "image": "tl-builder/images/items/weapon/wand/excavators_mysterious_scepter-perk.png",
+        "image": "./images/items/weapon/wand/excavators_mysterious_scepter-perk.png",
         "title": "Excavator's Breath"
       },
       "stats": {
@@ -453,10 +453,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0002",
-      "image": "tl-builder/images/items/weapon/wand/lequirus_grip.png",
+      "image": "./images/items/weapon/wand/lequirus_grip.png",
       "perk": {
         "description": "When your Health goes below 20%, Hide for 7.5s. Cooldown 120s",
-        "image": "tl-builder/images/items/weapon/wand/lequirus_grip-perk.png",
+        "image": "./images/items/weapon/wand/lequirus_grip-perk.png",
         "title": "Lequirus's Ambush"
       },
       "stats": {
@@ -484,10 +484,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0003",
-      "image": "tl-builder/images/items/weapon/wand/shaikals_purity_scepter.png",
+      "image": "./images/items/weapon/wand/shaikals_purity_scepter.png",
       "perk": {
         "description": "Decreases the target's current Mana by 40 upon landing an attack. Cooldown 3s",
-        "image": "tl-builder/images/items/weapon/wand/shaikals_purity_scepter-perk.png",
+        "image": "./images/items/weapon/wand/shaikals_purity_scepter-perk.png",
         "title": "Shaikal's Dissolving Fluid"
       },
       "stats": {
@@ -514,10 +514,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0004",
-      "image": "tl-builder/images/items/weapon/wand/tevents_cuneiform_bone.png",
+      "image": "./images/items/weapon/wand/tevents_cuneiform_bone.png",
       "perk": {
         "description": "Cooldown Speed 15% ▲ for 4s upon receiving a Critical Hit. Cooldown 20s",
-        "image": "tl-builder/images/items/weapon/wand/tevents_cuneiform_bone-perk.png",
+        "image": "./images/items/weapon/wand/tevents_cuneiform_bone-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -545,7 +545,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0005",
-      "image": "tl-builder/images/items/weapon/wand/archpriests_meditation.png",
+      "image": "./images/items/weapon/wand/archpriests_meditation.png",
       "stats": {
         "attack_range": 15.4,
         "attack_speed": 0.425,
@@ -571,7 +571,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0006",
-      "image": "tl-builder/images/items/weapon/wand/touch_of_deep_desire.png",
+      "image": "./images/items/weapon/wand/touch_of_deep_desire.png",
       "stats": {
         "attack_range": 7,
         "attack_speed": 0.5,
@@ -596,7 +596,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-w-0007",
-      "image": "tl-builder/images/items/weapon/wand/special_resistance_wand.png",
+      "image": "./images/items/weapon/wand/special_resistance_wand.png",
       "stats": {
         "attack_range": 15.4,
         "attack_speed": 0.45,
@@ -621,10 +621,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0001",
-      "image": "tl-builder/images/items/weapon/crossbow/kowazans_killer_crossbow.png",
+      "image": "./images/items/weapon/crossbow/kowazans_killer_crossbow.png",
       "perk": {
         "description": "Attack Speed during the day 12% ▲",
-        "image": "tl-builder/images/items/weapon/crossbow/kowazans_killer_crossbow-perk.png",
+        "image": "./images/items/weapon/crossbow/kowazans_killer_crossbow-perk.png",
         "title": "Kowazan's Bombing"
       },
       "stats": {
@@ -654,10 +654,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0002",
-      "image": "tl-builder/images/items/weapon/crossbow/malakars_lethal_crossbow.png",
+      "image": "./images/items/weapon/crossbow/malakars_lethal_crossbow.png",
       "perk": {
         "description": "Move Speed 8% ▲ for the player and party members within 16m",
-        "image": "tl-builder/images/items/weapon/crossbow/malakars_lethal_crossbow-perk.png",
+        "image": "./images/items/weapon/crossbow/malakars_lethal_crossbow-perk.png",
         "title": "Malakar's Eye of Storm"
       },
       "stats": {
@@ -687,10 +687,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0003",
-      "image": "tl-builder/images/items/weapon/crossbow/queen_bellandirs_annihilation_crossbow.png",
+      "image": "./images/items/weapon/crossbow/queen_bellandirs_annihilation_crossbow.png",
       "perk": {
         "description": "Has 10% chance to apply Weaken that decreases the target's Ranged Evasion by 120 for 3s upon landing a Critical Hit. Stacks up to 3 times.",
-        "image": "tl-builder/images/items/weapon/crossbow/queen_bellandirs_annihilation_crossbow-perk.png",
+        "image": "./images/items/weapon/crossbow/queen_bellandirs_annihilation_crossbow-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -721,10 +721,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0004",
-      "image": "tl-builder/images/items/weapon/crossbow/rex_chimaeruss_rake_bow.png",
+      "image": "./images/items/weapon/crossbow/rex_chimaeruss_rake_bow.png",
       "perk": {
         "description": "Heals 61 Health whenever making Off-Hand Weapon attacks for 6s after a successful hit with Off-Hand Weapon. Cooldown 30s",
-        "image": "tl-builder/images/items/weapon/crossbow/rex_chimaeruss_rake_bow-perk.png",
+        "image": "./images/items/weapon/crossbow/rex_chimaeruss_rake_bow-perk.png",
         "title": "Rex Chimaerus's Hunger"
       },
       "stats": {
@@ -754,7 +754,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0005",
-      "image": "tl-builder/images/items/weapon/crossbow/special_resistance_crossbow.png",
+      "image": "./images/items/weapon/crossbow/special_resistance_crossbow.png",
       "stats": {
         "attack_range": 13.2,
         "attack_speed": 0.45,
@@ -782,7 +782,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0006",
-      "image": "tl-builder/images/items/weapon/crossbow/storm_monolith_crossbow.png",
+      "image": "./images/items/weapon/crossbow/storm_monolith_crossbow.png",
       "stats": {
         "attack_range": 15.6,
         "attack_speed": 0.55,
@@ -811,7 +811,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-c-0007",
-      "image": "tl-builder/images/items/weapon/crossbow/unlimited_rapid-fire_crossbow.png",
+      "image": "./images/items/weapon/crossbow/unlimited_rapid-fire_crossbow.png",
       "stats": {
         "attack_range": 12,
         "attack_speed": 0.45,
@@ -840,10 +840,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0001",
-      "image": "tl-builder/images/items/weapon/longbow/grand_aelons_sacred_bow.png",
+      "image": "./images/items/weapon/longbow/grand_aelons_sacred_bow.png",
       "perk": {
         "description": "Restores 110 Health with a 5% chance upon landing an attack. Health Recovery boosted during rain",
-        "image": "tl-builder/images/items/weapon/longbow/grand_aelons_sacred_bow-perk.png",
+        "image": "./images/items/weapon/longbow/grand_aelons_sacred_bow-perk.png",
         "title": "Grand Aelon's Blessing"
       },
       "stats": {
@@ -871,10 +871,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0002",
-      "image": "tl-builder/images/items/weapon/longbow/karnixs_hell_bow.png",
+      "image": "./images/items/weapon/longbow/karnixs_hell_bow.png",
       "perk": {
         "description": "Range 9% ▲ for self and party members within 16m",
-        "image": "tl-builder/images/items/weapon/longbow/karnixs_hell_bow-perk.png",
+        "image": "./images/items/weapon/longbow/karnixs_hell_bow-perk.png",
         "title": "Karnix's Eye"
       },
       "stats": {
@@ -901,10 +901,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0003",
-      "image": "tl-builder/images/items/weapon/longbow/tevents_screaming_bow.png",
+      "image": "./images/items/weapon/longbow/tevents_screaming_bow.png",
       "perk": {
         "description": "Upon landing an attack, has a 10% chance to apply Weaken: Poison, which decreases the Move Speed of the target by 6.5 for 9s.",
-        "image": "tl-builder/images/items/weapon/longbow/tevents_screaming_bow-perk.png",
+        "image": "./images/items/weapon/longbow/tevents_screaming_bow-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -932,10 +932,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0004",
-      "image": "tl-builder/images/items/weapon/longbow/toubleks_strafing_bow.png",
+      "image": "./images/items/weapon/longbow/toubleks_strafing_bow.png",
       "perk": {
         "description": "Additional 75% of Base Damage upon landing critical hits on enemies with health less than 25%. Cooldown 6s",
-        "image": "tl-builder/images/items/weapon/longbow/toubleks_strafing_bow-perk.png",
+        "image": "./images/items/weapon/longbow/toubleks_strafing_bow-perk.png",
         "title": "Toublek's Trick"
       },
       "stats": {
@@ -963,7 +963,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0005",
-      "image": "tl-builder/images/items/weapon/longbow/shaikals_torment_bow.png",
+      "image": "./images/items/weapon/longbow/shaikals_torment_bow.png",
       "stats": {
         "attack_range": 17.6,
         "attack_speed": 0.709,
@@ -988,7 +988,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0006",
-      "image": "tl-builder/images/items/weapon/longbow/special_resistance_longbow.png",
+      "image": "./images/items/weapon/longbow/special_resistance_longbow.png",
       "stats": {
         "attack_range": 16,
         "attack_speed": 0.675,
@@ -1013,7 +1013,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-l-0007",
-      "image": "tl-builder/images/items/weapon/longbow/world_tree_longbow.png",
+      "image": "./images/items/weapon/longbow/world_tree_longbow.png",
       "stats": {
         "attack_range": 16,
         "attack_speed": 0.641,
@@ -1038,10 +1038,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0001",
-      "image": "tl-builder/images/items/weapon/shield/ahzreils_demonic_blade.png",
+      "image": "./images/items/weapon/shield/ahzreils_demonic_blade.png",
       "perk": {
         "description": "Restores 101 Mana whenever attacking with Shield Throw. Restores up to 5 times per skill cast",
-        "image": "tl-builder/images/items/weapon/shield/ahzreils_demonic_blade-perk.png",
+        "image": "./images/items/weapon/shield/ahzreils_demonic_blade-perk.png",
         "title": "Ahzreil's Illusion"
       },
       "stats": {
@@ -1070,10 +1070,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0002",
-      "image": "tl-builder/images/items/weapon/shield/chernobogs_beheading_sword.png",
+      "image": "./images/items/weapon/shield/chernobogs_beheading_sword.png",
       "perk": {
         "description": "Blocking a melee attack applies Sleep: Curse to the attacker for 3s (6s for monsters). Cooldown 17s",
-        "image": "tl-builder/images/items/weapon/shield/chernobogs_beheading_sword-perk.png",
+        "image": "./images/items/weapon/shield/chernobogs_beheading_sword-perk.png",
         "title": "Chernobog's Incubus"
       },
       "stats": {
@@ -1102,10 +1102,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0003",
-      "image": "tl-builder/images/items/weapon/shield/nirmas_corrupt_sword.png",
+      "image": "./images/items/weapon/shield/nirmas_corrupt_sword.png",
       "perk": {
         "description": "Upon landing the Shield Strike, Stun the target for 0.3s.",
-        "image": "tl-builder/images/items/weapon/shield/nirmas_corrupt_sword-perk.png",
+        "image": "./images/items/weapon/shield/nirmas_corrupt_sword-perk.png",
         "title": "Nirma's Shockwave"
       },
       "stats": {
@@ -1134,10 +1134,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0004",
-      "image": "tl-builder/images/items/weapon/shield/queen_bellandirs_blade.png",
+      "image": "./images/items/weapon/shield/queen_bellandirs_blade.png",
       "perk": {
         "description": "On hit, Weakens the target, which applies -25 Base Damage for 4s. Cooldown 15s",
-        "image": "tl-builder/images/items/weapon/shield/queen_bellandirs_blade-perk.png",
+        "image": "./images/items/weapon/shield/queen_bellandirs_blade-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -1166,7 +1166,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0005",
-      "image": "tl-builder/images/items/weapon/shield/corneliuss_explosion_blade.png",
+      "image": "./images/items/weapon/shield/corneliuss_explosion_blade.png",
       "stats": {
         "attack_range": 2.48,
         "attack_speed": 0.632,
@@ -1193,7 +1193,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0006",
-      "image": "tl-builder/images/items/weapon/shield/karnixs_nether_sword.png",
+      "image": "./images/items/weapon/shield/karnixs_nether_sword.png",
       "stats": {
         "attack_range": 2.25,
         "attack_speed": 0.522,
@@ -1221,7 +1221,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-shield-0007",
-      "image": "tl-builder/images/items/weapon/shield/special_resistance_sword.png",
+      "image": "./images/items/weapon/shield/special_resistance_sword.png",
       "stats": {
         "attack_range": 2.25,
         "attack_speed": 0.468,
@@ -1248,10 +1248,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0001",
-      "image": "tl-builder/images/items/weapon/greatsword/adentuss_savage_blade.png",
+      "image": "./images/items/weapon/greatsword/adentuss_savage_blade.png",
       "perk": {
         "description": "Base damage 6 ▲ per 1,000 of current Health",
-        "image": "tl-builder/images/items/weapon/greatsword/adentuss_savage_blade-perk.png",
+        "image": "./images/items/weapon/greatsword/adentuss_savage_blade-perk.png",
         "title": "Adentus's Passion"
       },
       "stats": {
@@ -1279,10 +1279,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0002",
-      "image": "tl-builder/images/items/weapon/greatsword/junobotes_destroyer_blade.png",
+      "image": "./images/items/weapon/greatsword/junobotes_destroyer_blade.png",
       "perk": {
         "description": "Shock, Stun duration 1.1s ▲ on inflicting the effect on enemies with 50% or less Health",
-        "image": "tl-builder/images/items/weapon/greatsword/junobotes_destroyer_blade-perk.png",
+        "image": "./images/items/weapon/greatsword/junobotes_destroyer_blade-perk.png",
         "title": "Junobote's Void"
       },
       "stats": {
@@ -1309,10 +1309,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0003",
-      "image": "tl-builder/images/items/weapon/greatsword/magna_dukes_taunting_blade.png",
+      "image": "./images/items/weapon/greatsword/magna_dukes_taunting_blade.png",
       "perk": {
         "description": "Upon landing Valiant Brawl, there is a 42% chance to apply Weaken: Provoke for 3s",
-        "image": "tl-builder/images/items/weapon/greatsword/magna_dukes_taunting_blade-perk.png",
+        "image": "./images/items/weapon/greatsword/magna_dukes_taunting_blade-perk.png",
         "title": "Magna Duke's Taunt"
       },
       "stats": {
@@ -1339,10 +1339,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0004",
-      "image": "tl-builder/images/items/weapon/greatsword/magnadukes_berserk_blade.png",
+      "image": "./images/items/weapon/greatsword/magnadukes_berserk_blade.png",
       "perk": {
         "description": "Melee Heavy Attack 95 ▲ for 6s upon inflicting Stun or Shock with Stunning Blow",
-        "image": "tl-builder/images/items/weapon/greatsword/magnadukes_berserk_blade-perk.png",
+        "image": "./images/items/weapon/greatsword/magnadukes_berserk_blade-perk.png",
         "title": "Magna Duke's Berserk"
       },
       "stats": {
@@ -1369,10 +1369,10 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0005",
-      "image": "tl-builder/images/items/weapon/greatsword/tevents_despair_blade.png",
+      "image": "./images/items/weapon/greatsword/tevents_despair_blade.png",
       "perk": {
         "description": "Applies Weaken: Poison that deals 25 damage to the target every second for 6s upon using a skill. Cooldown 10s",
-        "image": "tl-builder/images/items/weapon/greatsword/tevents_despair_blade-perk.png",
+        "image": "./images/items/weapon/greatsword/tevents_despair_blade-perk.png",
         "title": "Не все названия есть"
       },
       "stats": {
@@ -1400,7 +1400,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0006",
-      "image": "tl-builder/images/items/weapon/greatsword/morokais_corrupt_sword.png",
+      "image": "./images/items/weapon/greatsword/morokais_corrupt_sword.png",
       "stats": {
         "attack_range": 2.5,
         "attack_speed": 0.675,
@@ -1426,7 +1426,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0007",
-      "image": "tl-builder/images/items/weapon/greatsword/corrupt_specters_blade.png",
+      "image": "./images/items/weapon/greatsword/corrupt_specters_blade.png",
       "stats": {
         "attack_range": 2.75,
         "attack_speed": 0.675,
@@ -1451,7 +1451,7 @@
       "level": 0,
       "tier": "epic",
       "id": "w-greatsword-0008",
-      "image": "tl-builder/images/items/weapon/greatsword/special_resistance_broadsword.png",
+      "image": "./images/items/weapon/greatsword/special_resistance_broadsword.png",
       "stats": {
         "attack_range": 2.75,
         "attack_speed": 0.709,
@@ -1478,7 +1478,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0003",
-      "image": "tl-builder/images/items/cloak/hermits_shroud.png",
+      "image": "./images/items/cloak/hermits_shroud.png",
       "stats": {
         "magic_evasion": 37,
         "melee_defense": 142,
@@ -1502,7 +1502,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0001",
-      "image": "tl-builder/images/items/cloak/archpriests_devotion.png",
+      "image": "./images/items/cloak/archpriests_devotion.png",
       "stats": {
         "cooldown_speed": 0.8,
         "critical_hit": 50,
@@ -1526,7 +1526,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0002",
-      "image": "tl-builder/images/items/cloak/commandants_grandeur.png",
+      "image": "./images/items/cloak/commandants_grandeur.png",
       "stats": {
         "damage_reduction": 10,
         "max_health": 425,
@@ -1549,7 +1549,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0005",
-      "image": "tl-builder/images/items/cloak/lethal_venom_scorpion_cloak.png",
+      "image": "./images/items/cloak/lethal_venom_scorpion_cloak.png",
       "stats": {
         "cooldown_speed": 1.3,
         "melee_defense": 135,
@@ -1572,7 +1572,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0004",
-      "image": "tl-builder/images/items/cloak/holy_warriors_resolve.png",
+      "image": "./images/items/cloak/holy_warriors_resolve.png",
       "stats": {
         "collision_resistance": 33,
         "damage_reduction": 4,
@@ -1595,7 +1595,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0006",
-      "image": "tl-builder/images/items/cloak/spectral_shadow.webp",
+      "image": "./images/items/cloak/spectral_shadow.webp",
       "stats": {
         "melee_defense": 135,
         "ranged_defense": 135,
@@ -1619,7 +1619,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0007",
-      "image": "tl-builder/images/items/cloak/annihilators_wings.webp",
+      "image": "./images/items/cloak/annihilators_wings.webp",
       "stats": {
         "melee_defense": 135,
         "ranged_defense": 135,
@@ -1643,7 +1643,7 @@
       "level": 0,
       "tier": "epic",
       "id": "c-0008",
-      "image": "tl-builder/images/items/cloak/slaughterers_cover.webp",
+      "image": "./images/items/cloak/slaughterers_cover.webp",
       "stats": {
         "melee_defense": 135,
         "ranged_defense": 135,
@@ -1669,7 +1669,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0005",
-      "image": "tl-builder/images/items/head/grand_generals_command_visor.png",
+      "image": "./images/items/head/grand_generals_command_visor.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -1704,7 +1704,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0002",
-      "image": "tl-builder/images/items/head/ghost_wolf_alter_ego_mask.webp",
+      "image": "./images/items/head/ghost_wolf_alter_ego_mask.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -1740,7 +1740,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0003",
-      "image": "tl-builder/images/items/head/breath_of_mother_nature_hat.png",
+      "image": "./images/items/head/breath_of_mother_nature_hat.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -1776,7 +1776,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0004",
-      "image": "tl-builder/images/items/head/generals_fury_headgear.png",
+      "image": "./images/items/head/generals_fury_headgear.png",
       "setInfo": {
         "setName": "imperator_set",
         "setTitle": "Part of the Imperator Set",
@@ -1812,7 +1812,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0011",
-      "image": "tl-builder/images/items/head/reapers_black_mask.png",
+      "image": "./images/items/head/reapers_black_mask.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -1848,7 +1848,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0001",
-      "image": "tl-builder/images/items/head/transcendental_clairvoyance.webp",
+      "image": "./images/items/head/transcendental_clairvoyance.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -1883,7 +1883,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0008",
-      "image": "tl-builder/images/items/head/hell_guides_visor.png",
+      "image": "./images/items/head/hell_guides_visor.png",
       "stats": {
         "critical_hit": 23,
         "melee_defense": 168,
@@ -1907,7 +1907,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0006",
-      "image": "tl-builder/images/items/head/grim_judicators_mask.png",
+      "image": "./images/items/head/grim_judicators_mask.png",
       "stats": {
         "critical_hit": 22,
         "melee_defense": 160,
@@ -1931,7 +1931,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0007",
-      "image": "tl-builder/images/items/head/heavenly_arbiter_mask.png",
+      "image": "./images/items/head/heavenly_arbiter_mask.png",
       "stats": {
         "critical_hit": 83,
         "dexterity": 3,
@@ -1954,7 +1954,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0009",
-      "image": "tl-builder/images/items/head/holy_warriors_judgment_headgear.png",
+      "image": "./images/items/head/holy_warriors_judgment_headgear.png",
       "stats": {
         "critical_hit": 7,
         "mana_regen": 10.5,
@@ -1978,7 +1978,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0015",
-      "image": "tl-builder/images/items/head/wind_soul_minds_eye.png",
+      "image": "./images/items/head/wind_soul_minds_eye.png",
       "stats": {
         "critical_hit": 50,
         "hit": 77,
@@ -2001,7 +2001,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0010",
-      "image": "tl-builder/images/items/head/pitch_black_sorcery_hat.png",
+      "image": "./images/items/head/pitch_black_sorcery_hat.png",
       "stats": {
         "melee_defense": 160,
         "perception": 1,
@@ -2025,7 +2025,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0014",
-      "image": "tl-builder/images/items/head/special_resistance_tactical_headgear.png",
+      "image": "./images/items/head/special_resistance_tactical_headgear.png",
       "stats": {
         "health_regen": 30.75,
         "max_health": 525,
@@ -2048,7 +2048,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0012",
-      "image": "tl-builder/images/items/head/special_resistance_ancient_dragon_mask.png",
+      "image": "./images/items/head/special_resistance_ancient_dragon_mask.png",
       "stats": {
         "critical_hit": 72,
         "melee_defense": 160,
@@ -2071,7 +2071,7 @@
       "level": 0,
       "tier": "epic",
       "id": "h-0013",
-      "image": "tl-builder/images/items/head/special_resistance_magic_hat.png",
+      "image": "./images/items/head/special_resistance_magic_hat.png",
       "stats": {
         "critical_hit": 58,
         "max_mana": 635,
@@ -2096,7 +2096,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0005",
-      "image": "tl-builder/images/items/body/grand_generals_unbeaten_armor.png",
+      "image": "./images/items/body/grand_generals_unbeaten_armor.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2131,7 +2131,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0002",
-      "image": "tl-builder/images/items/body/ghost_wolf_alter_ego_armor.webp",
+      "image": "./images/items/body/ghost_wolf_alter_ego_armor.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2167,7 +2167,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0004",
-      "image": "tl-builder/images/items/body/miracle_of_mother_nature_clothing.png",
+      "image": "./images/items/body/miracle_of_mother_nature_clothing.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2203,7 +2203,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0003",
-      "image": "tl-builder/images/items/body/generals_thunder_heart.png",
+      "image": "./images/items/body/generals_thunder_heart.png",
       "steInfo": {
         "setEffects": {
           "four_items": {
@@ -2239,7 +2239,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0006",
-      "image": "tl-builder/images/items/body/reapers_concealing_shroud.png",
+      "image": "./images/items/body/reapers_concealing_shroud.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2275,7 +2275,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0001",
-      "image": "tl-builder/images/items/body/transcendental_saint_raiment.webp",
+      "image": "./images/items/body/transcendental_saint_raiment.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2311,7 +2311,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0009",
-      "image": "tl-builder/images/items/body/hell_guides_armor.png",
+      "image": "./images/items/body/hell_guides_armor.png",
       "stats": {
         "dexterity": 3,
         "melee_defense": 178,
@@ -2333,7 +2333,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0007",
-      "image": "tl-builder/images/items/body/grim_judicators_armor.png",
+      "image": "./images/items/body/grim_judicators_armor.png",
       "stats": {
         "critical_hit": 40,
         "melee_defense": 170,
@@ -2357,7 +2357,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0008",
-      "image": "tl-builder/images/items/body/heavenly_arbiter_attire.png",
+      "image": "./images/items/body/heavenly_arbiter_attire.png",
       "stats": {
         "melee_defense": 162,
         "ranged_defense": 144,
@@ -2380,7 +2380,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0010",
-      "image": "tl-builder/images/items/body/holy_warriors_sacred_armor.png",
+      "image": "./images/items/body/holy_warriors_sacred_armor.png",
       "stats": {
         "mana_regen": 7.5,
         "melee_defense": 280,
@@ -2403,7 +2403,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0015",
-      "image": "tl-builder/images/items/body/wind_soul_blessed_armor.png",
+      "image": "./images/items/body/wind_soul_blessed_armor.png",
       "stats": {
         "max_health": 650,
         "melee_defense": 178,
@@ -2426,7 +2426,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0011",
-      "image": "tl-builder/images/items/body/pitch_black_celebration_cloth.png",
+      "image": "./images/items/body/pitch_black_celebration_cloth.png",
       "stats": {
         "critical_hit": 46,
         "hit": 40,
@@ -2450,7 +2450,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0014",
-      "image": "tl-builder/images/items/body/special_resistance_tactical_armor.png",
+      "image": "./images/items/body/special_resistance_tactical_armor.png",
       "stats": {
         "max_health": 605,
         "melee_defense": 178,
@@ -2473,7 +2473,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0012",
-      "image": "tl-builder/images/items/body/special_resistance_ancient_dragon_armor.png",
+      "image": "./images/items/body/special_resistance_ancient_dragon_armor.png",
       "stats": {
         "dexterity": 2,
         "hit": 40,
@@ -2496,7 +2496,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0013",
-      "image": "tl-builder/images/items/body/special_resistance_magic_garb.png",
+      "image": "./images/items/body/special_resistance_magic_garb.png",
       "stats": {
         "mana_regen": 52.5,
         "max_health": 545,
@@ -2521,7 +2521,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0005",
-      "image": "tl-builder/images/items/legs/grand_generals_invincibility_gaiters.webp",
+      "image": "./images/items/legs/grand_generals_invincibility_gaiters.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2556,7 +2556,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0002",
-      "image": "tl-builder/images/items/legs/ghost_wolf_alter_ego_pants.webp",
+      "image": "./images/items/legs/ghost_wolf_alter_ego_pants.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2592,7 +2592,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0009",
-      "image": "tl-builder/images/items/legs/mysteries_of_mother_nature_pants.webp",
+      "image": "./images/items/legs/mysteries_of_mother_nature_pants.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2628,7 +2628,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0004",
-      "image": "tl-builder/images/items/legs/generals_melee_gaiters.webp",
+      "image": "./images/items/legs/generals_melee_gaiters.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2663,7 +2663,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0011",
-      "image": "tl-builder/images/items/legs/reapers_interring_pants.webp",
+      "image": "./images/items/legs/reapers_interring_pants.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2699,7 +2699,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0001",
-      "image": "tl-builder/images/items/legs/transcendental_salvation_pants.webp",
+      "image": "./images/items/legs/transcendental_salvation_pants.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2735,7 +2735,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0003",
-      "image": "tl-builder/images/items/legs/black_lion_black_gaiters.png",
+      "image": "./images/items/legs/black_lion_black_gaiters.png",
       "stats": {
         "damage_reduction": 4,
         "dexterity": 1,
@@ -2759,7 +2759,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0006",
-      "image": "tl-builder/images/items/legs/grim_judicators_pants.webp",
+      "image": "./images/items/legs/grim_judicators_pants.webp",
       "stats": {
         "dexterity": 2,
         "melee_defense": 160,
@@ -2783,7 +2783,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0007",
-      "image": "tl-builder/images/items/legs/heavenly_arbiter_pants.webp",
+      "image": "./images/items/legs/heavenly_arbiter_pants.webp",
       "stats": {
         "critical_hit": 40,
         "dexterity": 3,
@@ -2807,7 +2807,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0008",
-      "image": "tl-builder/images/items/legs/hell_guidess_gaiters.webp",
+      "image": "./images/items/legs/hell_guidess_gaiters.webp",
       "stats": {
         "melee_defense": 168,
         "perception": 2,
@@ -2830,7 +2830,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0015",
-      "image": "tl-builder/images/items/legs/wind_soul_mist_pants.webp",
+      "image": "./images/items/legs/wind_soul_mist_pants.webp",
       "stats": {
         "mana_regen": 65.25,
         "melee_defense": 168,
@@ -2853,7 +2853,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0010",
-      "image": "tl-builder/images/items/legs/pitch_black_dark_pants.webp",
+      "image": "./images/items/legs/pitch_black_dark_pants.webp",
       "stats": {
         "melee_defense": 160,
         "ranged_defense": 128,
@@ -2876,7 +2876,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0014",
-      "image": "tl-builder/images/items/legs/special_resistance_tactical_gaiters.webp",
+      "image": "./images/items/legs/special_resistance_tactical_gaiters.webp",
       "stats": {
         "max_health": 375,
         "melee_defense": 152,
@@ -2899,7 +2899,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0012",
-      "image": "tl-builder/images/items/legs/special_resistance_ancient_dragon_pants.webp",
+      "image": "./images/items/legs/special_resistance_ancient_dragon_pants.webp",
       "stats": {
         "max_health": 600,
         "melee_defense": 160,
@@ -2922,7 +2922,7 @@
       "level": 0,
       "tier": "epic",
       "id": "l-0013",
-      "image": "tl-builder/images/items/legs/special_resistance_judgment_pants.webp",
+      "image": "./images/items/legs/special_resistance_judgment_pants.webp",
       "stats": {
         "critical_hit": 50,
         "max_mana": 695,
@@ -2947,7 +2947,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0005",
-      "image": "tl-builder/images/items/gloves/grand_generals_strike_gloves.png",
+      "image": "./images/items/gloves/grand_generals_strike_gloves.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -2983,7 +2983,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0002",
-      "image": "tl-builder/images/items/gloves/ghost_wolf_incision_gloves.webp",
+      "image": "./images/items/gloves/ghost_wolf_incision_gloves.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3019,7 +3019,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0015",
-      "image": "tl-builder/images/items/gloves/touch_of_mother_nature_gloves.png",
+      "image": "./images/items/gloves/touch_of_mother_nature_gloves.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3055,7 +3055,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0004",
-      "image": "tl-builder/images/items/gloves/generals_frenzy_gloves.png",
+      "image": "./images/items/gloves/generals_frenzy_gloves.png",
       "seInfo": {
         "setEffects": {
           "four_items": {
@@ -3090,7 +3090,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0014",
-      "image": "tl-builder/images/items/gloves/reapers_hand_of_death.png",
+      "image": "./images/items/gloves/reapers_hand_of_death.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3126,7 +3126,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0001",
-      "image": "tl-builder/images/items/gloves/transcendental_mystery_gloves.webp",
+      "image": "./images/items/gloves/transcendental_mystery_gloves.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3161,7 +3161,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0008",
-      "image": "tl-builder/images/items/gloves/hell_guides_gloves.png",
+      "image": "./images/items/gloves/hell_guides_gloves.png",
       "stats": {
         "bind_resistance": 26,
         "dexterity": 1,
@@ -3185,7 +3185,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0006",
-      "image": "tl-builder/images/items/gloves/grim_judicators_touch.png",
+      "image": "./images/items/gloves/grim_judicators_touch.png",
       "stats": {
         "attack_speed_bonus": 2.4,
         "mana_regen": 15,
@@ -3209,7 +3209,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0007",
-      "image": "tl-builder/images/items/gloves/heavenly_arbiter_gloves.png",
+      "image": "./images/items/gloves/heavenly_arbiter_gloves.png",
       "stats": {
         "attack_speed_bonus": 2.4,
         "dexterity": 2,
@@ -3233,7 +3233,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0003",
-      "image": "tl-builder/images/items/gloves/black_lion_brutality.png",
+      "image": "./images/items/gloves/black_lion_brutality.png",
       "stats": {
         "attack_speed_bonus": 1.8,
         "collision_chance": 17,
@@ -3257,7 +3257,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0013",
-      "image": "tl-builder/images/items/gloves/wind_soul_thunder_gloves.png",
+      "image": "./images/items/gloves/wind_soul_thunder_gloves.png",
       "stats": {
         "hit": 67,
         "magic_evasion": 60,
@@ -3280,7 +3280,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0009",
-      "image": "tl-builder/images/items/gloves/pitch_black_punishment_gloves.png",
+      "image": "./images/items/gloves/pitch_black_punishment_gloves.png",
       "stats": {
         "critical_hit": 60,
         "mana_regen": 19.5,
@@ -3304,7 +3304,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0012",
-      "image": "tl-builder/images/items/gloves/special_resistance_tactical_gloves.png",
+      "image": "./images/items/gloves/special_resistance_tactical_gloves.png",
       "stats": {
         "hit": 50,
         "melee_defense": 158,
@@ -3327,7 +3327,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0010",
-      "image": "tl-builder/images/items/gloves/special_resistance_ancient_dragon_gloves.png",
+      "image": "./images/items/gloves/special_resistance_ancient_dragon_gloves.png",
       "stats": {
         "melee_defense": 158,
         "ranged_defense": 142,
@@ -3350,7 +3350,7 @@
       "level": 0,
       "tier": "epic",
       "id": "g-0011",
-      "image": "tl-builder/images/items/gloves/special_resistance_judgment_gloves.png",
+      "image": "./images/items/gloves/special_resistance_judgment_gloves.png",
       "stats": {
         "hit": 63,
         "melee_defense": 142,
@@ -3375,7 +3375,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0015",
-      "image": "tl-builder/images/items/boots/grand_generals_vanguard_boots.png",
+      "image": "./images/items/boots/grand_generals_vanguard_boots.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3411,7 +3411,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0002",
-      "image": "tl-builder/images/items/boots/ghost_wolf_stealth_boots.webp",
+      "image": "./images/items/boots/ghost_wolf_stealth_boots.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3447,7 +3447,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0005",
-      "image": "tl-builder/images/items/boots/resonance_of_mother_nature_boots.png",
+      "image": "./images/items/boots/resonance_of_mother_nature_boots.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3483,7 +3483,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0003",
-      "image": "tl-builder/images/items/boots/generals_charge_boots.png",
+      "image": "./images/items/boots/generals_charge_boots.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3518,7 +3518,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0004",
-      "image": "tl-builder/images/items/boots/reapers_footsteps.png",
+      "image": "./images/items/boots/reapers_footsteps.png",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3554,7 +3554,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0001",
-      "image": "tl-builder/images/items/boots/transcendental_wing_shoes.webp",
+      "image": "./images/items/boots/transcendental_wing_shoes.webp",
       "setInfo": {
         "setEffects": {
           "four_items": {
@@ -3589,7 +3589,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0009",
-      "image": "tl-builder/images/items/boots/hell_guides_boots.png",
+      "image": "./images/items/boots/hell_guides_boots.png",
       "stats": {
         "dexterity": 2,
         "melee_defense": 158,
@@ -3613,7 +3613,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0007",
-      "image": "tl-builder/images/items/boots/grim_judicators_footsteps.png",
+      "image": "./images/items/boots/grim_judicators_footsteps.png",
       "stats": {
         "dexterity": 2,
         "melee_defense": 150,
@@ -3637,7 +3637,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0008",
-      "image": "tl-builder/images/items/boots/heavenly_arbiter_shoes.png",
+      "image": "./images/items/boots/heavenly_arbiter_shoes.png",
       "stats": {
         "melee_defense": 142,
         "move_speed_bonus": 2.8,
@@ -3660,7 +3660,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0006",
-      "image": "tl-builder/images/items/boots/black_lion_dash.png",
+      "image": "./images/items/boots/black_lion_dash.png",
       "stats": {
         "melee_defense": 158,
         "melee_evasion": 41,
@@ -3684,7 +3684,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0014",
-      "image": "tl-builder/images/items/boots/wind_soul_gust_boots.png",
+      "image": "./images/items/boots/wind_soul_gust_boots.png",
       "stats": {
         "bind_chance": 96,
         "critical_hit": 50,
@@ -3707,7 +3707,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0010",
-      "image": "tl-builder/images/items/boots/pitch_black_silence_shoes.png",
+      "image": "./images/items/boots/pitch_black_silence_shoes.png",
       "stats": {
         "max_mana": 300,
         "melee_defense": 150,
@@ -3731,7 +3731,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0013",
-      "image": "tl-builder/images/items/boots/special_resistance_tactical_boots.png",
+      "image": "./images/items/boots/special_resistance_tactical_boots.png",
       "stats": {
         "mana_regen": 15,
         "melee_defense": 182,
@@ -3753,7 +3753,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0011",
-      "image": "tl-builder/images/items/boots/special_resistance_ancient_dragon_boots.png",
+      "image": "./images/items/boots/special_resistance_ancient_dragon_boots.png",
       "stats": {
         "critical_hit": 70,
         "melee_defense": 158,
@@ -3776,7 +3776,7 @@
       "level": 0,
       "tier": "epic",
       "id": "b-0012",
-      "image": "tl-builder/images/items/boots/special_resistance_judgment_boots.png",
+      "image": "./images/items/boots/special_resistance_judgment_boots.png",
       "stats": {
         "hit": 80,
         "melee_defense": 142,
@@ -3801,7 +3801,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0001",
-      "image": "tl-builder/images/items/necklace/abyss_flame_necklace.png",
+      "image": "./images/items/necklace/abyss_flame_necklace.png",
       "stats": {
         "magic_defense": 180,
         "mana_cost_efficiency": 7.7,
@@ -3823,7 +3823,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0002",
-      "image": "tl-builder/images/items/necklace/destroyers_choker.png",
+      "image": "./images/items/necklace/destroyers_choker.png",
       "stats": {
         "cooldown_speed": 1.6,
         "critical_hit": 35,
@@ -3846,7 +3846,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0003",
-      "image": "tl-builder/images/items/necklace/great_sages_necklace.png",
+      "image": "./images/items/necklace/great_sages_necklace.png",
       "stats": {
         "magic_defense": 180,
         "mana_regen": 20.25,
@@ -3869,7 +3869,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0004",
-      "image": "tl-builder/images/items/necklace/holy_warriors_choker.png",
+      "image": "./images/items/necklace/holy_warriors_choker.png",
       "stats": {
         "cooldown_speed": 2,
         "magic_defense": 180,
@@ -3892,7 +3892,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0005",
-      "image": "tl-builder/images/items/necklace/slaughterers_collar.png",
+      "image": "./images/items/necklace/slaughterers_collar.png",
       "stats": {
         "magic_defense": 180,
         "melee_evasion": 47,
@@ -3914,7 +3914,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0006",
-      "image": "tl-builder/images/items/necklace/abyss_conquerors_necklace.png",
+      "image": "./images/items/necklace/abyss_conquerors_necklace.png",
       "stats": {
         "magic_defense": 180,
         "perception": 2,
@@ -3937,7 +3937,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0007",
-      "image": "tl-builder/images/items/necklace/thunderstorm_necklace.png",
+      "image": "./images/items/necklace/thunderstorm_necklace.png",
       "stats": {
         "magic_defense": 180,
         "perception": 2,
@@ -3960,7 +3960,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0008",
-      "image": "tl-builder/images/items/necklace/absolute_bulwark_necklace.png",
+      "image": "./images/items/necklace/absolute_bulwark_necklace.png",
       "stats": {
         "magic_defense": 180,
         "bind_resistance": 25,
@@ -3984,7 +3984,7 @@
       "level": 0,
       "tier": "epic",
       "id": "n-0009",
-      "image": "tl-builder/images/items/necklace/thunder_cleaver_necklace.png",
+      "image": "./images/items/necklace/thunder_cleaver_necklace.png",
       "stats": {
         "magic_defense": 180,
         "dexterity": 4,
@@ -4008,7 +4008,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0001",
-      "image": "tl-builder/images/items/bracelet/abyssal_wind_wristband.png",
+      "image": "./images/items/bracelet/abyssal_wind_wristband.png",
       "stats": {
         "bind_chance": 62,
         "magic_defense": 180,
@@ -4030,7 +4030,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0002",
-      "image": "tl-builder/images/items/bracelet/beast_kings_gilded_bracers.png",
+      "image": "./images/items/bracelet/beast_kings_gilded_bracers.png",
       "stats": {
         "damage_bonus": 7,
         "magic_defense": 180,
@@ -4052,7 +4052,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0003",
-      "image": "tl-builder/images/items/bracelet/specters_frost_bracers.png",
+      "image": "./images/items/bracelet/specters_frost_bracers.png",
       "stats": {
         "dexterity": 2,
         "magic_defense": 180,
@@ -4075,7 +4075,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0004",
-      "image": "tl-builder/images/items/bracelet/wild_gold_bracers.png",
+      "image": "./images/items/bracelet/wild_gold_bracers.png",
       "stats": {
         "health_regen": 67.5,
         "magic_defense": 180,
@@ -4097,7 +4097,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0005",
-      "image": "tl-builder/images/items/bracelet/worshipers_magic_bracers.png",
+      "image": "./images/items/bracelet/worshipers_magic_bracers.png",
       "stats": {
         "damage_bonus": 4,
         "hit": 40,
@@ -4120,7 +4120,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0006",
-      "image": "tl-builder/images/items/bracelet/unbeatable_bracers.png",
+      "image": "./images/items/bracelet/unbeatable_bracers.png",
       "stats": {
         "strength": 2,
         "bind_resistance": 43,
@@ -4143,7 +4143,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0007",
-      "image": "tl-builder/images/items/bracelet/transcendental_priests_bracelet.png",
+      "image": "./images/items/bracelet/transcendental_priests_bracelet.png",
       "stats": {
         "magic_defense": 180,
         "wisdom": 2,
@@ -4166,7 +4166,7 @@
       "level": 0,
       "tier": "epic",
       "id": "bracelet-0008",
-      "image": "tl-builder/images/items/bracelet/immortal_warriors_bracers.png",
+      "image": "./images/items/bracelet/immortal_warriors_bracers.png",
       "stats": {
         "magic_defense": 180,
         "max_health": 375,
@@ -4191,7 +4191,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0001",
-      "image": "tl-builder/images/items/belt/magna_dukes_belt.png",
+      "image": "./images/items/belt/magna_dukes_belt.png",
       "stats": {
         "damage_reduction": 6,
         "magic_defense": 180,
@@ -4214,7 +4214,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0002",
-      "image": "tl-builder/images/items/belt/rex_chimaeruss_demonic_beast_hide.png",
+      "image": "./images/items/belt/rex_chimaeruss_demonic_beast_hide.png",
       "stats": {
         "magic_defense": 180,
         "melee_defense": 134,
@@ -4236,7 +4236,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0003",
-      "image": "tl-builder/images/items/belt/skulls_spectral_belt.png",
+      "image": "./images/items/belt/skulls_spectral_belt.png",
       "stats": {
         "dexterity": 2,
         "magic_defense": 180,
@@ -4259,7 +4259,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0004",
-      "image": "tl-builder/images/items/belt/tukuns_cast_iron_belt.png",
+      "image": "./images/items/belt/tukuns_cast_iron_belt.png",
       "stats": {
         "collision_resistance": 33,
         "magic_defense": 180,
@@ -4282,7 +4282,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0005",
-      "image": "tl-builder/images/items/belt/tycans_bloodlust_belt.png",
+      "image": "./images/items/belt/tycans_bloodlust_belt.png",
       "stats": {
         "magic_defense": 180,
         "max_health": 200,
@@ -4305,7 +4305,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0006",
-      "image": "tl-builder/images/items/belt/forbidden_eternal_chain.png",
+      "image": "./images/items/belt/forbidden_eternal_chain.png",
       "stats": {
         "magic_defense": 280,
         "max_health": 500,
@@ -4327,7 +4327,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0007",
-      "image": "tl-builder/images/items/belt/forbidden_reverberation_chain.png",
+      "image": "./images/items/belt/forbidden_reverberation_chain.png",
       "stats": {
         "magic_defense": 180,
         "mana_regen": 12.75,
@@ -4350,7 +4350,7 @@
       "level": 0,
       "tier": "epic",
       "id": "belt-0008",
-      "image": "tl-builder/images/items/belt/forbidden_liberation_chain.png",
+      "image": "./images/items/belt/forbidden_liberation_chain.png",
       "stats": {
         "magic_defense": 180,
         "ranged_endurance": 60,
@@ -4375,7 +4375,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0001",
-      "image": "tl-builder/images/items/ring/abyssal_crystal_ring.png",
+      "image": "./images/items/ring/abyssal_crystal_ring.png",
       "stats": {
         "attack_speed_bonus": 3.3,
         "magic_defense": 180,
@@ -4397,7 +4397,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0002",
-      "image": "tl-builder/images/items/ring/barbarians_stone_ring.png",
+      "image": "./images/items/ring/barbarians_stone_ring.png",
       "stats": {
         "collision_chance": 50,
         "health_regen": 65.25,
@@ -4419,7 +4419,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0003",
-      "image": "tl-builder/images/items/ring/eternal_ring_of_dimension.png",
+      "image": "./images/items/ring/eternal_ring_of_dimension.png",
       "setInfo": {
         "setEffects": {
           "two_items": {
@@ -4451,7 +4451,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0004",
-      "image": "tl-builder/images/items/ring/insightful_ring_of_dimension.png",
+      "image": "./images/items/ring/insightful_ring_of_dimension.png",
       "setInfo": {
         "setEffects": {
           "two_items": {
@@ -4483,7 +4483,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0005",
-      "image": "tl-builder/images/items/ring/indomitable_ring_of_dimension.png",
+      "image": "./images/items/ring/indomitable_ring_of_dimension.png",
       "stats": {
         "magic_defense": 180
       },
@@ -4503,7 +4503,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0006",
-      "image": "tl-builder/images/items/ring/lethal_frost_ring.png",
+      "image": "./images/items/ring/lethal_frost_ring.png",
       "stats": {
         "dexterity": 4,
         "magic_defense": 180,
@@ -4525,7 +4525,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0007",
-      "image": "tl-builder/images/items/ring/transcendent_magic_ring.png",
+      "image": "./images/items/ring/transcendent_magic_ring.png",
       "stats": {
         "dexterity": 1,
         "magic_defense": 180,
@@ -4549,7 +4549,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0008",
-      "image": "tl-builder/images/items/ring/unshakeable_gold_ring.png",
+      "image": "./images/items/ring/unshakeable_gold_ring.png",
       "stats": {
         "attack_speed_bonus": 1.8,
         "magic_defense": 180,
@@ -4572,7 +4572,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0009",
-      "image": "tl-builder/images/items/ring/fallen_angels_band.webp",
+      "image": "./images/items/ring/fallen_angels_band.webp",
       "stats": {
         "magic_defense": 180,
         "wisdom": 2,
@@ -4595,7 +4595,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0010",
-      "image": "tl-builder/images/items/ring/deadeye_band.webp",
+      "image": "./images/items/ring/deadeye_band.webp",
       "stats": {
         "magic_defense": 180,
         "perception": 2,
@@ -4618,7 +4618,7 @@
       "level": 0,
       "tier": "epic",
       "id": "ring-0011",
-      "image": "tl-builder/images/items/ring/silence_blade_band.webp",
+      "image": "./images/items/ring/silence_blade_band.webp",
       "stats": {
         "magic_defense": 180,
         "dexterity": 2,
