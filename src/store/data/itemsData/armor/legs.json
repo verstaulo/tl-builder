@@ -1,0 +1,411 @@
+[
+  {
+    "type": "legs_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0005",
+    "image": "./items/legs/grand_generals_invincibility_gaiters.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "shield_block_chance": 10
+        },
+        "two_items": {
+          "damage_reduction": 22
+        }
+      },
+      "setName": "chief_commander_set",
+      "setTitle": "Path of The Chief Commander Set"
+    },
+    "stats": {
+      "damage_reduction": 3,
+      "melee_defense": 160,
+      "ranged_defense": 42,
+      "strength": 2
+    },
+    "title": "Grand General's Invincibility Gaiters",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0002",
+    "image": "./items/legs/ghost_wolf_alter_ego_pants.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "off-hand_weapon_attack_chance_boost": 30
+        },
+        "two_items": {
+          "damage_bonus": 22
+        }
+      },
+      "setName": "ghost_wolf_set",
+      "setTitle": "Part of the Ghost Wolf Set"
+    },
+    "stats": {
+      "damage_reduction": 4,
+      "magic_evasion": 30,
+      "melee_defense": 152,
+      "perception": 2,
+      "ranged_defense": 168
+    },
+    "title": "Ghost Wolf Alter Ego Pants",
+    "traits": {
+      "debuff_duration": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0009",
+    "image": "./items/legs/mysteries_of_mother_nature_pants.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "bonus_range": 10
+        },
+        "two_items": {
+          "weaken_duration": 7.5
+        }
+      },
+      "setName": "mother_nature_set",
+      "setTitle": "Path of The Mother Nature Set"
+    },
+    "stats": {
+      "mana_cost_efficiency": 4,
+      "melee_defense": 144,
+      "ranged_defense": 144,
+      "weaken_chance": 41,
+      "wisdom": 2
+    },
+    "title": "Mysteries of Mother Nature Pants",
+    "traits": {
+      "debuff_duration": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "legs_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0004",
+    "image": "./items/legs/generals_melee_gaiters.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "mobility_skills_move_range": 10
+        },
+        "two_items": {
+          "melee_heavy_attack_chance": 150
+        }
+      },
+      "setName": "imperator_set",
+      "setTitle": "Path of The Imperator Set"
+    },
+    "stats": {
+      "dexterity": 1,
+      "melee_defense": 42,
+      "ranged_defense": 176,
+      "strength": 2
+    },
+    "title": "General's Melee Gaiters",
+    "traits": {
+      "debuff_duration": 2,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0011",
+    "image": "./items/legs/reapers_interring_pants.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "attack_speed_bonus": 10
+        },
+        "two_items": {
+          "critical_damage": 21
+        }
+      },
+      "setName": "death_set",
+      "setTitle": "Path of The Death Set"
+    },
+    "stats": {
+      "hit": 22,
+      "mana_regen": 11.25,
+      "melee_defense": 160,
+      "perception": 3,
+      "ranged_defense": 160
+    },
+    "title": "Reaper's Interring Pants",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0001",
+    "image": "./items/legs/transcendental_salvation_pants.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "skill_heal": 25
+        },
+        "two_items": {
+          "cooldown_speed": 7.5
+        }
+      },
+      "setName": "transcended_one_set",
+      "setTitle": "Part of the Transcended One Set"
+    },
+    "stats": {
+      "collision_resistance": 41,
+      "damage_reduction": 3,
+      "melee_defense": 152,
+      "ranged_defense": 136,
+      "wisdom": 3
+    },
+    "title": "Transcendental Salvation Pants",
+    "traits": {
+      "debuff_duration": 2,
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "legs_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0003",
+    "image": "./items/legs/black_lion_black_gaiters.png",
+    "stats": {
+      "damage_reduction": 4,
+      "dexterity": 1,
+      "melee_defense": 168,
+      "melee_evasion": 31,
+      "ranged_defense": 184
+    },
+    "title": "Black Lion Black Gaiters",
+    "traits": {
+      "debuff_duration": 2,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0006",
+    "image": "./items/legs/grim_judicators_pants.webp",
+    "stats": {
+      "dexterity": 2,
+      "melee_defense": 160,
+      "ranged_defense": 160,
+      "stamina_regen": 0.85,
+      "wisdom": 2
+    },
+    "title": "Grim Judicator's Pants",
+    "traits": {
+      "debuff_duration": 2,
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0007",
+    "image": "./items/legs/heavenly_arbiter_pants.webp",
+    "stats": {
+      "critical_hit": 40,
+      "dexterity": 3,
+      "melee_defense": 152,
+      "ranged_defense": 136,
+      "weaken_resistance": 16
+    },
+    "title": "Heavenly Arbiter Pants ",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "legs_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0008",
+    "image": "./items/legs/hell_guidess_gaiters.webp",
+    "stats": {
+      "melee_defense": 168,
+      "perception": 2,
+      "ranged_defense": 184,
+      "stun_chance": 88
+    },
+    "title": "Hell Guide's Gaiters",
+    "traits": {
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0015",
+    "image": "./items/legs/wind_soul_mist_pants.webp",
+    "stats": {
+      "mana_regen": 65.25,
+      "melee_defense": 168,
+      "ranged_defense": 152,
+      "wisdom": 2
+    },
+    "title": "Wind Soul Mist Pants",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0010",
+    "image": "./items/legs/pitch_black_dark_pants.webp",
+    "stats": {
+      "melee_defense": 160,
+      "ranged_defense": 128,
+      "sleep_chance": 75,
+      "weaken_chance": 103
+    },
+    "title": "Pitch Black Dark Pants",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "legs_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0014",
+    "image": "./items/legs/special_resistance_tactical_gaiters.webp",
+    "stats": {
+      "max_health": 375,
+      "melee_defense": 152,
+      "ranged_defense": 136,
+      "weaken_resistance": 76
+    },
+    "title": "Special Resistance Tactical Gaiters",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0012",
+    "image": "./items/legs/special_resistance_ancient_dragon_pants.webp",
+    "stats": {
+      "max_health": 600,
+      "melee_defense": 160,
+      "ranged_defense": 160,
+      "ranged_evasion": 47
+    },
+    "title": "Special Resistance Ancient Dragon Pants",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "legs_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "l-0013",
+    "image": "./items/legs/special_resistance_judgment_pants.webp",
+    "stats": {
+      "critical_hit": 50,
+      "max_mana": 695,
+      "melee_defense": 152,
+      "ranged_defense": 136
+    },
+    "title": "Special Resistance Judgment Pants",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  }
+]

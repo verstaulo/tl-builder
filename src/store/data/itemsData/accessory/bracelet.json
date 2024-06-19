@@ -1,0 +1,175 @@
+[
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0001",
+    "image": "./items/bracelet/abyssal_wind_wristband.png",
+    "stats": {
+      "bind_chance": 62,
+      "magic_defense": 180,
+      "mana_cost_efficiency": 7.7
+    },
+    "title": "Abyssal Wind Wristband",
+    "traits": {
+      "collision_resistance": 25,
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_resistance": 20,
+      "sleep_resistance": 25
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0002",
+    "image": "./items/bracelet/beast_kings_gilded_bracers.png",
+    "stats": {
+      "damage_bonus": 7,
+      "magic_defense": 180,
+      "perception": 4
+    },
+    "title": "Beast King's Gilded Bracers",
+    "traits": {
+      "collision_resistance": 25,
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "silence_resistance": 25,
+      "skill_damage_resistance": 20
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0003",
+    "image": "./items/bracelet/specters_frost_bracers.png",
+    "stats": {
+      "dexterity": 2,
+      "magic_defense": 180,
+      "mana_regen": 20.25,
+      "ranged_evasion": 30
+    },
+    "title": "Specter's Frost Bracers",
+    "traits": {
+      "bind_resistance": 25,
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_resistance": 20,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0004",
+    "image": "./items/bracelet/wild_gold_bracers.png",
+    "stats": {
+      "health_regen": 67.5,
+      "magic_defense": 180,
+      "weaken_resistance": 46
+    },
+    "title": "Wild Gold Bracers",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "sleep_resistance": 25,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0005",
+    "image": "./items/bracelet/worshipers_magic_bracers.png",
+    "stats": {
+      "damage_bonus": 4,
+      "hit": 40,
+      "magic_defense": 180,
+      "max_mana": 200
+    },
+    "title": "Worshiper's Magic Bracers",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "petrification_resistance": 25,
+      "skill_damage_resistance": 20,
+      "stun_resistance": 25
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0006",
+    "image": "./items/bracelet/unbeatable_bracers.png",
+    "stats": {
+      "strength": 2,
+      "bind_resistance": 43,
+      "magic_defense": 180,
+      "collision_resistance": 27
+    },
+    "title": "Unbeatable Bracers",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "collision_resistance": 25,
+      "skill_damage_resistance": 20,
+      "bind_resistance": 25
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0007",
+    "image": "./items/bracelet/transcendental_priests_bracelet.png",
+    "stats": {
+      "magic_defense": 180,
+      "wisdom": 2,
+      "max_mana": 300,
+      "stun_resistance": 21
+    },
+    "title": "Transcendental Priest's Bracelet",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "silence_resistance": 25,
+      "skill_damage_resistance": 20,
+      "stun_resistance": 25
+    }
+  },
+  {
+    "type": "bracelet",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "bracelet-0008",
+    "image": "./items/bracelet/immortal_warriors_bracers.png",
+    "stats": {
+      "magic_defense": 180,
+      "max_health": 375,
+      "magic_endurance": 50,
+      "hit": 22
+    },
+    "title": "Immortal Warrior's Bracers",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "weaken_resistance": 25,
+      "stun_resistance": 25
+    }
+  }
+]

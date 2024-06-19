@@ -1,0 +1,410 @@
+[
+  {
+    "type": "body_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0005",
+    "image": "./items/body/grand_generals_unbeaten_armor.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "shield_block_chance": 10
+        },
+        "two_items": {
+          "damage_reduction": 22
+        }
+      },
+      "setName": "chief_commander_set",
+      "setTitle": "Path of The Chief Commander Set"
+    },
+    "stats": {
+      "damage_reduction": 4,
+      "melee_defense": 170,
+      "ranged_defense": 204,
+      "strength": 4
+    },
+    "title": "Grand General's Unbeaten Armor",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0002",
+    "image": "./items/body/ghost_wolf_alter_ego_armor.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "off_hand_weapon_attack_chance_bonus": 30
+        },
+        "two_items": {
+          "damage_bonus": 22
+        }
+      },
+      "setName": "ghost_wolf_set",
+      "setTitle": "Ghost Wolf Set"
+    },
+    "stats": {
+      "magic_evasion": 40,
+      "melee_defense": 162,
+      "ranged_defense": 178,
+      "strength": 2,
+      "weaken_chance": 21
+    },
+    "title": "Ghost Wolf Alter Ego Armor",
+    "traits": {
+      "buff_duration": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0004",
+    "image": "./items/body/miracle_of_mother_nature_clothing.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "bonus_range": 10
+        },
+        "two_items": {
+          "weaken_duration": 7.5
+        }
+      },
+      "setName": "mother_nature_set",
+      "setTitle": "Part of the Mother Nature Set"
+    },
+    "stats": {
+      "dexterity": 3,
+      "heavy_attack_chance": 33,
+      "melee_defense": 153,
+      "ranged_defense": 153,
+      "wisdom": 1
+    },
+    "title": "Miracle of Mother Nature Clothing",
+    "traits": {
+      "buff_duration": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "body_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0003",
+    "image": "./items/body/generals_thunder_heart.png",
+    "steInfo": {
+      "setEffects": {
+        "four_items": {
+          "mobility_skills_move_range": 10
+        },
+        "two_items": {
+          "melee_heavy_attack_chance": 150
+        }
+      },
+      "setName": "imperator_set",
+      "setTitle": "Path of The Imperator Set"
+    },
+    "stats": {
+      "melee_defense": 187,
+      "perception": 1,
+      "ranged_defense": 187,
+      "strength": 2,
+      "stun_chance": 26
+    },
+    "title": "General's Thunder Heart",
+    "traits": {
+      "buff_duration": 2,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0006",
+    "image": "./items/body/reapers_concealing_shroud.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "attack_speed_bonus": 10
+        },
+        "two_items": {
+          "critical_damage": 21
+        }
+      },
+      "setName": "death_set",
+      "setTitle": "Path of The Death Set"
+    },
+    "stats": {
+      "bind_chance": 41,
+      "melee_defense": 170,
+      "ranged_defense": 170,
+      "ranged_evasion": 37,
+      "stamina_regen": 1.35
+    },
+    "title": "Reaper's Concealing Shroud",
+    "traits": {
+      "buff_duration": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0001",
+    "image": "./items/body/transcendental_saint_raiment.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "skill_heal": 25
+        },
+        "two_items": {
+          "cooldown_speed": 7.5
+        }
+      },
+      "setName": "transcended_one_set",
+      "setTitle": "Transcended One Set"
+    },
+    "stats": {
+      "max_health": 300,
+      "melee_defense": 162,
+      "perception": 2,
+      "ranged_defense": 144,
+      "stamina_regen": 1.65
+    },
+    "title": "Transcendental Saint Raiment",
+    "traits": {
+      "buff_duration": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "body_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0009",
+    "image": "./items/body/hell_guides_armor.png",
+    "stats": {
+      "dexterity": 3,
+      "melee_defense": 178,
+      "ranged_defense": 102
+    },
+    "title": "Hell Guide's Armor",
+    "traits": {
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0007",
+    "image": "./items/body/grim_judicators_armor.png",
+    "stats": {
+      "critical_hit": 40,
+      "melee_defense": 170,
+      "ranged_defense": 170,
+      "strength": 1,
+      "weaken_chance": 46
+    },
+    "title": "Grim Judicator's Armor",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0008",
+    "image": "./items/body/heavenly_arbiter_attire.png",
+    "stats": {
+      "melee_defense": 162,
+      "ranged_defense": 144,
+      "weaken_chance": 78,
+      "wisdom": 4
+    },
+    "title": "Heavenly Arbiter Attire",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "body_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0010",
+    "image": "./items/body/holy_warriors_sacred_armor.png",
+    "stats": {
+      "mana_regen": 7.5,
+      "melee_defense": 280,
+      "ranged_defense": 195,
+      "stamina_regen": 1
+    },
+    "title": "Holy Warrior's Sacred Armor",
+    "traits": {
+      "buff_duration": 2,
+      "mana_regen": 15,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0015",
+    "image": "./items/body/wind_soul_blessed_armor.png",
+    "stats": {
+      "max_health": 650,
+      "melee_defense": 178,
+      "perception": 2,
+      "ranged_defense": 162
+    },
+    "title": "Wind Soul Blessed Armor",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0011",
+    "image": "./items/body/pitch_black_celebration_cloth.png",
+    "stats": {
+      "critical_hit": 46,
+      "hit": 40,
+      "melee_defense": 170,
+      "melee_evasion": 27,
+      "ranged_defense": 136
+    },
+    "title": "Pitch Black Celebration Cloth",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "body_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0014",
+    "image": "./items/body/special_resistance_tactical_armor.png",
+    "stats": {
+      "max_health": 605,
+      "melee_defense": 178,
+      "melee_evasion": 60,
+      "ranged_defense": 195
+    },
+    "title": "Special Resistance Tactical Armor",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0012",
+    "image": "./items/body/special_resistance_ancient_dragon_armor.png",
+    "stats": {
+      "dexterity": 2,
+      "hit": 40,
+      "melee_defense": 170,
+      "ranged_defense": 170
+    },
+    "title": "Special Resistance Ancient Dragon Armor",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "body_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0013",
+    "image": "./items/body/special_resistance_magic_garb.png",
+    "stats": {
+      "mana_regen": 52.5,
+      "max_health": 545,
+      "melee_defense": 162,
+      "ranged_defense": 144
+    },
+    "title": "Special Resistance Magic Garb",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  }
+]

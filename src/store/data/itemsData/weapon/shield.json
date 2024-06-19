@@ -1,0 +1,198 @@
+[
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0001",
+    "image": "./items/weapon/shield/ahzreils_demonic_blade.png",
+    "perk": {
+      "description": "Restores 101 Mana whenever attacking with Shield Throw. Restores up to 5 times per skill cast",
+      "image": "./items/weapon/shield/ahzreils_demonic_blade-perk.png",
+      "title": "Ahzreil's Illusion"
+    },
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.605,
+      "main_max_damage": 132,
+      "main_min_damage": 68,
+      "mana_regen": 89.25,
+      "shield_block_chance": 10,
+      "damage_reduction": 12,
+      "strength": 6
+    },
+    "title": "Ahzreil's Demonic Blade",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0002",
+    "image": "./items/weapon/shield/chernobogs_beheading_sword.png",
+    "perk": {
+      "description": "Blocking a melee attack applies Sleep: Curse to the attacker for 3s (6s for monsters). Cooldown 17s",
+      "image": "./items/weapon/shield/chernobogs_beheading_sword-perk.png",
+      "title": "Chernobog's Incubus"
+    },
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.578,
+      "critical_hit": 69,
+      "dexterity": 4,
+      "main_max_damage": 106,
+      "main_min_damage": 58,
+      "shield_block_chance": 11,
+      "damage_reduction": 33
+    },
+    "title": "Chernobog's Beheading Sword",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0003",
+    "image": "./items/weapon/shield/nirmas_corrupt_sword.png",
+    "perk": {
+      "description": "Upon landing the Shield Strike, Stun the target for 0.3s.",
+      "image": "./items/weapon/shield/nirmas_corrupt_sword-perk.png",
+      "title": "Nirma's Shockwave"
+    },
+    "stats": {
+      "attack_range": 2.48,
+      "attack_speed": 0.632,
+      "main_max_damage": 115,
+      "main_min_damage": 63,
+      "max_health": 365,
+      "shield_block_chance": 19,
+      "damage_reduction": 24,
+      "wisdom": 5
+    },
+    "title": "Nirma's Corrupt Sword",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_cost_efficiency": 3,
+      "mana_regen": 15,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0004",
+    "image": "./items/weapon/shield/queen_bellandirs_blade.png",
+    "perk": {
+      "description": "On hit, Weakens the target, which applies -25 Base Damage for 4s. Cooldown 15s",
+      "image": "./items/weapon/shield/queen_bellandirs_blade-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.605,
+      "collision_chance": 50,
+      "main_max_damage": 120,
+      "main_min_damage": 68,
+      "shield_block_chance": 19,
+      "damage_reduction": 35,
+      "strength": 6
+    },
+    "title": "Queen Bellandir's Blade",
+    "traits": {
+      "critical_hit": 20,
+      "debuff_duration": 2,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "plantaria_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0005",
+    "image": "./items/weapon/shield/corneliuss_explosion_blade.png",
+    "stats": {
+      "attack_range": 2.48,
+      "attack_speed": 0.632,
+      "collision_chance": 198,
+      "main_max_damage": 115,
+      "main_min_damage": 63,
+      "perception": 6,
+      "shield_block_chance": 15,
+      "damage_reduction": 13
+    },
+    "title": "Cornelius's Explosion Blade",
+    "traits": {
+      "collision_chance": 25,
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0006",
+    "image": "./items/weapon/shield/karnixs_nether_sword.png",
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.522,
+      "einarden_damage_bonus": 8,
+      "main_max_damage": 85,
+      "main_min_damage": 46,
+      "max_health": 1005,
+      "shield_block_chance": 10,
+      "damage_reduction": 18,
+      "strength": 6
+    },
+    "title": "Karnix's Nether Sword",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "shield",
+    "gear": "epic",
+    "id": "w-shield-0007",
+    "image": "./items/weapon/shield/special_resistance_sword.png",
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.468,
+      "collision_chance": 142,
+      "main_max_damage": 70,
+      "main_min_damage": 38,
+      "max_health": 1050,
+      "shield_block_chance": 12,
+      "damage_reduction": 15
+    },
+    "title": "Special Resistance Sword",
+    "traits": {
+      "collision_chance": 25,
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  }
+]

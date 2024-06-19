@@ -1,0 +1,207 @@
+[
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0001",
+    "image": "./items/weapon/dagger/lequirus's_thorny_edge.webp",
+    "perk": {
+      "description": "Base Damage 23 ▲ for 3s upon using Mobility Skills",
+      "image": "./items/weapon/dagger/lequirus's_thorny_edge-perk.webp",
+      "title": "Lequirus's Gale Blade"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.518,
+      "critical_hit": 39,
+      "main_max_damage": 91,
+      "main_min_damage": 23,
+      "off_hand_max_damage": 91,
+      "off_hand_min_damage": 23,
+      "off_hand_weapon_attack_chance": 30,
+      "perception": 3,
+      "wisdom": 4
+    },
+    "title": "Lequirus's Thorny Edge",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0002",
+    "image": "./items/weapon/dagger/grieving_hand_of_death.png",
+    "stats": {
+      "attack_range": 2.2,
+      "attack_speed": 0.428,
+      "main_max_damage": 76,
+      "main_min_damage": 20,
+      "off_hand_max_damage": 76,
+      "off_hand_min_damage": 20,
+      "max_health": 855,
+      "off_hand_weapon_attack_chance": 20,
+      "strength": 7
+    },
+    "title": "Grieving Hand of Death",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0003",
+    "image": "./items/weapon/dagger/kowazans_twilight_blade.png",
+    "perk": {
+      "description": "At night, Melee Critical Hit 250 ▲",
+      "image": "./items/weapon/dagger/kowazans_twilight_blade-perk.png",
+      "title": "Kowazan's Mania"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.45,
+      "critical_hit": 89,
+      "dexterity": 3,
+      "main_max_damage": 132,
+      "main_min_damage": 21,
+      "off_hand_max_damage": 132,
+      "off_hand_min_damage": 21,
+      "off_hand_weapon_attack_chance": 20
+    },
+    "title": "Kowazan's Twilight Blade",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_cost_efficiency": 3
+    }
+  },
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0004",
+    "image": "./items/weapon/dagger/minezeroks_dagger.png",
+    "perk": {
+      "description": "On hit, has an 8% chance to apply Weaken: Curse, which applies -410 Melee Defense to the target for 3s",
+      "image": "./items/weapon/dagger/minezeroks_dagger-perk.png",
+      "title": "Minezerok's Bridle"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.495,
+      "main_max_damage": 111,
+      "main_min_damage": 27,
+      "off_hand_max_damage": 111,
+      "off_hand_min_damage": 27,
+      "off_hand_weapon_attack_chance": 21,
+      "stamina_regen": 6.95,
+      "wisdom": 6
+    },
+    "title": "Minezerok's Dagger",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0005",
+    "image": "./items/weapon/dagger/rex_chimaeruss_fang.png",
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.405,
+      "dexterity": 8,
+      "insectum_damage_bonus": 8,
+      "main_max_damage": 64,
+      "main_min_damage": 15,
+      "off_hand_max_damage": 64,
+      "off_hand_min_damage": 15,
+      "off_hand_weapon_attack_chance": 26,
+      "weaken_chance": 117
+    },
+    "title": "Rex Chimaerus's Fang",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0006",
+    "image": "./items/weapon/dagger/special_resistance_dagger.png",
+    "stats": {
+      "attack_range": 2.4,
+      "attack_speed": 0.472,
+      "critical_hit": 140,
+      "main_max_damage": 83,
+      "main_min_damage": 22,
+      "off_hand_max_damage": 83,
+      "off_hand_min_damage": 22,
+      "off_hand_weapon_attack_chance": 20,
+      "weaken_chance": 142
+    },
+    "title": "Special Resistance Dagger",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "dagger",
+    "gear": "epic",
+    "id": "w-d-0007",
+    "image": "./items/weapon/dagger/tevents_massacre_blade.png",
+    "perk": {
+      "description": "Melee, Ranged, Magic Evasion 120 ▲ for 4s on Critical Hit. Cooldown 15s",
+      "image": "./items/weapon/dagger/tevents_massacre_blade-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.495,
+      "critical_hit": 33,
+      "damage_bonus": 4,
+      "dexterity": 8,
+      "main_max_damage": 115,
+      "main_min_damage": 27,
+      "off_hand_max_damage": 115,
+      "off_hand_min_damage": 27,
+      "off_hand_weapon_attack_chance": 24
+    },
+    "title": "Tevent's Massacre Blade",
+    "traits": {
+      "buff_duration": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "mana_regen": 15
+    }
+  }
+]

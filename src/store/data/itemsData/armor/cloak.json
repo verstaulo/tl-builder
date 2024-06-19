@@ -1,0 +1,183 @@
+[
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0003",
+    "image": "./items/cloak/hermits_shroud.png",
+    "stats": {
+      "magic_evasion": 37,
+      "melee_defense": 142,
+      "ranged_defense": 128,
+      "ranged_evasion": 40,
+      "weaken_resistance": 25
+    },
+    "title": "Hermit's Shroud",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "silence_resistance": 25,
+      "skill_damage_resistance": 20,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0001",
+    "image": "./items/cloak/archpriests_devotion.png",
+    "stats": {
+      "cooldown_speed": 0.8,
+      "critical_hit": 50,
+      "mana_regen": 22.5,
+      "melee_defense": 135,
+      "ranged_defense": 135
+    },
+    "title": "Archpriest's Devotion",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "petrification_resistance": 25,
+      "skill_damage_resistance": 20,
+      "stun_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0002",
+    "image": "./items/cloak/commandants_grandeur.png",
+    "stats": {
+      "damage_reduction": 10,
+      "max_health": 425,
+      "melee_defense": 135,
+      "ranged_defense": 135
+    },
+    "title": "Commandant's Grandeur",
+    "traits": {
+      "bind_resistance": 25,
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0005",
+    "image": "./items/cloak/lethal_venom_scorpion_cloak.png",
+    "stats": {
+      "cooldown_speed": 1.3,
+      "melee_defense": 135,
+      "ranged_defense": 135,
+      "weaken_chance": 125
+    },
+    "title": "Lethal Venom Scorpion Cloak",
+    "traits": {
+      "bind_resistance": 25,
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_resistance": 20,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0004",
+    "image": "./items/cloak/holy_warriors_resolve.png",
+    "stats": {
+      "collision_resistance": 33,
+      "damage_reduction": 4,
+      "melee_defense": 80,
+      "ranged_defense": 142
+    },
+    "title": "Holy Warrior's Resolve",
+    "traits": {
+      "collision_resistance": 25,
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "sleep_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0006",
+    "image": "./items/cloak/spectral_shadow.webp",
+    "stats": {
+      "melee_defense": 135,
+      "ranged_defense": 135,
+      "damage_bonus": 4,
+      "attack_speed_bonus": 2.9,
+      "health_regen": 17.25
+    },
+    "title": "Spectral Shadow",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "collision_resistance": 25,
+      "stun_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0007",
+    "image": "./items/cloak/annihilators_wings.webp",
+    "stats": {
+      "melee_defense": 135,
+      "ranged_defense": 135,
+      "bonus_range": 3,
+      "bind_chance": 48,
+      "weaken_chance": 35
+    },
+    "title": "Annihilator's Wings",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_resistance": 20,
+      "silence_resistance": 25,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "cloak",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "c-0008",
+    "image": "./items/cloak/slaughterers_cover.webp",
+    "stats": {
+      "melee_defense": 135,
+      "ranged_defense": 135,
+      "melee_evasion": 60,
+      "bind_resistance": 55,
+      "stun_resistance": 28
+    },
+    "title": "Slaughterer's Cover",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "stun_resistance": 25,
+      "bind_resistance": 25
+    }
+  }
+]

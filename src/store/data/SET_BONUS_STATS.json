@@ -1,0 +1,24 @@
+{
+  "chief_commander_set": [
+    { "damage_reduction": 22 },
+    { "shield_block_chance": 10 }
+  ],
+  "death_set": [{ "critical_damage": 21 }, { "attack_speed_bonus": 10 }],
+  "ghost_wolf_set": [
+    { "damage_bonus": 22 },
+    { "off_hand_weapon_attack_chance": 30 }
+  ],
+  "imperator_set": [
+    { "melee_heavy_attack_chance": 150 },
+    { "mobility_skills_move_range": 10 }
+  ],
+  "mother_nature_set": [
+    { "weaken_duration_bonus": 7.5 },
+    { "bonus_range": 10 }
+  ],
+  "transcended_one_set": [
+    { "cooldown_speed": 7.5 },
+    { "skill_heal_bonus": 25 }
+  ],
+  "dimensional_chaos_set": [{ "stamina_regen": -10 }]
+}

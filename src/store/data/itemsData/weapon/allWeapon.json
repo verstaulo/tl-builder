@@ -1,0 +1,1422 @@
+[
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0001",
+    "image": "./items/weapon/staff/toubleks_thunderous_soul.png",
+    "perk": {
+      "description": "Melee, Ranged, Magic Critical Hit 30 ▲ per 1m of distance between you and the target",
+      "image": "./items/weapon/staff/toubleks_thunderous_soul-perk.webp",
+      "title": "Toublek's Boost"
+    },
+    "stats": {
+      "main_max_damage": 106,
+      "main_min_damage": 84,
+      "attack_range": 17.6,
+      "attack_speed": 0.709,
+      "bonus_range": 11.4,
+      "dexterity": 6
+    },
+    "title": "Toublek's Thunderous Soul",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "cooldown_speed": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0002",
+    "image": "./items/weapon/staff/taluss_resonance_staff.png",
+    "perk": {
+      "description": "When Stunned, trigger Petrification: Freeze for 1s to protect yourself. Cooldown 51s",
+      "image": "./items/weapon/staff/taluss_cold_stone-perk.png",
+      "title": "Talus's Cold Stone"
+    },
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.675,
+      "critical_hit": 129,
+      "dexterity": 6,
+      "main_max_damage": 125,
+      "main_min_damage": 68
+    },
+    "title": "Talus's Resonance Staff",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0003",
+    "image": "./items/weapon/staff/ariduss_dark_staff.png",
+    "perk": {
+      "description": "Collision Effect immune for once if staying in the same place for 5s. Deactivated when moving. Reactivation Limitation Time: 45",
+      "image": "./items/weapon/staff/ariduss_dark_staff-perk.png",
+      "title": "Aridus's Barrier"
+    },
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.709,
+      "main_max_damage": 134,
+      "main_min_damage": 73,
+      "weaken_chance": 111,
+      "wisdom": 8
+    },
+    "title": "Aridus's Dark Staff",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0004",
+    "image": "./items/weapon/staff/lightbringer_prayer_staff.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.574,
+      "main_max_damage": 93,
+      "main_min_damage": 50,
+      "mana_cost_efficiency": 10,
+      "max_mana": 255,
+      "wisdom": 3
+    },
+    "title": "Lightbringer Prayer Staff",
+    "traits": {
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0005",
+    "image": "./items/weapon/staff/queen_bellandirs_domination_wand.png",
+    "perk": {
+      "description": "Has 12.5% chance of dealing 60 bonus damage upon landing an attack.",
+      "image": "./items/weapon/staff/queen_bellandirs_domination_wand-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 19.2,
+      "attack_speed": 0.743,
+      "cooldown_speed": 1.4,
+      "critical_hit": 52,
+      "main_max_damage": 158,
+      "main_min_damage": 86,
+      "wisdom": 7
+    },
+    "title": "Queen Bellandir's Domination Wand",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "attack_speed_bonus": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0006",
+    "image": "./items/weapon/staff/special_resistance_staff.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.641,
+      "critical_hit": 140,
+      "main_max_damage": 106,
+      "main_min_damage": 66,
+      "weaken_chance": 142
+    },
+    "title": "Special Resistance Staff",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_mana": 150,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "staff",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-s-0007",
+    "image": "./items/weapon/staff/special_shamans_staff.png",
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.675,
+      "cooldown_speed": 2.7,
+      "main_max_damage": 99,
+      "main_min_damage": 78,
+      "perception": 4,
+      "strength": 3
+    },
+    "title": "Umbramancer's Staff",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0001",
+    "image": "./items/weapon/dagger/lequirus's_thorny_edge.webp",
+    "perk": {
+      "description": "Base Damage 23 ▲ for 3s upon using Mobility Skills",
+      "image": "./items/weapon/dagger/lequirus's_thorny_edge-perk.webp",
+      "title": "Lequirus's Gale Blade"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.518,
+      "critical_hit": 39,
+      "main_max_damage": 91,
+      "main_min_damage": 23,
+      "off_hand_max_damage": 91,
+      "off_hand_min_damage": 23,
+      "off_hand_weapon_attack_chance": 30,
+      "perception": 3,
+      "wisdom": 4
+    },
+    "title": "Lequirus's Thorny Edge",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0002",
+    "image": "./items/weapon/dagger/grieving_hand_of_death.png",
+    "stats": {
+      "attack_range": 2.2,
+      "attack_speed": 0.428,
+      "main_max_damage": 76,
+      "main_min_damage": 20,
+      "off_hand_max_damage": 76,
+      "off_hand_min_damage": 20,
+      "max_health": 855,
+      "off_hand_weapon_attack_chance": 20,
+      "strength": 7
+    },
+    "title": "Grieving Hand of Death",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0003",
+    "image": "./items/weapon/dagger/kowazans_twilight_blade.png",
+    "perk": {
+      "description": "At night, Melee Critical Hit 250 ▲",
+      "image": "./items/weapon/dagger/kowazans_twilight_blade-perk.png",
+      "title": "Kowazan's Mania"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.45,
+      "critical_hit": 89,
+      "dexterity": 3,
+      "main_max_damage": 132,
+      "main_min_damage": 21,
+      "off_hand_max_damage": 132,
+      "off_hand_min_damage": 21,
+      "off_hand_weapon_attack_chance": 20
+    },
+    "title": "Kowazan's Twilight Blade",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_cost_efficiency": 3
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0004",
+    "image": "./items/weapon/dagger/minezeroks_dagger.png",
+    "perk": {
+      "description": "On hit, has an 8% chance to apply Weaken: Curse, which applies -410 Melee Defense to the target for 3s",
+      "image": "./items/weapon/dagger/minezeroks_dagger-perk.png",
+      "title": "Minezerok's Bridle"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.495,
+      "main_max_damage": 111,
+      "main_min_damage": 27,
+      "off_hand_max_damage": 111,
+      "off_hand_min_damage": 27,
+      "off_hand_weapon_attack_chance": 21,
+      "stamina_regen": 6.95,
+      "wisdom": 6
+    },
+    "title": "Minezerok's Dagger",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0005",
+    "image": "./items/weapon/dagger/rex_chimaeruss_fang.png",
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.405,
+      "dexterity": 8,
+      "insectum_damage_bonus": 8,
+      "main_max_damage": 64,
+      "main_min_damage": 15,
+      "off_hand_max_damage": 64,
+      "off_hand_min_damage": 15,
+      "off_hand_weapon_attack_chance": 26,
+      "weaken_chance": 117
+    },
+    "title": "Rex Chimaerus's Fang",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0006",
+    "image": "./items/weapon/dagger/special_resistance_dagger.png",
+    "stats": {
+      "attack_range": 2.4,
+      "attack_speed": 0.472,
+      "critical_hit": 140,
+      "main_max_damage": 83,
+      "main_min_damage": 22,
+      "off_hand_max_damage": 83,
+      "off_hand_min_damage": 22,
+      "off_hand_weapon_attack_chance": 20,
+      "weaken_chance": 142
+    },
+    "title": "Special Resistance Dagger",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "dagger",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-d-0007",
+    "image": "./items/weapon/dagger/tevents_massacre_blade.png",
+    "perk": {
+      "description": "Melee, Ranged, Magic Evasion 120 ▲ for 4s on Critical Hit. Cooldown 15s",
+      "image": "./items/weapon/dagger/tevents_massacre_blade-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 2,
+      "attack_speed": 0.495,
+      "critical_hit": 33,
+      "damage_bonus": 4,
+      "dexterity": 8,
+      "main_max_damage": 115,
+      "main_min_damage": 27,
+      "off_hand_max_damage": 115,
+      "off_hand_min_damage": 27,
+      "off_hand_weapon_attack_chance": 24
+    },
+    "title": "Tevent's Massacre Blade",
+    "traits": {
+      "buff_duration": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0001",
+    "image": "./items/weapon/wand/excavators_mysterious_scepter.png",
+    "perk": {
+      "description": "Additional 380 Health heal per 6s when using Rapid Healing skills on allies with Health less than 15%. Cooldown 30s",
+      "image": "./items/weapon/wand/excavators_mysterious_scepter-perk.png",
+      "title": "Excavator's Breath"
+    },
+    "stats": {
+      "attack_range": 14,
+      "attack_speed": 0.5,
+      "main_max_damage": 97,
+      "main_min_damage": 53,
+      "max_mana": 1155,
+      "strength": 5
+    },
+    "title": "Excavator's Mysterious Scepter",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "plantaria_damage_bonus": 4
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0002",
+    "image": "./items/weapon/wand/lequirus_grip.png",
+    "perk": {
+      "description": "When your Health goes below 20%, Hide for 7.5s. Cooldown 120s",
+      "image": "./items/weapon/wand/lequirus_grip-perk.png",
+      "title": "Lequirus's Ambush"
+    },
+    "stats": {
+      "attack_range": 14,
+      "attack_speed": 0.475,
+      "critical_hit": 74,
+      "main_max_damage": 82,
+      "main_min_damage": 45,
+      "perception": 2,
+      "wisdom": 3
+    },
+    "title": "Lequirus' Grip",
+    "traits": {
+      "buff_duration": 2,
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0003",
+    "image": "./items/weapon/wand/shaikals_purity_scepter.png",
+    "perk": {
+      "description": "Decreases the target's current Mana by 40 upon landing an attack. Cooldown 3s",
+      "image": "./items/weapon/wand/shaikals_purity_scepter-perk.png",
+      "title": "Shaikal's Dissolving Fluid"
+    },
+    "stats": {
+      "attack_range": 15.4,
+      "attack_speed": 0.45,
+      "main_max_damage": 69,
+      "main_min_damage": 42,
+      "perception": 6,
+      "weaken_chance": 148
+    },
+    "title": "Shaikal's Purity Scepter",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0004",
+    "image": "./items/weapon/wand/tevents_cuneiform_bone.png",
+    "perk": {
+      "description": "Cooldown Speed 15% ▲ for 4s upon receiving a Critical Hit. Cooldown 20s",
+      "image": "./items/weapon/wand/tevents_cuneiform_bone-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 16.8,
+      "attack_speed": 0.55,
+      "cooldown_speed": 2,
+      "critical_hit": 80,
+      "main_max_damage": 117,
+      "main_min_damage": 63,
+      "wisdom": 5
+    },
+    "title": "Tevent's Cuneiform Bone",
+    "traits": {
+      "cooldown_speed": 2,
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0005",
+    "image": "./items/weapon/wand/archpriests_meditation.png",
+    "stats": {
+      "attack_range": 15.4,
+      "attack_speed": 0.425,
+      "main_max_damage": 65,
+      "main_min_damage": 36,
+      "sleep_chance": 71,
+      "weaken_chance": 71,
+      "wisdom": 4
+    },
+    "title": "Archpriest's Meditation",
+    "traits": {
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0006",
+    "image": "./items/weapon/wand/touch_of_deep_desire.png",
+    "stats": {
+      "attack_range": 7,
+      "attack_speed": 0.5,
+      "main_max_damage": 94,
+      "main_min_damage": 64,
+      "sleep_chance": 117,
+      "strength": 8
+    },
+    "title": "Touch of Deep Desire",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "sleep_chance": 25
+    }
+  },
+  {
+    "type": "wand",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-w-0007",
+    "image": "./items/weapon/wand/special_resistance_wand.png",
+    "stats": {
+      "attack_range": 15.4,
+      "attack_speed": 0.45,
+      "main_max_damage": 69,
+      "main_min_damage": 42,
+      "max_mana": 900,
+      "sleep_chance": 167
+    },
+    "title": "Special Resistance Wand",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_mana": 150,
+      "sleep_chance": 25
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0001",
+    "image": "./items/weapon/crossbow/kowazans_killer_crossbow.png",
+    "perk": {
+      "description": "Attack Speed during the day 12% ▲",
+      "image": "./items/weapon/crossbow/kowazans_killer_crossbow-perk.png",
+      "title": "Kowazan's Bombing"
+    },
+    "stats": {
+      "attack_range": 13.2,
+      "attack_speed": 0.525,
+      "main_max_damage": 96,
+      "main_min_damage": 25,
+      "off_hand_max_damage": 96,
+      "off_hand_min_damage": 25,
+      "off_hand_weapon_attack_chance": 20,
+      "stamina_regen": 4.45,
+      "strength": 9
+    },
+    "title": "Kowazan's Killer Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0002",
+    "image": "./items/weapon/crossbow/malakars_lethal_crossbow.png",
+    "perk": {
+      "description": "Move Speed 8% ▲ for the player and party members within 16m",
+      "image": "./items/weapon/crossbow/malakars_lethal_crossbow-perk.png",
+      "title": "Malakar's Eye of Storm"
+    },
+    "stats": {
+      "attack_range": 13.2,
+      "attack_speed": 0.5,
+      "critical_hit": 159,
+      "main_max_damage": 93,
+      "main_min_damage": 23,
+      "off_hand_max_damage": 93,
+      "off_hand_min_damage": 23,
+      "off_hand_weapon_attack_chance": 20,
+      "wisdom": 5
+    },
+    "title": "Malakar's Lethal Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0003",
+    "image": "./items/weapon/crossbow/queen_bellandirs_annihilation_crossbow.png",
+    "perk": {
+      "description": "Has 10% chance to apply Weaken that decreases the target's Ranged Evasion by 120 for 3s upon landing a Critical Hit. Stacks up to 3 times.",
+      "image": "./items/weapon/crossbow/queen_bellandirs_annihilation_crossbow-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 12,
+      "attack_speed": 0.55,
+      "damage_bonus": 4,
+      "dexterity": 7,
+      "main_max_damage": 102,
+      "main_min_damage": 24,
+      "off_hand_max_damage": 102,
+      "off_hand_min_damage": 24,
+      "off_hand_weapon_attack_chance": 28,
+      "stamina_regen": 2.65
+    },
+    "title": "Queen Bellandir's Annihilation Crossbow",
+    "traits": {
+      "buff_duration": 2,
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0004",
+    "image": "./items/weapon/crossbow/rex_chimaeruss_rake_bow.png",
+    "perk": {
+      "description": "Heals 61 Health whenever making Off-Hand Weapon attacks for 6s after a successful hit with Off-Hand Weapon. Cooldown 30s",
+      "image": "./items/weapon/crossbow/rex_chimaeruss_rake_bow-perk.png",
+      "title": "Rex Chimaerus's Hunger"
+    },
+    "stats": {
+      "attack_range": 12,
+      "attack_speed": 0.6,
+      "damage_bonus": 14,
+      "dexterity": 7,
+      "main_max_damage": 81,
+      "main_min_damage": 19,
+      "off_hand_max_damage": 81,
+      "off_hand_min_damage": 19,
+      "off_hand_weapon_attack_chance": 35
+    },
+    "title": "Rex Chimaerus's Rake Bow",
+    "traits": {
+      "attack_speed": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0005",
+    "image": "./items/weapon/crossbow/special_resistance_crossbow.png",
+    "stats": {
+      "attack_range": 13.2,
+      "attack_speed": 0.45,
+      "critical_hit": 130,
+      "main_max_damage": 69,
+      "main_min_damage": 18,
+      "off_hand_max_damage": 69,
+      "off_hand_min_damage": 18,
+      "off_hand_weapon_attack_chance": 20,
+      "weaken_chance": 155
+    },
+    "title": "Special Resistance Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0006",
+    "image": "./items/weapon/crossbow/storm_monolith_crossbow.png",
+    "stats": {
+      "attack_range": 15.6,
+      "attack_speed": 0.55,
+      "critical_hit": 60,
+      "dexterity": 4,
+      "main_max_damage": 85,
+      "main_min_damage": 21,
+      "off_hand_max_damage": 85,
+      "off_hand_min_damage": 21,
+      "off_hand_weapon_attack_chance": 22,
+      "weaken_chance": 67
+    },
+    "title": "Storm Spiked Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "crossbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-c-0007",
+    "image": "./items/weapon/crossbow/unlimited_rapid-fire_crossbow.png",
+    "stats": {
+      "attack_range": 12,
+      "attack_speed": 0.45,
+      "cooldown_speed": 2.5,
+      "main_max_damage": 62,
+      "main_min_damage": 15,
+      "off_hand_max_damage": 62,
+      "off_hand_min_damage": 15,
+      "off_hand_weapon_attack_chance": 28,
+      "perception": 5,
+      "weaken_chance": 55
+    },
+    "title": "Unlimited Rapid-Fire Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "plantaria_damage_bonus": 4
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0001",
+    "image": "./items/weapon/longbow/grand_aelons_sacred_bow.png",
+    "perk": {
+      "description": "Restores 110 Health with a 5% chance upon landing an attack. Health Recovery boosted during rain",
+      "image": "./items/weapon/longbow/grand_aelons_sacred_bow-perk.png",
+      "title": "Grand Aelon's Blessing"
+    },
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.675,
+      "bind_chance": 83,
+      "dexterity": 4,
+      "hit": 52,
+      "main_max_damage": 154,
+      "main_min_damage": 39
+    },
+    "title": "Grand Aelon's Sacred Bow",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0002",
+    "image": "./items/weapon/longbow/karnixs_hell_bow.png",
+    "perk": {
+      "description": "Range 9% ▲ for self and party members within 16m",
+      "image": "./items/weapon/longbow/karnixs_hell_bow-perk.png",
+      "title": "Karnix's Eye"
+    },
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.709,
+      "critical_hit": 84,
+      "main_max_damage": 159,
+      "main_min_damage": 41,
+      "strength": 7
+    },
+    "title": "Karnix's Hell Bow",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0003",
+    "image": "./items/weapon/longbow/tevents_screaming_bow.png",
+    "perk": {
+      "description": "Upon landing an attack, has a 10% chance to apply Weaken: Poison, which decreases the Move Speed of the target by 6.5 for 9s.",
+      "image": "./items/weapon/longbow/tevents_screaming_bow-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 19.2,
+      "attack_speed": 0.776,
+      "bonus_range": 4,
+      "dexterity": 4,
+      "main_max_damage": 207,
+      "main_min_damage": 52,
+      "perception": 5
+    },
+    "title": "Tevent's Screaming Bow",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0004",
+    "image": "./items/weapon/longbow/toubleks_strafing_bow.png",
+    "perk": {
+      "description": "Additional 75% of Base Damage upon landing critical hits on enemies with health less than 25%. Cooldown 6s",
+      "image": "./items/weapon/longbow/toubleks_strafing_bow-perk.png",
+      "title": "Toublek's Trick"
+    },
+    "stats": {
+      "animalia_damage_bonus": 8,
+      "attack_range": 19.2,
+      "attack_speed": 0.641,
+      "cooldown_speed": 6.7,
+      "dexterity": 5,
+      "main_max_damage": 114,
+      "main_min_damage": 41
+    },
+    "title": "Toublek's Strafing Bow",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_cost_efficiency": 3,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0005",
+    "image": "./items/weapon/longbow/shaikals_torment_bow.png",
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.709,
+      "bind_chance": 192,
+      "main_max_damage": 151,
+      "main_min_damage": 39,
+      "perception": 5
+    },
+    "title": "Shaikal's Torment Bow",
+    "traits": {
+      "bind_chance": 25,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0006",
+    "image": "./items/weapon/longbow/special_resistance_longbow.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.675,
+      "bind_chance": 175,
+      "critical_hit": 114,
+      "main_max_damage": 137,
+      "main_min_damage": 49
+    },
+    "title": "Special Resistance Longbow",
+    "traits": {
+      "bind_chance": 25,
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "longbow",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-l-0007",
+    "image": "./items/weapon/longbow/world_tree_longbow.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.641,
+      "health_regen": 70.5,
+      "main_max_damage": 137,
+      "main_min_damage": 35,
+      "wisdom": 8
+    },
+    "title": "World Tree Longbow",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "plantaria_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0001",
+    "image": "./items/weapon/shield/ahzreils_demonic_blade.png",
+    "perk": {
+      "description": "Restores 101 Mana whenever attacking with Shield Throw. Restores up to 5 times per skill cast",
+      "image": "./items/weapon/shield/ahzreils_demonic_blade-perk.png",
+      "title": "Ahzreil's Illusion"
+    },
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.605,
+      "main_max_damage": 132,
+      "main_min_damage": 68,
+      "mana_regen": 89.25,
+      "shield_block_chance": 10,
+      "damage_reduction": 12,
+      "strength": 6
+    },
+    "title": "Ahzreil's Demonic Blade",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0002",
+    "image": "./items/weapon/shield/chernobogs_beheading_sword.png",
+    "perk": {
+      "description": "Blocking a melee attack applies Sleep: Curse to the attacker for 3s (6s for monsters). Cooldown 17s",
+      "image": "./items/weapon/shield/chernobogs_beheading_sword-perk.png",
+      "title": "Chernobog's Incubus"
+    },
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.578,
+      "critical_hit": 69,
+      "dexterity": 4,
+      "main_max_damage": 106,
+      "main_min_damage": 58,
+      "shield_block_chance": 11,
+      "damage_reduction": 33
+    },
+    "title": "Chernobog's Beheading Sword",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0003",
+    "image": "./items/weapon/shield/nirmas_corrupt_sword.png",
+    "perk": {
+      "description": "Upon landing the Shield Strike, Stun the target for 0.3s.",
+      "image": "./items/weapon/shield/nirmas_corrupt_sword-perk.png",
+      "title": "Nirma's Shockwave"
+    },
+    "stats": {
+      "attack_range": 2.48,
+      "attack_speed": 0.632,
+      "main_max_damage": 115,
+      "main_min_damage": 63,
+      "max_health": 365,
+      "shield_block_chance": 19,
+      "damage_reduction": 24,
+      "wisdom": 5
+    },
+    "title": "Nirma's Corrupt Sword",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_cost_efficiency": 3,
+      "mana_regen": 15,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0004",
+    "image": "./items/weapon/shield/queen_bellandirs_blade.png",
+    "perk": {
+      "description": "On hit, Weakens the target, which applies -25 Base Damage for 4s. Cooldown 15s",
+      "image": "./items/weapon/shield/queen_bellandirs_blade-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.605,
+      "collision_chance": 50,
+      "main_max_damage": 120,
+      "main_min_damage": 68,
+      "shield_block_chance": 19,
+      "damage_reduction": 35,
+      "strength": 6
+    },
+    "title": "Queen Bellandir's Blade",
+    "traits": {
+      "critical_hit": 20,
+      "debuff_duration": 2,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "plantaria_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0005",
+    "image": "./items/weapon/shield/corneliuss_explosion_blade.png",
+    "stats": {
+      "attack_range": 2.48,
+      "attack_speed": 0.632,
+      "collision_chance": 198,
+      "main_max_damage": 115,
+      "main_min_damage": 63,
+      "perception": 6,
+      "shield_block_chance": 15,
+      "damage_reduction": 13
+    },
+    "title": "Cornelius's Explosion Blade",
+    "traits": {
+      "collision_chance": 25,
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0006",
+    "image": "./items/weapon/shield/karnixs_nether_sword.png",
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.522,
+      "einarden_damage_bonus": 8,
+      "main_max_damage": 85,
+      "main_min_damage": 46,
+      "max_health": 1005,
+      "shield_block_chance": 10,
+      "damage_reduction": 18,
+      "strength": 6
+    },
+    "title": "Karnix's Nether Sword",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "shield",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-shield-0007",
+    "image": "./items/weapon/shield/special_resistance_sword.png",
+    "stats": {
+      "attack_range": 2.25,
+      "attack_speed": 0.468,
+      "collision_chance": 142,
+      "main_max_damage": 70,
+      "main_min_damage": 38,
+      "max_health": 1050,
+      "shield_block_chance": 12,
+      "damage_reduction": 15
+    },
+    "title": "Special Resistance Sword",
+    "traits": {
+      "collision_chance": 25,
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0001",
+    "image": "./items/weapon/greatsword/adentuss_savage_blade.png",
+    "perk": {
+      "description": "Base damage 6 ▲ per 1,000 of current Health",
+      "image": "./items/weapon/greatsword/adentuss_savage_blade-perk.png",
+      "title": "Adentus's Passion"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.709,
+      "construct_damage_bonus": 8,
+      "critical_hit": 164,
+      "main_max_damage": 168,
+      "main_min_damage": 104,
+      "strength": 5
+    },
+    "title": "Adentus's Savage Blade",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0002",
+    "image": "./items/weapon/greatsword/junobotes_destroyer_blade.png",
+    "perk": {
+      "description": "Shock, Stun duration 1.1s ▲ on inflicting the effect on enemies with 50% or less Health",
+      "image": "./items/weapon/greatsword/junobotes_destroyer_blade-perk.png",
+      "title": "Junobote's Void"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.8,
+      "main_max_damage": 239,
+      "main_min_damage": 51,
+      "perception": 8,
+      "stun_chance": 136
+    },
+    "title": "Junobote's Destroyer Blade",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "cooldown_speed": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0003",
+    "image": "./items/weapon/greatsword/magna_dukes_taunting_blade.png",
+    "perk": {
+      "description": "Upon landing Valiant Brawl, there is a 42% chance to apply Weaken: Provoke for 3s",
+      "image": "./items/weapon/greatsword/magna_dukes_taunting_blade-perk.png",
+      "title": "Magna Duke's Taunt"
+    },
+    "stats": {
+      "attack_range": 2.75,
+      "attack_speed": 0.574,
+      "main_max_damage": 110,
+      "main_min_damage": 59,
+      "max_health": 1305,
+      "strength": 3
+    },
+    "title": "Magna Duke's Taunting Blade",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0004",
+    "image": "./items/weapon/greatsword/magnadukes_berserk_blade.png",
+    "perk": {
+      "description": "Melee Heavy Attack 95 ▲ for 6s upon inflicting Stun or Shock with Stunning Blow",
+      "image": "./items/weapon/greatsword/magnadukes_berserk_blade-perk.png",
+      "title": "Magna Duke's Berserk"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.675,
+      "cooldown_speed": 5.7,
+      "dexterity": 6,
+      "main_max_damage": 144,
+      "main_min_damage": 88
+    },
+    "title": "Magnaduke's Berserk Blade",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0005",
+    "image": "./items/weapon/greatsword/tevents_despair_blade.png",
+    "perk": {
+      "description": "Applies Weaken: Poison that deals 25 damage to the target every second for 6s upon using a skill. Cooldown 10s",
+      "image": "./items/weapon/greatsword/tevents_despair_blade-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.743,
+      "dexterity": 4,
+      "main_max_damage": 219,
+      "main_min_damage": 118,
+      "strength": 5,
+      "stun_chance": 50
+    },
+    "title": "Tevent's Despair Blade",
+    "traits": {
+      "critical_hit": 20,
+      "debuff_duration": 2,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0006",
+    "image": "./items/weapon/greatsword/morokais_corrupt_sword.png",
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.675,
+      "hit": 102,
+      "main_max_damage": 164,
+      "main_min_damage": 89,
+      "stun_chance": 71,
+      "wisdom": 3
+    },
+    "title": "Morokai's Corrupt Sword",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4,
+      "max_mana": 150,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0007",
+    "image": "./items/weapon/greatsword/corrupt_specters_blade.png",
+    "stats": {
+      "attack_range": 2.75,
+      "attack_speed": 0.675,
+      "collision_chance": 192,
+      "dexterity": 5,
+      "main_max_damage": 143,
+      "main_min_damage": 77
+    },
+    "title": "Corrupt Specter's Blade",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "greatsword",
+    "itemGroup": "weapon",
+    "tier": "epic",
+    "id": "w-greatsword-0008",
+    "image": "./items/weapon/greatsword/special_resistance_broadsword.png",
+    "stats": {
+      "attack_range": 2.75,
+      "attack_speed": 0.709,
+      "main_max_damage": 140,
+      "main_min_damage": 98,
+      "max_health": 600,
+      "stun_chance": 217
+    },
+    "title": "Special Resistance Broadsword",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "stun_chance": 25
+    }
+  }
+]

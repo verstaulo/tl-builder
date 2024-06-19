@@ -1,0 +1,214 @@
+[
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0001",
+    "image": "./items/weapon/greatsword/adentuss_savage_blade.png",
+    "perk": {
+      "description": "Base damage 6 ▲ per 1,000 of current Health",
+      "image": "./items/weapon/greatsword/adentuss_savage_blade-perk.png",
+      "title": "Adentus's Passion"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.709,
+      "construct_damage_bonus": 8,
+      "critical_hit": 164,
+      "main_max_damage": 168,
+      "main_min_damage": 104,
+      "strength": 5
+    },
+    "title": "Adentus's Savage Blade",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0002",
+    "image": "./items/weapon/greatsword/junobotes_destroyer_blade.png",
+    "perk": {
+      "description": "Shock, Stun duration 1.1s ▲ on inflicting the effect on enemies with 50% or less Health",
+      "image": "./items/weapon/greatsword/junobotes_destroyer_blade-perk.png",
+      "title": "Junobote's Void"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.8,
+      "main_max_damage": 239,
+      "main_min_damage": 51,
+      "perception": 8,
+      "stun_chance": 136
+    },
+    "title": "Junobote's Destroyer Blade",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "cooldown_speed": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0003",
+    "image": "./items/weapon/greatsword/magna_dukes_taunting_blade.png",
+    "perk": {
+      "description": "Upon landing Valiant Brawl, there is a 42% chance to apply Weaken: Provoke for 3s",
+      "image": "./items/weapon/greatsword/magna_dukes_taunting_blade-perk.png",
+      "title": "Magna Duke's Taunt"
+    },
+    "stats": {
+      "attack_range": 2.75,
+      "attack_speed": 0.574,
+      "main_max_damage": 110,
+      "main_min_damage": 59,
+      "max_health": 1305,
+      "strength": 3
+    },
+    "title": "Magna Duke's Taunting Blade",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0004",
+    "image": "./items/weapon/greatsword/magnadukes_berserk_blade.png",
+    "perk": {
+      "description": "Melee Heavy Attack 95 ▲ for 6s upon inflicting Stun or Shock with Stunning Blow",
+      "image": "./items/weapon/greatsword/magnadukes_berserk_blade-perk.png",
+      "title": "Magna Duke's Berserk"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.675,
+      "cooldown_speed": 5.7,
+      "dexterity": 6,
+      "main_max_damage": 144,
+      "main_min_damage": 88
+    },
+    "title": "Magnaduke's Berserk Blade",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0005",
+    "image": "./items/weapon/greatsword/tevents_despair_blade.png",
+    "perk": {
+      "description": "Applies Weaken: Poison that deals 25 damage to the target every second for 6s upon using a skill. Cooldown 10s",
+      "image": "./items/weapon/greatsword/tevents_despair_blade-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.743,
+      "dexterity": 4,
+      "main_max_damage": 219,
+      "main_min_damage": 118,
+      "strength": 5,
+      "stun_chance": 50
+    },
+    "title": "Tevent's Despair Blade",
+    "traits": {
+      "critical_hit": 20,
+      "debuff_duration": 2,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0006",
+    "image": "./items/weapon/greatsword/morokais_corrupt_sword.png",
+    "stats": {
+      "attack_range": 2.5,
+      "attack_speed": 0.675,
+      "hit": 102,
+      "main_max_damage": 164,
+      "main_min_damage": 89,
+      "stun_chance": 71,
+      "wisdom": 3
+    },
+    "title": "Morokai's Corrupt Sword",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "insectum_damage_bonus": 4,
+      "max_mana": 150,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0007",
+    "image": "./items/weapon/greatsword/corrupt_specters_blade.png",
+    "stats": {
+      "attack_range": 2.75,
+      "attack_speed": 0.675,
+      "collision_chance": 192,
+      "dexterity": 5,
+      "main_max_damage": 143,
+      "main_min_damage": 77
+    },
+    "title": "Corrupt Specter's Blade",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "greatsword",
+    "gear": "epic",
+    "id": "w-greatsword-0008",
+    "image": "./items/weapon/greatsword/special_resistance_broadsword.png",
+    "stats": {
+      "attack_range": 2.75,
+      "attack_speed": 0.709,
+      "main_max_damage": 140,
+      "main_min_damage": 98,
+      "max_health": 600,
+      "stun_chance": 217
+    },
+    "title": "Special Resistance Broadsword",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "stun_chance": 25
+    }
+  }
+]

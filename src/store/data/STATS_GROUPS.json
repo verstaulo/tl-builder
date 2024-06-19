@@ -1,0 +1,85 @@
+[
+  { "groupName": "Defense", "keys": ["melee_defense", "ranged_defense", "magic_defense"] },
+
+  {
+    "groupName": "Attack",
+    "keys": [
+      "melee_hit",
+      "ranged_hit",
+      "magic_hit",
+      "melee_critical_hit",
+      "ranged_critical_hit",
+      "magic_critical_hit",
+      "skill_damage_boost",
+      "damage_bonus",
+      "buff_duration",
+      "melee_heavy_attack_chance",
+      "ranged_heavy_attack_chance",
+      "magic_heavy_attack_chance"
+    ]
+  },
+  {
+    "groupName": "Protection",
+    "keys": [
+      "melee_evasion",
+      "ranged_evasion",
+      "magic_evasion",
+      "melee_endurance",
+      "ranged_endurance",
+      "magic_endurance",
+      "skill_damage_resistance",
+      "damage_reduction",
+      "debuff_duration",
+      "melee_heavy_attack_evasion",
+      "ranged_heavy_attack_evasion",
+      "magic_heavy_attack_evasion"
+    ]
+  },
+  {
+    "groupName": "Others",
+    "keys": [
+      "max_health",
+      "health_regen",
+      "max_mana",
+      "mana_regen",
+      "max_stamina",
+      "stamina_regen",
+      "mana_cost_efficiency",
+      "cooldown_speed",
+      "move_speed",
+      "attack_speed_bonus",
+      "skill_heal_bonus",
+      "critical_damage",
+      "amitoi_heal",
+      "incoming_heal",
+      "bonus_range",
+      "recovery_crystal_heal"
+    ]
+  },
+  {
+    "groupName": "Chance",
+    "keys": [
+      "stun_chance",
+      "weaken_chance",
+      "petrification_chance",
+      "sleep_chance",
+      "silence_chance",
+      "bind_chance",
+      "terror_chance",
+      "collision_chance"
+    ]
+  },
+  {
+    "groupName": "Resist",
+    "keys": [
+      "stun_resistance",
+      "weaken_resistance",
+      "petrification_resistance",
+      "sleep_resistance",
+      "silence_resistance",
+      "bind_resistance",
+      "terror_resistance",
+      "collision_resistance"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "main_weapon": null,
+  "secondary_weapon": null,
+  "body": null,
+  "head": null,
+  "legs": null,
+  "boots": null,
+  "gloves": null,
+  "cloak": null,
+  "necklace": null,
+  "belt": null,
+  "bracelet": null,
+  "ring_first": null,
+  "ring_second": null,
+  "set_bonus_counter": {
+    "chief_commander_set": 0,
+    "death_set": 0,
+    "ghost_wolf_set": 0,
+    "imperator_set": 0,
+    "mother_nature_set": 0,
+    "transcended_one_set": 0,
+    "dimensional_chaos_set": 0
+  }
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0001",
+    "image": "./items/ring/abyssal_crystal_ring.png",
+    "stats": {
+      "attack_speed_bonus": 3.3,
+      "magic_defense": 180,
+      "mana_cost_efficiency": 7.7
+    },
+    "title": "Abyssal Crystal Ring",
+    "traits": {
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "petrification_chance": 25,
+      "skill_damage_boost": 20,
+      "sleep_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0002",
+    "image": "./items/ring/barbarians_stone_ring.png",
+    "stats": {
+      "collision_chance": 50,
+      "health_regen": 65.25,
+      "magic_defense": 180
+    },
+    "title": "Barbarian's Stone Ring",
+    "traits": {
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0003",
+    "image": "./items/ring/eternal_ring_of_dimension.png",
+    "setInfo": {
+      "setEffects": {
+        "two_items": {
+          "stamina_regen": -10
+        }
+      },
+      "setName": "dimensional_chaos_set",
+      "setTitle": "Part of the Dimensional Chaos"
+    },
+    "stats": {
+      "dexterity": 2,
+      "magic_defense": 180,
+      "move_speed_bonus": 2.4,
+      "strength": 1
+    },
+    "title": "Eternal Ring of Dimension",
+    "traits": {
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0004",
+    "image": "./items/ring/insightful_ring_of_dimension.png",
+    "setInfo": {
+      "setEffects": {
+        "two_items": {
+          "stamina_regen": -10
+        }
+      },
+      "setName": "dimensional_chaos_set",
+      "setTitle": "Part of the Dimensional Chaos"
+    },
+    "stats": {
+      "bonus_range": 1.7,
+      "magic_defense": 180,
+      "perception": 2,
+      "wisdom": 2
+    },
+    "title": "Insightful Ring of Dimension",
+    "traits": {
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0005",
+    "image": "./items/ring/indomitable_ring_of_dimension.png",
+    "stats": {
+      "magic_defense": 180
+    },
+    "title": "Indomitable Ring of Dimension",
+    "traits": {
+      "bind_chance": 25,
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_boost": 20,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0006",
+    "image": "./items/ring/lethal_frost_ring.png",
+    "stats": {
+      "dexterity": 4,
+      "magic_defense": 180,
+      "weaken_chance": 58
+    },
+    "title": "Lethal Frost Ring",
+    "traits": {
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "silence_chance": 25,
+      "skill_damage_boost": 20,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0007",
+    "image": "./items/ring/transcendent_magic_ring.png",
+    "stats": {
+      "dexterity": 1,
+      "magic_defense": 180,
+      "perception": 1,
+      "strength": 1,
+      "wisdom": 1
+    },
+    "title": "Transcendent Magic Ring",
+    "traits": {
+      "bind_chance": 25,
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_boost": 20,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0008",
+    "image": "./items/ring/unshakeable_gold_ring.png",
+    "stats": {
+      "attack_speed_bonus": 1.8,
+      "magic_defense": 180,
+      "strength": 2,
+      "stun_chance": 37
+    },
+    "title": "Unshakeable Gold Ring",
+    "traits": {
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0009",
+    "image": "./items/ring/fallen_angels_band.webp",
+    "stats": {
+      "magic_defense": 180,
+      "wisdom": 2,
+      "mana_regen": 19.5,
+      "petrification_chance": 38
+    },
+    "title": "Fallen Angel's Band",
+    "traits": {
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_boost": 20,
+      "petrification_chance": 25,
+      "sleep_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0010",
+    "image": "./items/ring/deadeye_band.webp",
+    "stats": {
+      "magic_defense": 180,
+      "perception": 2,
+      "attack_speed_bonus": 2,
+      "bind_chance": 33
+    },
+    "title": "Deadeye Band",
+    "traits": {
+      "buff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20,
+      "collision_chance": 25,
+      "bind_chance": 25
+    }
+  },
+  {
+    "type": "ring",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "ring-0011",
+    "image": "./items/ring/silence_blade_band.webp",
+    "stats": {
+      "magic_defense": 180,
+      "dexterity": 2,
+      "attack_speed_bonus": 1.1,
+      "silence_chance": 33
+    },
+    "title": "Silence Blade Band",
+    "traits": {
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_boost": 20,
+      "silence_chance": 25,
+      "bind_chance": 25
+    }
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0001",
+    "image": "./items/weapon/crossbow/kowazans_killer_crossbow.png",
+    "perk": {
+      "description": "Attack Speed during the day 12% ▲",
+      "image": "./items/weapon/crossbow/kowazans_killer_crossbow-perk.png",
+      "title": "Kowazan's Bombing"
+    },
+    "stats": {
+      "attack_range": 13.2,
+      "attack_speed": 0.525,
+      "main_max_damage": 96,
+      "main_min_damage": 25,
+      "off_hand_max_damage": 96,
+      "off_hand_min_damage": 25,
+      "off_hand_weapon_attack_chance": 20,
+      "stamina_regen": 4.45,
+      "strength": 9
+    },
+    "title": "Kowazan's Killer Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0002",
+    "image": "./items/weapon/crossbow/malakars_lethal_crossbow.png",
+    "perk": {
+      "description": "Move Speed 8% ▲ for the player and party members within 16m",
+      "image": "./items/weapon/crossbow/malakars_lethal_crossbow-perk.png",
+      "title": "Malakar's Eye of Storm"
+    },
+    "stats": {
+      "attack_range": 13.2,
+      "attack_speed": 0.5,
+      "critical_hit": 159,
+      "main_max_damage": 93,
+      "main_min_damage": 23,
+      "off_hand_max_damage": 93,
+      "off_hand_min_damage": 23,
+      "off_hand_weapon_attack_chance": 20,
+      "wisdom": 5
+    },
+    "title": "Malakar's Lethal Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0003",
+    "image": "./items/weapon/crossbow/queen_bellandirs_annihilation_crossbow.png",
+    "perk": {
+      "description": "Has 10% chance to apply Weaken that decreases the target's Ranged Evasion by 120 for 3s upon landing a Critical Hit. Stacks up to 3 times.",
+      "image": "./items/weapon/crossbow/queen_bellandirs_annihilation_crossbow-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 12,
+      "attack_speed": 0.55,
+      "damage_bonus": 4,
+      "dexterity": 7,
+      "main_max_damage": 102,
+      "main_min_damage": 24,
+      "off_hand_max_damage": 102,
+      "off_hand_min_damage": 24,
+      "off_hand_weapon_attack_chance": 28,
+      "stamina_regen": 2.65
+    },
+    "title": "Queen Bellandir's Annihilation Crossbow",
+    "traits": {
+      "buff_duration": 2,
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0004",
+    "image": "./items/weapon/crossbow/rex_chimaeruss_rake_bow.png",
+    "perk": {
+      "description": "Heals 61 Health whenever making Off-Hand Weapon attacks for 6s after a successful hit with Off-Hand Weapon. Cooldown 30s",
+      "image": "./items/weapon/crossbow/rex_chimaeruss_rake_bow-perk.png",
+      "title": "Rex Chimaerus's Hunger"
+    },
+    "stats": {
+      "attack_range": 12,
+      "attack_speed": 0.6,
+      "damage_bonus": 14,
+      "dexterity": 7,
+      "main_max_damage": 81,
+      "main_min_damage": 19,
+      "off_hand_max_damage": 81,
+      "off_hand_min_damage": 19,
+      "off_hand_weapon_attack_chance": 35
+    },
+    "title": "Rex Chimaerus's Rake Bow",
+    "traits": {
+      "attack_speed": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0005",
+    "image": "./items/weapon/crossbow/special_resistance_crossbow.png",
+    "stats": {
+      "attack_range": 13.2,
+      "attack_speed": 0.45,
+      "critical_hit": 130,
+      "main_max_damage": 69,
+      "main_min_damage": 18,
+      "off_hand_max_damage": 69,
+      "off_hand_min_damage": 18,
+      "off_hand_weapon_attack_chance": 20,
+      "weaken_chance": 155
+    },
+    "title": "Special Resistance Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0006",
+    "image": "./items/weapon/crossbow/storm_monolith_crossbow.png",
+    "stats": {
+      "attack_range": 15.6,
+      "attack_speed": 0.55,
+      "critical_hit": 60,
+      "dexterity": 4,
+      "main_max_damage": 85,
+      "main_min_damage": 21,
+      "off_hand_max_damage": 85,
+      "off_hand_min_damage": 21,
+      "off_hand_weapon_attack_chance": 22,
+      "weaken_chance": 67
+    },
+    "title": "Storm Spiked Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "crossbow",
+    "gear": "epic",
+    "id": "w-c-0007",
+    "image": "./items/weapon/crossbow/unlimited_rapid-fire_crossbow.png",
+    "stats": {
+      "attack_range": 12,
+      "attack_speed": 0.45,
+      "cooldown_speed": 2.5,
+      "main_max_damage": 62,
+      "main_min_damage": 15,
+      "off_hand_max_damage": 62,
+      "off_hand_min_damage": 15,
+      "off_hand_weapon_attack_chance": 28,
+      "perception": 5,
+      "weaken_chance": 55
+    },
+    "title": "Unlimited Rapid-Fire Crossbow",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "plantaria_damage_bonus": 4
+    }
+  }
+]

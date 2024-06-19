@@ -1,0 +1,411 @@
+[
+  {
+    "type": "boots_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0015",
+    "image": "./items/boots/grand_generals_vanguard_boots.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "shield_block_chance": 10
+        },
+        "two_items": {
+          "damage_reduction": 22
+        }
+      },
+      "setName": "chief_commander_set",
+      "setTitle": "Path of The Chief Commander Set"
+    },
+    "stats": {
+      "collision_chance": 25,
+      "melee_defense": 150,
+      "move_speed_bonus": 1.4,
+      "ranged_defense": 180,
+      "strength": 2
+    },
+    "title": "Grand General's Vanguard Boots",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0002",
+    "image": "./items/boots/ghost_wolf_stealth_boots.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "off_hand_weapon_attack_chance_bonus": 30
+        },
+        "two_items": {
+          "damage_bonus": 22
+        }
+      },
+      "setName": "ghost_wolf_set",
+      "setTitle": "Part of The Ghost Wolf Set"
+    },
+    "stats": {
+      "melee_defense": 142,
+      "melee_evasion": 40,
+      "move_speed_bonus": 2,
+      "ranged_defense": 158,
+      "stamina_regen": 1.35
+    },
+    "title": "Ghost Wolf Stealth Boots",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "move_speed_bonus": 2,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0005",
+    "image": "./items/boots/resonance_of_mother_nature_boots.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "bonus_range": 10
+        },
+        "two_items": {
+          "weaken_duration": 7.5
+        }
+      },
+      "setName": "mother_nature_set",
+      "setTitle": "Part of the Mother Nature Set"
+    },
+    "stats": {
+      "critical_hit": 40,
+      "melee_defense": 135,
+      "perception": 2,
+      "ranged_defense": 135,
+      "stamina_regen": 1.65
+    },
+    "title": "Resonance of Mother Nature Boots",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "move_speed_bonus": 2
+    }
+  },
+  {
+    "type": "boots_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0003",
+    "image": "./items/boots/generals_charge_boots.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "mobility_skills_move_range": 10
+        },
+        "two_items": {
+          "melee_heavy_attack_chance": 150
+        }
+      },
+      "setName": "imperator_set",
+      "setTitle": "Part of the Imperator Set"
+    },
+    "stats": {
+      "melee_defense": 165,
+      "move_speed_bonus": 2,
+      "ranged_defense": 165,
+      "strength": 4
+    },
+    "title": "General's Charge Boots",
+    "traits": {
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "move_speed_bonus": 2,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0004",
+    "image": "./items/boots/reapers_footsteps.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "attack_speed_bonus": 10
+        },
+        "two_items": {
+          "critical_damage": 21
+        }
+      },
+      "setName": "death_set",
+      "setTitle": "Part of the Death Set"
+    },
+    "stats": {
+      "bind_chance": 21,
+      "melee_defense": 150,
+      "perception": 3,
+      "ranged_defense": 150,
+      "strength": 1
+    },
+    "title": "Reaper's Footsteps",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_mana": 150,
+      "move_speed_bonus": 2,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0001",
+    "image": "./items/boots/transcendental_wing_shoes.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "attack_speed_bonus": 10
+        },
+        "two_items": {
+          "critical_damage": 21
+        }
+      },
+      "setName": "death_set",
+      "setTitle": "Part of the Death Set"
+    },
+    "stats": {
+      "melee_defense": 142,
+      "melee_evasion": 43,
+      "move_speed_bonus": 6.6,
+      "ranged_defense": 128
+    },
+    "title": "Transcendental Wing Shoes",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "boots_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0009",
+    "image": "./items/boots/hell_guides_boots.png",
+    "stats": {
+      "dexterity": 2,
+      "melee_defense": 158,
+      "move_speed_bonus": 0.4,
+      "ranged_defense": 172,
+      "stun_chance": 42
+    },
+    "title": "Hell Guide's Boots",
+    "traits": {
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0007",
+    "image": "./items/boots/grim_judicators_footsteps.png",
+    "stats": {
+      "dexterity": 2,
+      "melee_defense": 150,
+      "move_speed_bonus": 2.6,
+      "ranged_defense": 150,
+      "weaken_resistance": 21
+    },
+    "title": "Grim Judicator's Footsteps",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0008",
+    "image": "./items/boots/heavenly_arbiter_shoes.png",
+    "stats": {
+      "melee_defense": 142,
+      "move_speed_bonus": 2.8,
+      "ranged_defense": 128,
+      "wisdom": 5
+    },
+    "title": "Heavenly Arbiter Shoes",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "move_speed_bonus": 2
+    }
+  },
+  {
+    "type": "boots_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0006",
+    "image": "./items/boots/black_lion_dash.png",
+    "stats": {
+      "melee_defense": 158,
+      "melee_evasion": 41,
+      "perception": 1,
+      "ranged_defense": 172,
+      "stamina_regen": 1
+    },
+    "title": "Black Lion Dash",
+    "traits": {
+      "mana_regen": 15,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "move_speed_bonus": 2,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0014",
+    "image": "./items/boots/wind_soul_gust_boots.png",
+    "stats": {
+      "bind_chance": 96,
+      "critical_hit": 50,
+      "melee_defense": 150,
+      "ranged_defense": 150
+    },
+    "title": "Wind Soul Gust Boots",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0010",
+    "image": "./items/boots/pitch_black_silence_shoes.png",
+    "stats": {
+      "max_mana": 300,
+      "melee_defense": 150,
+      "perception": 2,
+      "ranged_defense": 120,
+      "weaken_chance": 41
+    },
+    "title": "Pitch Black Silence Shoes",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "boots_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0013",
+    "image": "./items/boots/special_resistance_tactical_boots.png",
+    "stats": {
+      "mana_regen": 15,
+      "melee_defense": 182,
+      "ranged_defense": 172
+    },
+    "title": "Special Resistance Tactical Boots",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0011",
+    "image": "./items/boots/special_resistance_ancient_dragon_boots.png",
+    "stats": {
+      "critical_hit": 70,
+      "melee_defense": 158,
+      "melee_evasion": 57,
+      "ranged_defense": 142
+    },
+    "title": "Special Resistance Ancient Dragon Boots",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "boots_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "b-0012",
+    "image": "./items/boots/special_resistance_judgment_boots.png",
+    "stats": {
+      "hit": 80,
+      "melee_defense": 142,
+      "ranged_defense": 128,
+      "weaken_chance": 78
+    },
+    "title": "Special Resistance Judgment Boots",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  }
+]

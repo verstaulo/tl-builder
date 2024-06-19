@@ -1,0 +1,186 @@
+[
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0001",
+    "image": "./items/weapon/staff/toubleks_thunderous_soul.png",
+    "perk": {
+      "description": "Melee, Ranged, Magic Critical Hit 30 ▲ per 1m of distance between you and the target",
+      "image": "./items/weapon/staff/toubleks_thunderous_soul-perk.webp",
+      "title": "Toublek's Boost"
+    },
+    "stats": {
+      "main_max_damage": 106,
+      "main_min_damage": 84,
+      "attack_range": 17.6,
+      "attack_speed": 0.709,
+      "bonus_range": 11.4,
+      "dexterity": 6
+    },
+    "title": "Toublek's Thunderous Soul",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "cooldown_speed": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0002",
+    "image": "./items/weapon/staff/taluss_resonance_staff.png",
+    "perk": {
+      "description": "When Stunned, trigger Petrification: Freeze for 1s to protect yourself. Cooldown 51s",
+      "image": "./items/weapon/staff/taluss_cold_stone-perk.png",
+      "title": "Talus's Cold Stone"
+    },
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.675,
+      "critical_hit": 129,
+      "dexterity": 6,
+      "main_max_damage": 125,
+      "main_min_damage": 68
+    },
+    "title": "Talus's Resonance Staff",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0003",
+    "image": "./items/weapon/staff/ariduss_dark_staff.png",
+    "perk": {
+      "description": "Collision Effect immune for once if staying in the same place for 5s. Deactivated when moving. Reactivation Limitation Time: 45",
+      "image": "./items/weapon/staff/ariduss_dark_staff-perk.png",
+      "title": "Aridus's Barrier"
+    },
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.709,
+      "main_max_damage": 134,
+      "main_min_damage": 73,
+      "weaken_chance": 111,
+      "wisdom": 8
+    },
+    "title": "Aridus's Dark Staff",
+    "traits": {
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0004",
+    "image": "./items/weapon/staff/lightbringer_prayer_staff.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.574,
+      "main_max_damage": 93,
+      "main_min_damage": 50,
+      "mana_cost_efficiency": 10,
+      "max_mana": 255,
+      "wisdom": 3
+    },
+    "title": "Lightbringer Prayer Staff",
+    "traits": {
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0005",
+    "image": "./items/weapon/staff/queen_bellandirs_domination_wand.png",
+    "perk": {
+      "description": "Has 12.5% chance of dealing 60 bonus damage upon landing an attack.",
+      "image": "./items/weapon/staff/queen_bellandirs_domination_wand-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 19.2,
+      "attack_speed": 0.743,
+      "cooldown_speed": 1.4,
+      "critical_hit": 52,
+      "main_max_damage": 158,
+      "main_min_damage": 86,
+      "wisdom": 7
+    },
+    "title": "Queen Bellandir's Domination Wand",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "attack_speed_bonus": 2,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0006",
+    "image": "./items/weapon/staff/special_resistance_staff.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.641,
+      "critical_hit": 140,
+      "main_max_damage": 106,
+      "main_min_damage": 66,
+      "weaken_chance": 142
+    },
+    "title": "Special Resistance Staff",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_mana": 150,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "staff",
+    "gear": "epic",
+    "id": "w-s-0007",
+    "image": "./items/weapon/staff/special_shamans_staff.png",
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.675,
+      "cooldown_speed": 2.7,
+      "main_max_damage": 99,
+      "main_min_damage": 78,
+      "perception": 4,
+      "strength": 3
+    },
+    "title": "Umbramancer's Staff",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  }
+]

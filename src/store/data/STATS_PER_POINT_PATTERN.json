@@ -1,0 +1,34 @@
+{
+  "greatsword": {
+    "strength": {
+      "melee_defense": 5,
+      "ranged_defense": 5,
+      "max_health": 45,
+      "health_regen": 3.75
+    },
+    "dexterity": {
+      "attack_speed": 0.002,
+      "melee_evasion": 2,
+      "ranged_evasion": 2,
+      "magic_evasion": 2,
+      "melee_critical_hit": 5,
+      "ranged_critical_hit": 5,
+      "magic_critical_hit": 5
+    },
+    "wisdom": { "max_mana": 45, "mana_regen": 3.8, "cooldown_speed": 0.25 },
+    "perception": {
+      "melee_hit": 5,
+      "ranged_hit": 5,
+      "magic_hit": 5,
+      "enfeeble_chance": 5,
+      "stun_chance": 5,
+      "petrification_chance": 5,
+      "silence_chance": 5,
+      "sleep_chance": 5,
+      "bind_chance": 5,
+      "terror_chance": 5,
+      "collision_chance": 5,
+      "buff_duration": 0.5
+    }
+  }
+}

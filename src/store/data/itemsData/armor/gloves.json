@@ -1,0 +1,413 @@
+[
+  {
+    "type": "gloves_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0005",
+    "image": "./items/gloves/grand_generals_strike_gloves.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "shield_block_chance": 10
+        },
+        "two_items": {
+          "damage_reduction": 22
+        }
+      },
+      "setName": "chief_commander_set",
+      "setTitle": "Part of the Chief Commander Set"
+    },
+    "stats": {
+      "bonus_range": 3,
+      "critical_hit": 31,
+      "dexterity": 1,
+      "melee_defense": 150,
+      "ranged_defense": 180
+    },
+    "title": "Grand General's Strike Gloves",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "health_regen": 15,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0002",
+    "image": "./items/gloves/ghost_wolf_incision_gloves.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "off_hand_weapon_attack_chance_bonus": 30
+        },
+        "two_items": {
+          "damage_bonus": 22
+        }
+      },
+      "setName": "ghost_wolf_set",
+      "setTitle": "Path of The Ghost Wolf Set"
+    },
+    "stats": {
+      "attack_speed_bonus": 2,
+      "dexterity": 2,
+      "melee_defense": 142,
+      "ranged_defense": 158,
+      "ranged_evasion": 27
+    },
+    "title": "Ghost Wolf Incision Gloves",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0015",
+    "image": "./items/gloves/touch_of_mother_nature_gloves.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "bonus_range": 10
+        },
+        "two_items": {
+          "weaken_duration": 7.5
+        }
+      },
+      "setName": "mother_nature_set",
+      "setTitle": "Part of the Mother Nature Set"
+    },
+    "stats": {
+      "bonus_range": 3.3,
+      "critical_hit": 40,
+      "melee_defense": 135,
+      "ranged_defense": 135,
+      "wisdom": 2
+    },
+    "title": "Touch of Mother Nature Gloves",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0004",
+    "image": "./items/gloves/generals_frenzy_gloves.png",
+    "seInfo": {
+      "setEffects": {
+        "four_items": {
+          "mobility_skills_move_range": 10
+        },
+        "two_items": {
+          "melee_heavy_attack_chance": 150
+        }
+      },
+      "setName": "imperator_set",
+      "setTitle": "Part of the Imperator Set"
+    },
+    "stats": {
+      "attack_speed_bonus": 2,
+      "melee_defense": 165,
+      "perception": 4,
+      "ranged_defense": 165
+    },
+    "title": "General's Frenzy Gloves",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0014",
+    "image": "./items/gloves/reapers_hand_of_death.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "attack_speed_bonus": 10
+        },
+        "two_items": {
+          "critical_damage": 21
+        }
+      },
+      "setName": "death_set",
+      "setTitle": "Part of the Death Set"
+    },
+    "stats": {
+      "bonus_range": 1.7,
+      "critical_hit": 20,
+      "dexterity": 3,
+      "melee_defense": 150,
+      "ranged_defense": 150
+    },
+    "title": "Reaper's Hand of Death",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0001",
+    "image": "./items/gloves/transcendental_mystery_gloves.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "skill_heal": 25
+        },
+        "two_items": {
+          "cooldown_speed": 7.5
+        }
+      },
+      "setName": "transcended_one_set",
+      "setTitle": "Path of The Transcended One Set"
+    },
+    "stats": {
+      "mana_cost_efficiency": 6.3,
+      "melee_defense": 142,
+      "perception": 4,
+      "ranged_defense": 128
+    },
+    "title": "Transcendental Mystery Gloves",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0008",
+    "image": "./items/gloves/hell_guides_gloves.png",
+    "stats": {
+      "bind_resistance": 26,
+      "dexterity": 1,
+      "melee_defense": 158,
+      "ranged_defense": 172,
+      "strength": 2
+    },
+    "title": "Hell Guide's Gloves",
+    "traits": {
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0006",
+    "image": "./items/gloves/grim_judicators_touch.png",
+    "stats": {
+      "attack_speed_bonus": 2.4,
+      "mana_regen": 15,
+      "melee_defense": 150,
+      "perception": 2,
+      "ranged_defense": 150
+    },
+    "title": "Grim Judicator's Touch",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0007",
+    "image": "./items/gloves/heavenly_arbiter_gloves.png",
+    "stats": {
+      "attack_speed_bonus": 2.4,
+      "dexterity": 2,
+      "melee_defense": 142,
+      "ranged_defense": 128,
+      "weaken_chance": 45
+    },
+    "title": "Heavenly Arbiter Gloves",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0003",
+    "image": "./items/gloves/black_lion_brutality.png",
+    "stats": {
+      "attack_speed_bonus": 1.8,
+      "collision_chance": 17,
+      "melee_defense": 158,
+      "ranged_defense": 172,
+      "strength": 2
+    },
+    "title": "Black Lion Brutality",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0013",
+    "image": "./items/gloves/wind_soul_thunder_gloves.png",
+    "stats": {
+      "hit": 67,
+      "magic_evasion": 60,
+      "melee_defense": 150,
+      "ranged_defense": 150
+    },
+    "title": "Wind Soul Thunder Gloves",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0009",
+    "image": "./items/gloves/pitch_black_punishment_gloves.png",
+    "stats": {
+      "critical_hit": 60,
+      "mana_regen": 19.5,
+      "melee_defense": 150,
+      "ranged_defense": 120,
+      "sleep_chance": 33
+    },
+    "title": "Pitch Black Punishment Gloves",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0012",
+    "image": "./items/gloves/special_resistance_tactical_gloves.png",
+    "stats": {
+      "hit": 50,
+      "melee_defense": 158,
+      "ranged_defense": 172,
+      "stun_chance": 76
+    },
+    "title": "Special Resistance Tactical Gloves",
+    "traits": {
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0010",
+    "image": "./items/gloves/special_resistance_ancient_dragon_gloves.png",
+    "stats": {
+      "melee_defense": 158,
+      "ranged_defense": 142,
+      "strength": 2,
+      "weaken_chance": 108
+    },
+    "title": "Special Resistance Ancient Dragon Gloves",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "gloves_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "g-0011",
+    "image": "./items/gloves/special_resistance_judgment_gloves.png",
+    "stats": {
+      "hit": 63,
+      "melee_defense": 142,
+      "ranged_defense": 128,
+      "weaken_chance": 100
+    },
+    "title": "Special Resistance Judgment Gloves",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  }
+]

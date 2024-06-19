@@ -1,0 +1,186 @@
+[
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0001",
+    "image": "./items/weapon/longbow/grand_aelons_sacred_bow.png",
+    "perk": {
+      "description": "Restores 110 Health with a 5% chance upon landing an attack. Health Recovery boosted during rain",
+      "image": "./items/weapon/longbow/grand_aelons_sacred_bow-perk.png",
+      "title": "Grand Aelon's Blessing"
+    },
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.675,
+      "bind_chance": 83,
+      "dexterity": 4,
+      "hit": 52,
+      "main_max_damage": 154,
+      "main_min_damage": 39
+    },
+    "title": "Grand Aelon's Sacred Bow",
+    "traits": {
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0002",
+    "image": "./items/weapon/longbow/karnixs_hell_bow.png",
+    "perk": {
+      "description": "Range 9% ▲ for self and party members within 16m",
+      "image": "./items/weapon/longbow/karnixs_hell_bow-perk.png",
+      "title": "Karnix's Eye"
+    },
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.709,
+      "critical_hit": 84,
+      "main_max_damage": 159,
+      "main_min_damage": 41,
+      "strength": 7
+    },
+    "title": "Karnix's Hell Bow",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "spiritus_damage_bonus": 4
+    }
+  },
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0003",
+    "image": "./items/weapon/longbow/tevents_screaming_bow.png",
+    "perk": {
+      "description": "Upon landing an attack, has a 10% chance to apply Weaken: Poison, which decreases the Move Speed of the target by 6.5 for 9s.",
+      "image": "./items/weapon/longbow/tevents_screaming_bow-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 19.2,
+      "attack_speed": 0.776,
+      "bonus_range": 4,
+      "dexterity": 4,
+      "main_max_damage": 207,
+      "main_min_damage": 52,
+      "perception": 5
+    },
+    "title": "Tevent's Screaming Bow",
+    "traits": {
+      "attack_speed_bonus": 2,
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0004",
+    "image": "./items/weapon/longbow/toubleks_strafing_bow.png",
+    "perk": {
+      "description": "Additional 75% of Base Damage upon landing critical hits on enemies with health less than 25%. Cooldown 6s",
+      "image": "./items/weapon/longbow/toubleks_strafing_bow-perk.png",
+      "title": "Toublek's Trick"
+    },
+    "stats": {
+      "animalia_damage_bonus": 8,
+      "attack_range": 19.2,
+      "attack_speed": 0.641,
+      "cooldown_speed": 6.7,
+      "dexterity": 5,
+      "main_max_damage": 114,
+      "main_min_damage": 41
+    },
+    "title": "Toublek's Strafing Bow",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_cost_efficiency": 3,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0005",
+    "image": "./items/weapon/longbow/shaikals_torment_bow.png",
+    "stats": {
+      "attack_range": 17.6,
+      "attack_speed": 0.709,
+      "bind_chance": 192,
+      "main_max_damage": 151,
+      "main_min_damage": 39,
+      "perception": 5
+    },
+    "title": "Shaikal's Torment Bow",
+    "traits": {
+      "bind_chance": 25,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "immortus_damage_bonus": 4,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0006",
+    "image": "./items/weapon/longbow/special_resistance_longbow.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.675,
+      "bind_chance": 175,
+      "critical_hit": 114,
+      "main_max_damage": 137,
+      "main_min_damage": 49
+    },
+    "title": "Special Resistance Longbow",
+    "traits": {
+      "bind_chance": 25,
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150
+    }
+  },
+  {
+    "type": "longbow",
+    "gear": "epic",
+    "id": "w-l-0007",
+    "image": "./items/weapon/longbow/world_tree_longbow.png",
+    "stats": {
+      "attack_range": 16,
+      "attack_speed": 0.641,
+      "health_regen": 70.5,
+      "main_max_damage": 137,
+      "main_min_damage": 35,
+      "wisdom": 8
+    },
+    "title": "World Tree Longbow",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "plantaria_damage_bonus": 4
+    }
+  }
+]

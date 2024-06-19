@@ -1,0 +1,176 @@
+[
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0001",
+    "image": "./items/belt/magna_dukes_belt.png",
+    "stats": {
+      "damage_reduction": 6,
+      "magic_defense": 180,
+      "max_health": 225,
+      "weaken_resistance": 33
+    },
+    "title": "Magna Duke's Belt",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20,
+      "stun_resistance": 25,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0002",
+    "image": "./items/belt/rex_chimaeruss_demonic_beast_hide.png",
+    "stats": {
+      "magic_defense": 180,
+      "melee_defense": 134,
+      "move_speed_bonus": 4
+    },
+    "title": "Rex Chimaerus's Demonic Beast Hide",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_resistance": 20,
+      "sleep_resistance": 25,
+      "weaken_resistance": 25
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0003",
+    "image": "./items/belt/skulls_spectral_belt.png",
+    "stats": {
+      "dexterity": 2,
+      "magic_defense": 180,
+      "mana_regen": 12.75,
+      "ranged_defense": 80
+    },
+    "title": "Skulls Spectral Belt",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "petrification_resistance": 25,
+      "skill_damage_resistance": 20,
+      "stun_resistance": 25
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0004",
+    "image": "./items/belt/tukuns_cast_iron_belt.png",
+    "stats": {
+      "collision_resistance": 33,
+      "magic_defense": 180,
+      "max_health": 225,
+      "melee_endurance": 40
+    },
+    "title": "Tukun's Cast Iron Belt",
+    "traits": {
+      "bind_resistance": 25,
+      "collision_resistance": 25,
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_resistance": 20
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0005",
+    "image": "./items/belt/tycans_bloodlust_belt.png",
+    "stats": {
+      "magic_defense": 180,
+      "max_health": 200,
+      "move_speed_bonus": 2,
+      "strength": 2
+    },
+    "title": "Tycan's Bloodlust Belt",
+    "traits": {
+      "collision_resistance": 25,
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "silence_resistance": 25,
+      "skill_damage_resistance": 20
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0006",
+    "image": "./items/belt/forbidden_eternal_chain.png",
+    "stats": {
+      "magic_defense": 280,
+      "max_health": 500,
+      "perception": 2
+    },
+    "title": "Forbidden Eternal Chain",
+    "traits": {
+      "stun_resistance": 25,
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "bind_resistance": 25,
+      "skill_damage_resistance": 20
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0007",
+    "image": "./items/belt/forbidden_reverberation_chain.png",
+    "stats": {
+      "magic_defense": 180,
+      "mana_regen": 12.75,
+      "silence_resistance": 25,
+      "wisdom": 3
+    },
+    "title": "Forbidden Reverberation Chain",
+    "traits": {
+      "debuff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "collision_resistance": 25,
+      "silence_resistance": 25,
+      "skill_damage_resistance": 20
+    }
+  },
+  {
+    "type": "belt",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "belt-0008",
+    "image": "./items/belt/forbidden_liberation_chain.png",
+    "stats": {
+      "magic_defense": 180,
+      "ranged_endurance": 60,
+      "petrification_resistance": 21,
+      "melee_evasion": 100
+    },
+    "title": "Forbidden Liberation Chain",
+    "traits": {
+      "debuff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "petrification_resistance": 25,
+      "weaken_resistance": 25,
+      "skill_damage_resistance": 20
+    }
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "type": "head_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0005",
+    "image": "./items/head/grand_generals_command_visor.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "shield_block_chance": 10
+        },
+        "two_items": {
+          "damage_reduction": 22
+        }
+      },
+      "setName": "chief_commander_set",
+      "setTitle": "Part of the Chief Commander Set"
+    },
+    "stats": {
+      "cooldown_speed": 2.5,
+      "melee_defense": 160,
+      "ranged_defense": 192,
+      "strength": 3
+    },
+    "title": "Grand General's Command Visor",
+    "traits": {
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0002",
+    "image": "./items/head/ghost_wolf_alter_ego_mask.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "off_hand_weapon_attack_chance_bonus": 30
+        },
+        "two_items": {
+          "damage_bonus": 22
+        }
+      },
+      "setName": "ghost_wolf_set",
+      "setTitle": "Ghost Wolf Set"
+    },
+    "stats": {
+      "cooldown_speed": 0.9,
+      "dexterity": 3,
+      "mana_regen": 13.5,
+      "melee_defense": 152,
+      "ranged_defense": 168
+    },
+    "title": "Ghost Wolf Alter Ego Mask",
+    "traits": {
+      "cooldown_speed": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0003",
+    "image": "./items/head/breath_of_mother_nature_hat.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "bonus_range": 10
+        },
+        "two_items": {
+          "weaken_duration": 7.5
+        }
+      },
+      "setName": "mother_nature_set",
+      "setTitle": "Part of the Mother Nature Set"
+    },
+    "stats": {
+      "cooldown_speed": 1.6,
+      "melee_defense": 144,
+      "ranged_defense": 144,
+      "weaken_chance": 50,
+      "wisdom": 2
+    },
+    "title": "Breath of Mother Nature Hat",
+    "traits": {
+      "cooldown_speed": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "head_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0004",
+    "image": "./items/head/generals_fury_headgear.png",
+    "setInfo": {
+      "setName": "imperator_set",
+      "setTitle": "Part of the Imperator Set",
+      "setEffects": {
+        "four_items": {
+          "mobility_skills_move_range": 10
+        },
+        "two_items": {
+          "melee_heavy_attack_chance": 150
+        }
+      }
+    },
+    "stats": {
+      "max_health": 230,
+      "melee_defense": 176,
+      "perception": 1,
+      "ranged_defense": 176,
+      "stun_chance": 37
+    },
+    "title": "General's Fury Headgear",
+    "traits": {
+      "cooldown_speed": 2,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0011",
+    "image": "./items/head/reapers_black_mask.png",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "attack_speed_bonus": 10
+        },
+        "two_items": {
+          "critical_damage": 21
+        }
+      },
+      "setName": "death_set",
+      "setTitle": "Part of the Death Set"
+    },
+    "stats": {
+      "cooldown_speed": 1.8,
+      "dexterity": 2,
+      "melee_defense": 168,
+      "ranged_defense": 152,
+      "wisdom": 1
+    },
+    "title": "Reaper's Black Mask",
+    "traits": {
+      "cooldown_speed": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0001",
+    "image": "./items/head/transcendental_clairvoyance.webp",
+    "setInfo": {
+      "setEffects": {
+        "four_items": {
+          "skill_heal": 25
+        },
+        "two_items": {
+          "cooldown_speed": 7.5
+        }
+      },
+      "setName": "transcended_one_set",
+      "setTitle": "Transcended One Set"
+    },
+    "stats": {
+      "cooldown_speed": 3.1,
+      "melee_defense": 152,
+      "perception": 4,
+      "ranged_defense": 136
+    },
+    "title": "Transcendental Clairvoyance",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "head_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0008",
+    "image": "./items/head/hell_guides_visor.png",
+    "stats": {
+      "critical_hit": 23,
+      "melee_defense": 168,
+      "ranged_defense": 184,
+      "strength": 2,
+      "stun_chance": 22
+    },
+    "title": "Hell Guide's Visor",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0006",
+    "image": "./items/head/grim_judicators_mask.png",
+    "stats": {
+      "critical_hit": 22,
+      "melee_defense": 160,
+      "perception": 2,
+      "ranged_defense": 160,
+      "weaken_chance": 43
+    },
+    "title": "Grim Judicator's Mask",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0007",
+    "image": "./items/head/heavenly_arbiter_mask.png",
+    "stats": {
+      "critical_hit": 83,
+      "dexterity": 3,
+      "melee_defense": 152,
+      "ranged_defense": 136
+    },
+    "title": "Heavenly Arbiter Mask",
+    "traits": {
+      "cooldown_speed": 2,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "head_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0009",
+    "image": "./items/head/holy_warriors_judgment_headgear.png",
+    "stats": {
+      "critical_hit": 7,
+      "mana_regen": 10.5,
+      "melee_defense": 168,
+      "ranged_defense": 184,
+      "wisdom": 3
+    },
+    "title": "Holy Warrior's Judgment Headgear",
+    "traits": {
+      "cooldown_speed": 2,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0015",
+    "image": "./items/head/wind_soul_minds_eye.png",
+    "stats": {
+      "critical_hit": 50,
+      "hit": 77,
+      "melee_defense": 160,
+      "ranged_defense": 160
+    },
+    "title": "Wind Soul Mind's Eye",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0010",
+    "image": "./items/head/pitch_black_sorcery_hat.png",
+    "stats": {
+      "melee_defense": 160,
+      "perception": 1,
+      "ranged_defense": 128,
+      "sleep_chance": 91,
+      "wisdom": 1
+    },
+    "title": "Pitch Black Sorcery Hat",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  },
+  {
+    "type": "head_heavy",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0014",
+    "image": "./items/head/special_resistance_tactical_headgear.png",
+    "stats": {
+      "health_regen": 30.75,
+      "max_health": 525,
+      "melee_defense": 168,
+      "ranged_defense": 184
+    },
+    "title": "Special Resistance Tactical Headgear",
+    "traits": {
+      "health_regen": 15,
+      "max_health": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_light",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0012",
+    "image": "./items/head/special_resistance_ancient_dragon_mask.png",
+    "stats": {
+      "critical_hit": 72,
+      "melee_defense": 160,
+      "ranged_defense": 160,
+      "weaken_chance": 68
+    },
+    "title": "Special Resistance Ancient Dragon Mask",
+    "traits": {
+      "health_regen": 15,
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "max_health": 150,
+      "ranged_endurance": 40,
+      "ranged_evasion": 40
+    }
+  },
+  {
+    "type": "head_cloth",
+    "itemGroup": "armor",
+    "tier": "epic",
+    "id": "h-0013",
+    "image": "./items/head/special_resistance_magic_hat.png",
+    "stats": {
+      "critical_hit": 58,
+      "max_mana": 635,
+      "melee_defense": 152,
+      "ranged_defense": 136
+    },
+    "title": "Special Resistance Magic Hat",
+    "traits": {
+      "magic_endurance": 40,
+      "magic_evasion": 40,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "melee_endurance": 40,
+      "melee_evasion": 40
+    }
+  }
+]

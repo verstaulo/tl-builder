@@ -1,0 +1,186 @@
+[
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0001",
+    "image": "./items/weapon/wand/excavators_mysterious_scepter.png",
+    "perk": {
+      "description": "Additional 380 Health heal per 6s when using Rapid Healing skills on allies with Health less than 15%. Cooldown 30s",
+      "image": "./items/weapon/wand/excavators_mysterious_scepter-perk.png",
+      "title": "Excavator's Breath"
+    },
+    "stats": {
+      "attack_range": 14,
+      "attack_speed": 0.5,
+      "main_max_damage": 97,
+      "main_min_damage": 53,
+      "max_mana": 1155,
+      "strength": 5
+    },
+    "title": "Excavator's Mysterious Scepter",
+    "traits": {
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "plantaria_damage_bonus": 4
+    }
+  },
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0002",
+    "image": "./items/weapon/wand/lequirus_grip.png",
+    "perk": {
+      "description": "When your Health goes below 20%, Hide for 7.5s. Cooldown 120s",
+      "image": "./items/weapon/wand/lequirus_grip-perk.png",
+      "title": "Lequirus's Ambush"
+    },
+    "stats": {
+      "attack_range": 14,
+      "attack_speed": 0.475,
+      "critical_hit": 74,
+      "main_max_damage": 82,
+      "main_min_damage": 45,
+      "perception": 2,
+      "wisdom": 3
+    },
+    "title": "Lequirus' Grip",
+    "traits": {
+      "buff_duration": 2,
+      "construct_damage_bonus": 4,
+      "critical_hit": 20,
+      "health_regen": 15,
+      "heavy_attack_chance": 20,
+      "hit": 20
+    }
+  },
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0003",
+    "image": "./items/weapon/wand/shaikals_purity_scepter.png",
+    "perk": {
+      "description": "Decreases the target's current Mana by 40 upon landing an attack. Cooldown 3s",
+      "image": "./items/weapon/wand/shaikals_purity_scepter-perk.png",
+      "title": "Shaikal's Dissolving Fluid"
+    },
+    "stats": {
+      "attack_range": 15.4,
+      "attack_speed": 0.45,
+      "main_max_damage": 69,
+      "main_min_damage": 42,
+      "perception": 6,
+      "weaken_chance": 148
+    },
+    "title": "Shaikal's Purity Scepter",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0004",
+    "image": "./items/weapon/wand/tevents_cuneiform_bone.png",
+    "perk": {
+      "description": "Cooldown Speed 15% ▲ for 4s upon receiving a Critical Hit. Cooldown 20s",
+      "image": "./items/weapon/wand/tevents_cuneiform_bone-perk.png",
+      "title": "Не все названия есть"
+    },
+    "stats": {
+      "attack_range": 16.8,
+      "attack_speed": 0.55,
+      "cooldown_speed": 2,
+      "critical_hit": 80,
+      "main_max_damage": 117,
+      "main_min_damage": 63,
+      "wisdom": 5
+    },
+    "title": "Tevent's Cuneiform Bone",
+    "traits": {
+      "cooldown_speed": 2,
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15
+    }
+  },
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0005",
+    "image": "./items/weapon/wand/archpriests_meditation.png",
+    "stats": {
+      "attack_range": 15.4,
+      "attack_speed": 0.425,
+      "main_max_damage": 65,
+      "main_min_damage": 36,
+      "sleep_chance": 71,
+      "weaken_chance": 71,
+      "wisdom": 4
+    },
+    "title": "Archpriest's Meditation",
+    "traits": {
+      "critical_hit": 20,
+      "deamonus_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "mana_regen": 15,
+      "max_mana": 150
+    }
+  },
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0006",
+    "image": "./items/weapon/wand/touch_of_deep_desire.png",
+    "stats": {
+      "attack_range": 7,
+      "attack_speed": 0.5,
+      "main_max_damage": 94,
+      "main_min_damage": 64,
+      "sleep_chance": 117,
+      "strength": 8
+    },
+    "title": "Touch of Deep Desire",
+    "traits": {
+      "animalia_damage_bonus": 4,
+      "critical_hit": 20,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_health": 150,
+      "sleep_chance": 25
+    }
+  },
+  {
+    "type": "wand",
+    "gear": "epic",
+    "id": "w-w-0007",
+    "image": "./items/weapon/wand/special_resistance_wand.png",
+    "stats": {
+      "attack_range": 15.4,
+      "attack_speed": 0.45,
+      "main_max_damage": 69,
+      "main_min_damage": 42,
+      "max_mana": 900,
+      "sleep_chance": 167
+    },
+    "title": "Special Resistance Wand",
+    "traits": {
+      "critical_hit": 20,
+      "einarden_damage_bonus": 4,
+      "heavy_attack_chance": 20,
+      "hit": 20,
+      "max_mana": 150,
+      "sleep_chance": 25
+    }
+  }
+]

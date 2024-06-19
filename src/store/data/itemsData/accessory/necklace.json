@@ -1,0 +1,198 @@
+[
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0001",
+    "image": "./items/necklace/abyss_flame_necklace.png",
+    "stats": {
+      "magic_defense": 180,
+      "mana_cost_efficiency": 7.7,
+      "sleep_chance": 62
+    },
+    "title": "Abyss Flame Necklace",
+    "traits": {
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_boost": 20,
+      "sleep_chance": 25,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0002",
+    "image": "./items/necklace/destroyers_choker.png",
+    "stats": {
+      "cooldown_speed": 1.6,
+      "critical_hit": 35,
+      "magic_defense": 180,
+      "max_health": 225
+    },
+    "title": "Destroyer's Choker",
+    "traits": {
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "silence_chance": 25,
+      "skill_damage_boost": 20
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0003",
+    "image": "./items/necklace/great_sages_necklace.png",
+    "stats": {
+      "magic_defense": 180,
+      "mana_regen": 20.25,
+      "max_mana": 225,
+      "wisdom": 2
+    },
+    "title": "Great Sage's Necklace",
+    "traits": {
+      "buff_duration": 1.5,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "petrification_chance": 25,
+      "skill_damage_boost": 20,
+      "stun_chance": 25
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0004",
+    "image": "./items/necklace/holy_warriors_choker.png",
+    "stats": {
+      "cooldown_speed": 2,
+      "magic_defense": 180,
+      "mana_cost_efficiency": 2.7,
+      "mana_regen": 22.5
+    },
+    "title": "Holy Warrior's Choker",
+    "traits": {
+      "bind_chance": 25,
+      "buff_duration": 1.5,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20,
+      "weaken_chance": 25
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0005",
+    "image": "./items/necklace/slaughterers_collar.png",
+    "stats": {
+      "magic_defense": 180,
+      "melee_evasion": 47,
+      "strength": 4
+    },
+    "title": "Slaughterer's Collar",
+    "traits": {
+      "bind_chance": 25,
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0006",
+    "image": "./items/necklace/abyss_conquerors_necklace.png",
+    "stats": {
+      "magic_defense": 180,
+      "perception": 2,
+      "strength": 1,
+      "mana_regen": 27.75
+    },
+    "title": "Abyss Conqueror's Necklace",
+    "traits": {
+      "bind_chance": 25,
+      "buff_duration": 1.5,
+      "stun_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0007",
+    "image": "./items/necklace/thunderstorm_necklace.png",
+    "stats": {
+      "magic_defense": 180,
+      "perception": 2,
+      "ranged_endurance": 60,
+      "cooldown_speed": 1.3
+    },
+    "title": "Thunderstorm Necklace",
+    "traits": {
+      "bind_chance": 25,
+      "buff_duration": 1.5,
+      "weaken_chance": 25,
+      "mana_regen": 15,
+      "max_mana": 150,
+      "skill_damage_boost": 20
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0008",
+    "image": "./items/necklace/absolute_bulwark_necklace.png",
+    "stats": {
+      "magic_defense": 180,
+      "bind_resistance": 25,
+      "stun_resistance": 25,
+      "sleep_resistance": 25,
+      "collision_resistance": 25
+    },
+    "title": "Absolute Bulwark Necklace",
+    "traits": {
+      "stun_chance": 25,
+      "buff_duration": 1.5,
+      "collision_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20
+    }
+  },
+  {
+    "type": "necklace",
+    "itemGroup": "accessory",
+    "tier": "epic",
+    "id": "n-0009",
+    "image": "./items/necklace/thunder_cleaver_necklace.png",
+    "stats": {
+      "magic_defense": 180,
+      "dexterity": 4,
+      "magic_evasion": 94
+    },
+    "title": "Thunder Cleaver Necklace",
+    "traits": {
+      "silence_chance": 25,
+      "buff_duration": 1.5,
+      "bind_chance": 25,
+      "health_regen": 15,
+      "max_health": 150,
+      "skill_damage_boost": 20
+    }
+  }
+]

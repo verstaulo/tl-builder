@@ -1,0 +1,4639 @@
+{
+  "weapon": [
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0001",
+      "image": "./items/weapon/staff/toubleks_thunderous_soul.png",
+      "perk": {
+        "description": "Melee, Ranged, Magic Critical Hit 30 ▲ per 1m of distance between you and the target",
+        "image": "./items/weapon/staff/toubleks_thunderous_soul-perk.webp",
+        "title": "Toublek's Boost"
+      },
+      "stats": {
+        "main_max_damage": 106,
+        "main_min_damage": 84,
+        "attack_range": 17.6,
+        "attack_speed": 0.709,
+        "bonus_range": 11.4,
+        "dexterity": 6
+      },
+      "title": "Toublek's Thunderous Soul",
+      "traits": {
+        "animalia_damage_bonus": 4,
+        "cooldown_speed": 2,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0002",
+      "image": "./items/weapon/staff/taluss_resonance_staff.png",
+      "perk": {
+        "description": "When Stunned, trigger Petrification: Freeze for 1s to protect yourself. Cooldown 51s",
+        "image": "./items/weapon/staff/taluss_cold_stone-perk.png",
+        "title": "Talus's Cold Stone"
+      },
+      "stats": {
+        "attack_range": 17.6,
+        "attack_speed": 0.675,
+        "critical_hit": 129,
+        "dexterity": 6,
+        "main_max_damage": 125,
+        "main_min_damage": 68
+      },
+      "title": "Talus's Resonance Staff",
+      "traits": {
+        "construct_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0003",
+      "image": "./items/weapon/staff/ariduss_dark_staff.png",
+      "perk": {
+        "description": "Collision Effect immune for once if staying in the same place for 5s. Deactivated when moving. Reactivation Limitation Time: 45",
+        "image": "./items/weapon/staff/ariduss_dark_staff-perk.png",
+        "title": "Aridus's Barrier"
+      },
+      "stats": {
+        "attack_range": 17.6,
+        "attack_speed": 0.709,
+        "main_max_damage": 134,
+        "main_min_damage": 73,
+        "weaken_chance": 111,
+        "wisdom": 8
+      },
+      "title": "Aridus's Dark Staff",
+      "traits": {
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0004",
+      "image": "./items/weapon/staff/lightbringer_prayer_staff.png",
+      "stats": {
+        "attack_range": 16,
+        "attack_speed": 0.574,
+        "main_max_damage": 93,
+        "main_min_damage": 50,
+        "mana_cost_efficiency": 10,
+        "max_mana": 255,
+        "wisdom": 3
+      },
+      "title": "Lightbringer Prayer Staff",
+      "traits": {
+        "critical_hit": 20,
+        "deamonus_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0005",
+      "image": "./items/weapon/staff/queen_bellandirs_domination_wand.png",
+      "perk": {
+        "description": "Has 12.5% chance of dealing 60 bonus damage upon landing an attack.",
+        "image": "./items/weapon/staff/queen_bellandirs_domination_wand-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 19.2,
+        "attack_speed": 0.743,
+        "cooldown_speed": 1.4,
+        "critical_hit": 52,
+        "main_max_damage": 158,
+        "main_min_damage": 86,
+        "wisdom": 7
+      },
+      "title": "Queen Bellandir's Domination Wand",
+      "traits": {
+        "animalia_damage_bonus": 4,
+        "attack_speed_bonus": 2,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0006",
+      "image": "./items/weapon/staff/special_resistance_staff.png",
+      "stats": {
+        "attack_range": 16,
+        "attack_speed": 0.641,
+        "critical_hit": 140,
+        "main_max_damage": 106,
+        "main_min_damage": 66,
+        "weaken_chance": 142
+      },
+      "title": "Special Resistance Staff",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_mana": 150,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "staff",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-s-0007",
+      "image": "./items/weapon/staff/special_shamans_staff.png",
+      "stats": {
+        "attack_range": 17.6,
+        "attack_speed": 0.675,
+        "cooldown_speed": 2.7,
+        "main_max_damage": 99,
+        "main_min_damage": 78,
+        "perception": 4,
+        "strength": 3
+      },
+      "title": "Umbramancer's Staff",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0001",
+      "image": "./items/weapon/dagger/lequirus's_thorny_edge.webp",
+      "perk": {
+        "description": "Base Damage 23 ▲ for 3s upon using Mobility Skills",
+        "image": "./items/weapon/dagger/lequirus's_thorny_edge-perk.webp",
+        "title": "Lequirus's Gale Blade"
+      },
+      "stats": {
+        "attack_range": 2,
+        "attack_speed": 0.518,
+        "critical_hit": 39,
+        "main_max_damage": 91,
+        "main_min_damage": 23,
+        "off_hand_max_damage": 91,
+        "off_hand_min_damage": 23,
+        "off_hand_weapon_attack_chance": 30,
+        "perception": 3,
+        "wisdom": 4
+      },
+      "title": "Lequirus's Thorny Edge",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0002",
+      "image": "./items/weapon/dagger/grieving_hand_of_death.png",
+      "stats": {
+        "attack_range": 2.2,
+        "attack_speed": 0.428,
+        "main_max_damage": 76,
+        "main_min_damage": 20,
+        "off_hand_max_damage": 76,
+        "off_hand_min_damage": 20,
+        "max_health": 855,
+        "off_hand_weapon_attack_chance": 20,
+        "strength": 7
+      },
+      "title": "Grieving Hand of Death",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0003",
+      "image": "./items/weapon/dagger/kowazans_twilight_blade.png",
+      "perk": {
+        "description": "At night, Melee Critical Hit 250 ▲",
+        "image": "./items/weapon/dagger/kowazans_twilight_blade-perk.png",
+        "title": "Kowazan's Mania"
+      },
+      "stats": {
+        "attack_range": 2,
+        "attack_speed": 0.45,
+        "critical_hit": 89,
+        "dexterity": 3,
+        "main_max_damage": 132,
+        "main_min_damage": 21,
+        "off_hand_max_damage": 132,
+        "off_hand_min_damage": 21,
+        "off_hand_weapon_attack_chance": 20
+      },
+      "title": "Kowazan's Twilight Blade",
+      "traits": {
+        "construct_damage_bonus": 4,
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_cost_efficiency": 3
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0004",
+      "image": "./items/weapon/dagger/minezeroks_dagger.png",
+      "perk": {
+        "description": "On hit, has an 8% chance to apply Weaken: Curse, which applies -410 Melee Defense to the target for 3s",
+        "image": "./items/weapon/dagger/minezeroks_dagger-perk.png",
+        "title": "Minezerok's Bridle"
+      },
+      "stats": {
+        "attack_range": 2,
+        "attack_speed": 0.495,
+        "main_max_damage": 111,
+        "main_min_damage": 27,
+        "off_hand_max_damage": 111,
+        "off_hand_min_damage": 27,
+        "off_hand_weapon_attack_chance": 21,
+        "stamina_regen": 6.95,
+        "wisdom": 6
+      },
+      "title": "Minezerok's Dagger",
+      "traits": {
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "insectum_damage_bonus": 4,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0005",
+      "image": "./items/weapon/dagger/rex_chimaeruss_fang.png",
+      "stats": {
+        "attack_range": 2,
+        "attack_speed": 0.405,
+        "dexterity": 8,
+        "insectum_damage_bonus": 8,
+        "main_max_damage": 64,
+        "main_min_damage": 15,
+        "off_hand_max_damage": 64,
+        "off_hand_min_damage": 15,
+        "off_hand_weapon_attack_chance": 26,
+        "weaken_chance": 117
+      },
+      "title": "Rex Chimaerus's Fang",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "insectum_damage_bonus": 4,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0006",
+      "image": "./items/weapon/dagger/special_resistance_dagger.png",
+      "stats": {
+        "attack_range": 2.4,
+        "attack_speed": 0.472,
+        "critical_hit": 140,
+        "main_max_damage": 83,
+        "main_min_damage": 22,
+        "off_hand_max_damage": 83,
+        "off_hand_min_damage": 22,
+        "off_hand_weapon_attack_chance": 20,
+        "weaken_chance": 142
+      },
+      "title": "Special Resistance Dagger",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "dagger",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-d-0007",
+      "image": "./items/weapon/dagger/tevents_massacre_blade.png",
+      "perk": {
+        "description": "Melee, Ranged, Magic Evasion 120 ▲ for 4s on Critical Hit. Cooldown 15s",
+        "image": "./items/weapon/dagger/tevents_massacre_blade-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 2,
+        "attack_speed": 0.495,
+        "critical_hit": 33,
+        "damage_bonus": 4,
+        "dexterity": 8,
+        "main_max_damage": 115,
+        "main_min_damage": 27,
+        "off_hand_max_damage": 115,
+        "off_hand_min_damage": 27,
+        "off_hand_weapon_attack_chance": 24
+      },
+      "title": "Tevent's Massacre Blade",
+      "traits": {
+        "buff_duration": 2,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "immortus_damage_bonus": 4,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0001",
+      "image": "./items/weapon/wand/excavators_mysterious_scepter.png",
+      "perk": {
+        "description": "Additional 380 Health heal per 6s when using Rapid Healing skills on allies with Health less than 15%. Cooldown 30s",
+        "image": "./items/weapon/wand/excavators_mysterious_scepter-perk.png",
+        "title": "Excavator's Breath"
+      },
+      "stats": {
+        "attack_range": 14,
+        "attack_speed": 0.5,
+        "main_max_damage": 97,
+        "main_min_damage": 53,
+        "max_mana": 1155,
+        "strength": 5
+      },
+      "title": "Excavator's Mysterious Scepter",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "plantaria_damage_bonus": 4
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0002",
+      "image": "./items/weapon/wand/lequirus_grip.png",
+      "perk": {
+        "description": "When your Health goes below 20%, Hide for 7.5s. Cooldown 120s",
+        "image": "./items/weapon/wand/lequirus_grip-perk.png",
+        "title": "Lequirus's Ambush"
+      },
+      "stats": {
+        "attack_range": 14,
+        "attack_speed": 0.475,
+        "critical_hit": 74,
+        "main_max_damage": 82,
+        "main_min_damage": 45,
+        "perception": 2,
+        "wisdom": 3
+      },
+      "title": "Lequirus' Grip",
+      "traits": {
+        "buff_duration": 2,
+        "construct_damage_bonus": 4,
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0003",
+      "image": "./items/weapon/wand/shaikals_purity_scepter.png",
+      "perk": {
+        "description": "Decreases the target's current Mana by 40 upon landing an attack. Cooldown 3s",
+        "image": "./items/weapon/wand/shaikals_purity_scepter-perk.png",
+        "title": "Shaikal's Dissolving Fluid"
+      },
+      "stats": {
+        "attack_range": 15.4,
+        "attack_speed": 0.45,
+        "main_max_damage": 69,
+        "main_min_damage": 42,
+        "perception": 6,
+        "weaken_chance": 148
+      },
+      "title": "Shaikal's Purity Scepter",
+      "traits": {
+        "animalia_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0004",
+      "image": "./items/weapon/wand/tevents_cuneiform_bone.png",
+      "perk": {
+        "description": "Cooldown Speed 15% ▲ for 4s upon receiving a Critical Hit. Cooldown 20s",
+        "image": "./items/weapon/wand/tevents_cuneiform_bone-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 16.8,
+        "attack_speed": 0.55,
+        "cooldown_speed": 2,
+        "critical_hit": 80,
+        "main_max_damage": 117,
+        "main_min_damage": 63,
+        "wisdom": 5
+      },
+      "title": "Tevent's Cuneiform Bone",
+      "traits": {
+        "cooldown_speed": 2,
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0005",
+      "image": "./items/weapon/wand/archpriests_meditation.png",
+      "stats": {
+        "attack_range": 15.4,
+        "attack_speed": 0.425,
+        "main_max_damage": 65,
+        "main_min_damage": 36,
+        "sleep_chance": 71,
+        "weaken_chance": 71,
+        "wisdom": 4
+      },
+      "title": "Archpriest's Meditation",
+      "traits": {
+        "critical_hit": 20,
+        "deamonus_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0006",
+      "image": "./items/weapon/wand/touch_of_deep_desire.png",
+      "stats": {
+        "attack_range": 7,
+        "attack_speed": 0.5,
+        "main_max_damage": 94,
+        "main_min_damage": 64,
+        "sleep_chance": 117,
+        "strength": 8
+      },
+      "title": "Touch of Deep Desire",
+      "traits": {
+        "animalia_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "sleep_chance": 25
+      }
+    },
+    {
+      "type": "wand",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-w-0007",
+      "image": "./items/weapon/wand/special_resistance_wand.png",
+      "stats": {
+        "attack_range": 15.4,
+        "attack_speed": 0.45,
+        "main_max_damage": 69,
+        "main_min_damage": 42,
+        "max_mana": 900,
+        "sleep_chance": 167
+      },
+      "title": "Special Resistance Wand",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_mana": 150,
+        "sleep_chance": 25
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0001",
+      "image": "./items/weapon/crossbow/kowazans_killer_crossbow.png",
+      "perk": {
+        "description": "Attack Speed during the day 12% ▲",
+        "image": "./items/weapon/crossbow/kowazans_killer_crossbow-perk.png",
+        "title": "Kowazan's Bombing"
+      },
+      "stats": {
+        "attack_range": 13.2,
+        "attack_speed": 0.525,
+        "main_max_damage": 96,
+        "main_min_damage": 25,
+        "off_hand_max_damage": 96,
+        "off_hand_min_damage": 25,
+        "off_hand_weapon_attack_chance": 20,
+        "stamina_regen": 4.45,
+        "strength": 9
+      },
+      "title": "Kowazan's Killer Crossbow",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0002",
+      "image": "./items/weapon/crossbow/malakars_lethal_crossbow.png",
+      "perk": {
+        "description": "Move Speed 8% ▲ for the player and party members within 16m",
+        "image": "./items/weapon/crossbow/malakars_lethal_crossbow-perk.png",
+        "title": "Malakar's Eye of Storm"
+      },
+      "stats": {
+        "attack_range": 13.2,
+        "attack_speed": 0.5,
+        "critical_hit": 159,
+        "main_max_damage": 93,
+        "main_min_damage": 23,
+        "off_hand_max_damage": 93,
+        "off_hand_min_damage": 23,
+        "off_hand_weapon_attack_chance": 20,
+        "wisdom": 5
+      },
+      "title": "Malakar's Lethal Crossbow",
+      "traits": {
+        "critical_hit": 20,
+        "deamonus_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0003",
+      "image": "./items/weapon/crossbow/queen_bellandirs_annihilation_crossbow.png",
+      "perk": {
+        "description": "Has 10% chance to apply Weaken that decreases the target's Ranged Evasion by 120 for 3s upon landing a Critical Hit. Stacks up to 3 times.",
+        "image": "./items/weapon/crossbow/queen_bellandirs_annihilation_crossbow-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 12,
+        "attack_speed": 0.55,
+        "damage_bonus": 4,
+        "dexterity": 7,
+        "main_max_damage": 102,
+        "main_min_damage": 24,
+        "off_hand_max_damage": 102,
+        "off_hand_min_damage": 24,
+        "off_hand_weapon_attack_chance": 28,
+        "stamina_regen": 2.65
+      },
+      "title": "Queen Bellandir's Annihilation Crossbow",
+      "traits": {
+        "buff_duration": 2,
+        "critical_hit": 20,
+        "deamonus_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0004",
+      "image": "./items/weapon/crossbow/rex_chimaeruss_rake_bow.png",
+      "perk": {
+        "description": "Heals 61 Health whenever making Off-Hand Weapon attacks for 6s after a successful hit with Off-Hand Weapon. Cooldown 30s",
+        "image": "./items/weapon/crossbow/rex_chimaeruss_rake_bow-perk.png",
+        "title": "Rex Chimaerus's Hunger"
+      },
+      "stats": {
+        "attack_range": 12,
+        "attack_speed": 0.6,
+        "damage_bonus": 14,
+        "dexterity": 7,
+        "main_max_damage": 81,
+        "main_min_damage": 19,
+        "off_hand_max_damage": 81,
+        "off_hand_min_damage": 19,
+        "off_hand_weapon_attack_chance": 35
+      },
+      "title": "Rex Chimaerus's Rake Bow",
+      "traits": {
+        "attack_speed": 2,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "immortus_damage_bonus": 4,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0005",
+      "image": "./items/weapon/crossbow/special_resistance_crossbow.png",
+      "stats": {
+        "attack_range": 13.2,
+        "attack_speed": 0.45,
+        "critical_hit": 130,
+        "main_max_damage": 69,
+        "main_min_damage": 18,
+        "off_hand_max_damage": 69,
+        "off_hand_min_damage": 18,
+        "off_hand_weapon_attack_chance": 20,
+        "weaken_chance": 155
+      },
+      "title": "Special Resistance Crossbow",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0006",
+      "image": "./items/weapon/crossbow/storm_monolith_crossbow.png",
+      "stats": {
+        "attack_range": 15.6,
+        "attack_speed": 0.55,
+        "critical_hit": 60,
+        "dexterity": 4,
+        "main_max_damage": 85,
+        "main_min_damage": 21,
+        "off_hand_max_damage": 85,
+        "off_hand_min_damage": 21,
+        "off_hand_weapon_attack_chance": 22,
+        "weaken_chance": 67
+      },
+      "title": "Storm Spiked Crossbow",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "crossbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-c-0007",
+      "image": "./items/weapon/crossbow/unlimited_rapid-fire_crossbow.png",
+      "stats": {
+        "attack_range": 12,
+        "attack_speed": 0.45,
+        "cooldown_speed": 2.5,
+        "main_max_damage": 62,
+        "main_min_damage": 15,
+        "off_hand_max_damage": 62,
+        "off_hand_min_damage": 15,
+        "off_hand_weapon_attack_chance": 28,
+        "perception": 5,
+        "weaken_chance": 55
+      },
+      "title": "Unlimited Rapid-Fire Crossbow",
+      "traits": {
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "plantaria_damage_bonus": 4
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0001",
+      "image": "./items/weapon/longbow/grand_aelons_sacred_bow.png",
+      "perk": {
+        "description": "Restores 110 Health with a 5% chance upon landing an attack. Health Recovery boosted during rain",
+        "image": "./items/weapon/longbow/grand_aelons_sacred_bow-perk.png",
+        "title": "Grand Aelon's Blessing"
+      },
+      "stats": {
+        "attack_range": 17.6,
+        "attack_speed": 0.675,
+        "bind_chance": 83,
+        "dexterity": 4,
+        "hit": 52,
+        "main_max_damage": 154,
+        "main_min_damage": 39
+      },
+      "title": "Grand Aelon's Sacred Bow",
+      "traits": {
+        "construct_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0002",
+      "image": "./items/weapon/longbow/karnixs_hell_bow.png",
+      "perk": {
+        "description": "Range 9% ▲ for self and party members within 16m",
+        "image": "./items/weapon/longbow/karnixs_hell_bow-perk.png",
+        "title": "Karnix's Eye"
+      },
+      "stats": {
+        "attack_range": 16,
+        "attack_speed": 0.709,
+        "critical_hit": 84,
+        "main_max_damage": 159,
+        "main_min_damage": 41,
+        "strength": 7
+      },
+      "title": "Karnix's Hell Bow",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0003",
+      "image": "./items/weapon/longbow/tevents_screaming_bow.png",
+      "perk": {
+        "description": "Upon landing an attack, has a 10% chance to apply Weaken: Poison, which decreases the Move Speed of the target by 6.5 for 9s.",
+        "image": "./items/weapon/longbow/tevents_screaming_bow-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 19.2,
+        "attack_speed": 0.776,
+        "bonus_range": 4,
+        "dexterity": 4,
+        "main_max_damage": 207,
+        "main_min_damage": 52,
+        "perception": 5
+      },
+      "title": "Tevent's Screaming Bow",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "critical_hit": 20,
+        "deamonus_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0004",
+      "image": "./items/weapon/longbow/toubleks_strafing_bow.png",
+      "perk": {
+        "description": "Additional 75% of Base Damage upon landing critical hits on enemies with health less than 25%. Cooldown 6s",
+        "image": "./items/weapon/longbow/toubleks_strafing_bow-perk.png",
+        "title": "Toublek's Trick"
+      },
+      "stats": {
+        "animalia_damage_bonus": 8,
+        "attack_range": 19.2,
+        "attack_speed": 0.641,
+        "cooldown_speed": 6.7,
+        "dexterity": 5,
+        "main_max_damage": 114,
+        "main_min_damage": 41
+      },
+      "title": "Toublek's Strafing Bow",
+      "traits": {
+        "animalia_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_cost_efficiency": 3,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0005",
+      "image": "./items/weapon/longbow/shaikals_torment_bow.png",
+      "stats": {
+        "attack_range": 17.6,
+        "attack_speed": 0.709,
+        "bind_chance": 192,
+        "main_max_damage": 151,
+        "main_min_damage": 39,
+        "perception": 5
+      },
+      "title": "Shaikal's Torment Bow",
+      "traits": {
+        "bind_chance": 25,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "immortus_damage_bonus": 4,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0006",
+      "image": "./items/weapon/longbow/special_resistance_longbow.png",
+      "stats": {
+        "attack_range": 16,
+        "attack_speed": 0.675,
+        "bind_chance": 175,
+        "critical_hit": 114,
+        "main_max_damage": 137,
+        "main_min_damage": 49
+      },
+      "title": "Special Resistance Longbow",
+      "traits": {
+        "bind_chance": 25,
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150
+      }
+    },
+    {
+      "type": "longbow",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-l-0007",
+      "image": "./items/weapon/longbow/world_tree_longbow.png",
+      "stats": {
+        "attack_range": 16,
+        "attack_speed": 0.641,
+        "health_regen": 70.5,
+        "main_max_damage": 137,
+        "main_min_damage": 35,
+        "wisdom": 8
+      },
+      "title": "World Tree Longbow",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "plantaria_damage_bonus": 4
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0001",
+      "image": "./items/weapon/shield/ahzreils_demonic_blade.png",
+      "perk": {
+        "description": "Restores 101 Mana whenever attacking with Shield Throw. Restores up to 5 times per skill cast",
+        "image": "./items/weapon/shield/ahzreils_demonic_blade-perk.png",
+        "title": "Ahzreil's Illusion"
+      },
+      "stats": {
+        "attack_range": 2.25,
+        "attack_speed": 0.605,
+        "main_max_damage": 132,
+        "main_min_damage": 68,
+        "mana_regen": 89.25,
+        "shield_block_chance": 10,
+        "damage_reduction": 12,
+        "strength": 6
+      },
+      "title": "Ahzreil's Demonic Blade",
+      "traits": {
+        "construct_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0002",
+      "image": "./items/weapon/shield/chernobogs_beheading_sword.png",
+      "perk": {
+        "description": "Blocking a melee attack applies Sleep: Curse to the attacker for 3s (6s for monsters). Cooldown 17s",
+        "image": "./items/weapon/shield/chernobogs_beheading_sword-perk.png",
+        "title": "Chernobog's Incubus"
+      },
+      "stats": {
+        "attack_range": 2.25,
+        "attack_speed": 0.578,
+        "critical_hit": 69,
+        "dexterity": 4,
+        "main_max_damage": 106,
+        "main_min_damage": 58,
+        "shield_block_chance": 11,
+        "damage_reduction": 33
+      },
+      "title": "Chernobog's Beheading Sword",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "immortus_damage_bonus": 4,
+        "max_health": 150
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0003",
+      "image": "./items/weapon/shield/nirmas_corrupt_sword.png",
+      "perk": {
+        "description": "Upon landing the Shield Strike, Stun the target for 0.3s.",
+        "image": "./items/weapon/shield/nirmas_corrupt_sword-perk.png",
+        "title": "Nirma's Shockwave"
+      },
+      "stats": {
+        "attack_range": 2.48,
+        "attack_speed": 0.632,
+        "main_max_damage": 115,
+        "main_min_damage": 63,
+        "max_health": 365,
+        "shield_block_chance": 19,
+        "damage_reduction": 24,
+        "wisdom": 5
+      },
+      "title": "Nirma's Corrupt Sword",
+      "traits": {
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_cost_efficiency": 3,
+        "mana_regen": 15,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0004",
+      "image": "./items/weapon/shield/queen_bellandirs_blade.png",
+      "perk": {
+        "description": "On hit, Weakens the target, which applies -25 Base Damage for 4s. Cooldown 15s",
+        "image": "./items/weapon/shield/queen_bellandirs_blade-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 2.25,
+        "attack_speed": 0.605,
+        "collision_chance": 50,
+        "main_max_damage": 120,
+        "main_min_damage": 68,
+        "shield_block_chance": 19,
+        "damage_reduction": 35,
+        "strength": 6
+      },
+      "title": "Queen Bellandir's Blade",
+      "traits": {
+        "critical_hit": 20,
+        "debuff_duration": 2,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "plantaria_damage_bonus": 4
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0005",
+      "image": "./items/weapon/shield/corneliuss_explosion_blade.png",
+      "stats": {
+        "attack_range": 2.48,
+        "attack_speed": 0.632,
+        "collision_chance": 198,
+        "main_max_damage": 115,
+        "main_min_damage": 63,
+        "perception": 6,
+        "shield_block_chance": 15,
+        "damage_reduction": 13
+      },
+      "title": "Cornelius's Explosion Blade",
+      "traits": {
+        "collision_chance": 25,
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "insectum_damage_bonus": 4
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0006",
+      "image": "./items/weapon/shield/karnixs_nether_sword.png",
+      "stats": {
+        "attack_range": 2.25,
+        "attack_speed": 0.522,
+        "einarden_damage_bonus": 8,
+        "main_max_damage": 85,
+        "main_min_damage": 46,
+        "max_health": 1005,
+        "shield_block_chance": 10,
+        "damage_reduction": 18,
+        "strength": 6
+      },
+      "title": "Karnix's Nether Sword",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150
+      }
+    },
+    {
+      "type": "shield",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-shield-0007",
+      "image": "./items/weapon/shield/special_resistance_sword.png",
+      "stats": {
+        "attack_range": 2.25,
+        "attack_speed": 0.468,
+        "collision_chance": 142,
+        "main_max_damage": 70,
+        "main_min_damage": 38,
+        "max_health": 1050,
+        "shield_block_chance": 12,
+        "damage_reduction": 15
+      },
+      "title": "Special Resistance Sword",
+      "traits": {
+        "collision_chance": 25,
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0001",
+      "image": "./items/weapon/greatsword/adentuss_savage_blade.png",
+      "perk": {
+        "description": "Base damage 6 ▲ per 1,000 of current Health",
+        "image": "./items/weapon/greatsword/adentuss_savage_blade-perk.png",
+        "title": "Adentus's Passion"
+      },
+      "stats": {
+        "attack_range": 2.5,
+        "attack_speed": 0.709,
+        "construct_damage_bonus": 8,
+        "critical_hit": 164,
+        "main_max_damage": 168,
+        "main_min_damage": 104,
+        "strength": 5
+      },
+      "title": "Adentus's Savage Blade",
+      "traits": {
+        "construct_damage_bonus": 4,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15,
+        "max_mana": 150
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0002",
+      "image": "./items/weapon/greatsword/junobotes_destroyer_blade.png",
+      "perk": {
+        "description": "Shock, Stun duration 1.1s ▲ on inflicting the effect on enemies with 50% or less Health",
+        "image": "./items/weapon/greatsword/junobotes_destroyer_blade-perk.png",
+        "title": "Junobote's Void"
+      },
+      "stats": {
+        "attack_range": 2.5,
+        "attack_speed": 0.8,
+        "main_max_damage": 239,
+        "main_min_damage": 51,
+        "perception": 8,
+        "stun_chance": 136
+      },
+      "title": "Junobote's Destroyer Blade",
+      "traits": {
+        "animalia_damage_bonus": 4,
+        "cooldown_speed": 2,
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "mana_regen": 15
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0003",
+      "image": "./items/weapon/greatsword/magna_dukes_taunting_blade.png",
+      "perk": {
+        "description": "Upon landing Valiant Brawl, there is a 42% chance to apply Weaken: Provoke for 3s",
+        "image": "./items/weapon/greatsword/magna_dukes_taunting_blade-perk.png",
+        "title": "Magna Duke's Taunt"
+      },
+      "stats": {
+        "attack_range": 2.75,
+        "attack_speed": 0.574,
+        "main_max_damage": 110,
+        "main_min_damage": 59,
+        "max_health": 1305,
+        "strength": 3
+      },
+      "title": "Magna Duke's Taunting Blade",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0004",
+      "image": "./items/weapon/greatsword/magnadukes_berserk_blade.png",
+      "perk": {
+        "description": "Melee Heavy Attack 95 ▲ for 6s upon inflicting Stun or Shock with Stunning Blow",
+        "image": "./items/weapon/greatsword/magnadukes_berserk_blade-perk.png",
+        "title": "Magna Duke's Berserk"
+      },
+      "stats": {
+        "attack_range": 2.5,
+        "attack_speed": 0.675,
+        "cooldown_speed": 5.7,
+        "dexterity": 6,
+        "main_max_damage": 144,
+        "main_min_damage": 88
+      },
+      "title": "Magnaduke's Berserk Blade",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "immortus_damage_bonus": 4,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0005",
+      "image": "./items/weapon/greatsword/tevents_despair_blade.png",
+      "perk": {
+        "description": "Applies Weaken: Poison that deals 25 damage to the target every second for 6s upon using a skill. Cooldown 10s",
+        "image": "./items/weapon/greatsword/tevents_despair_blade-perk.png",
+        "title": "Не все названия есть"
+      },
+      "stats": {
+        "attack_range": 2.5,
+        "attack_speed": 0.743,
+        "dexterity": 4,
+        "main_max_damage": 219,
+        "main_min_damage": 118,
+        "strength": 5,
+        "stun_chance": 50
+      },
+      "title": "Tevent's Despair Blade",
+      "traits": {
+        "critical_hit": 20,
+        "debuff_duration": 2,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0006",
+      "image": "./items/weapon/greatsword/morokais_corrupt_sword.png",
+      "stats": {
+        "attack_range": 2.5,
+        "attack_speed": 0.675,
+        "hit": 102,
+        "main_max_damage": 164,
+        "main_min_damage": 89,
+        "stun_chance": 71,
+        "wisdom": 3
+      },
+      "title": "Morokai's Corrupt Sword",
+      "traits": {
+        "critical_hit": 20,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "insectum_damage_bonus": 4,
+        "max_mana": 150,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0007",
+      "image": "./items/weapon/greatsword/corrupt_specters_blade.png",
+      "stats": {
+        "attack_range": 2.75,
+        "attack_speed": 0.675,
+        "collision_chance": 192,
+        "dexterity": 5,
+        "main_max_damage": 143,
+        "main_min_damage": 77
+      },
+      "title": "Corrupt Specter's Blade",
+      "traits": {
+        "critical_hit": 20,
+        "health_regen": 15,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "spiritus_damage_bonus": 4
+      }
+    },
+    {
+      "type": "greatsword",
+      "itemGroup": "weapon",
+      "level": 0,
+      "tier": "epic",
+      "id": "w-greatsword-0008",
+      "image": "./items/weapon/greatsword/special_resistance_broadsword.png",
+      "stats": {
+        "attack_range": 2.75,
+        "attack_speed": 0.709,
+        "main_max_damage": 140,
+        "main_min_damage": 98,
+        "max_health": 600,
+        "stun_chance": 217
+      },
+      "title": "Special Resistance Broadsword",
+      "traits": {
+        "critical_hit": 20,
+        "einarden_damage_bonus": 4,
+        "heavy_attack_chance": 20,
+        "hit": 20,
+        "max_health": 150,
+        "stun_chance": 25
+      }
+    }
+  ],
+  "cloak": [
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0003",
+      "image": "./items/cloak/hermits_shroud.png",
+      "stats": {
+        "magic_evasion": 37,
+        "melee_defense": 142,
+        "ranged_defense": 128,
+        "ranged_evasion": 40,
+        "weaken_resistance": 25
+      },
+      "title": "Hermit's Shroud",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "silence_resistance": 25,
+        "skill_damage_resistance": 20,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0001",
+      "image": "./items/cloak/archpriests_devotion.png",
+      "stats": {
+        "cooldown_speed": 0.8,
+        "critical_hit": 50,
+        "mana_regen": 22.5,
+        "melee_defense": 135,
+        "ranged_defense": 135
+      },
+      "title": "Archpriest's Devotion",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "petrification_resistance": 25,
+        "skill_damage_resistance": 20,
+        "stun_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0002",
+      "image": "./items/cloak/commandants_grandeur.png",
+      "stats": {
+        "damage_reduction": 10,
+        "max_health": 425,
+        "melee_defense": 135,
+        "ranged_defense": 135
+      },
+      "title": "Commandant's Grandeur",
+      "traits": {
+        "bind_resistance": 25,
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0005",
+      "image": "./items/cloak/lethal_venom_scorpion_cloak.png",
+      "stats": {
+        "cooldown_speed": 1.3,
+        "melee_defense": 135,
+        "ranged_defense": 135,
+        "weaken_chance": 125
+      },
+      "title": "Lethal Venom Scorpion Cloak",
+      "traits": {
+        "bind_resistance": 25,
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_resistance": 20,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0004",
+      "image": "./items/cloak/holy_warriors_resolve.png",
+      "stats": {
+        "collision_resistance": 33,
+        "damage_reduction": 4,
+        "melee_defense": 80,
+        "ranged_defense": 142
+      },
+      "title": "Holy Warrior's Resolve",
+      "traits": {
+        "collision_resistance": 25,
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "sleep_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0006",
+      "image": "./items/cloak/spectral_shadow.webp",
+      "stats": {
+        "melee_defense": 135,
+        "ranged_defense": 135,
+        "damage_bonus": 4,
+        "attack_speed_bonus": 2.9,
+        "health_regen": 17.25
+      },
+      "title": "Spectral Shadow",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "collision_resistance": 25,
+        "stun_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0007",
+      "image": "./items/cloak/annihilators_wings.webp",
+      "stats": {
+        "melee_defense": 135,
+        "ranged_defense": 135,
+        "bonus_range": 3,
+        "bind_chance": 48,
+        "weaken_chance": 35
+      },
+      "title": "Annihilator's Wings",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_resistance": 20,
+        "silence_resistance": 25,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "cloak",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "c-0008",
+      "image": "./items/cloak/slaughterers_cover.webp",
+      "stats": {
+        "melee_defense": 135,
+        "ranged_defense": 135,
+        "melee_evasion": 60,
+        "bind_resistance": 55,
+        "stun_resistance": 28
+      },
+      "title": "Slaughterer's Cover",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "stun_resistance": 25,
+        "bind_resistance": 25
+      }
+    }
+  ],
+  "head": [
+    {
+      "type": "head_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0005",
+      "image": "./items/head/grand_generals_command_visor.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "shield_block_chance": 10
+          },
+          "two_items": {
+            "damage_reduction": 22
+          }
+        },
+        "setName": "chief_commander_set",
+        "setTitle": "Part of the Chief Commander Set"
+      },
+      "stats": {
+        "cooldown_speed": 2.5,
+        "melee_defense": 160,
+        "ranged_defense": 192,
+        "strength": 3
+      },
+      "title": "Grand General's Command Visor",
+      "traits": {
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0002",
+      "image": "./items/head/ghost_wolf_alter_ego_mask.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "off_hand_weapon_attack_chance_bonus": 30
+          },
+          "two_items": {
+            "damage_bonus": 22
+          }
+        },
+        "setName": "ghost_wolf_set",
+        "setTitle": "Ghost Wolf Set"
+      },
+      "stats": {
+        "cooldown_speed": 0.9,
+        "dexterity": 3,
+        "mana_regen": 13.5,
+        "melee_defense": 152,
+        "ranged_defense": 168
+      },
+      "title": "Ghost Wolf Alter Ego Mask",
+      "traits": {
+        "cooldown_speed": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0003",
+      "image": "./items/head/breath_of_mother_nature_hat.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "bonus_range": 10
+          },
+          "two_items": {
+            "weaken_duration": 7.5
+          }
+        },
+        "setName": "mother_nature_set",
+        "setTitle": "Part of the Mother Nature Set"
+      },
+      "stats": {
+        "cooldown_speed": 1.6,
+        "melee_defense": 144,
+        "ranged_defense": 144,
+        "weaken_chance": 50,
+        "wisdom": 2
+      },
+      "title": "Breath of Mother Nature Hat",
+      "traits": {
+        "cooldown_speed": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "head_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0004",
+      "image": "./items/head/generals_fury_headgear.png",
+      "setInfo": {
+        "setName": "imperator_set",
+        "setTitle": "Part of the Imperator Set",
+        "setEffects": {
+          "four_items": {
+            "mobility_skills_move_range": 10
+          },
+          "two_items": {
+            "melee_heavy_attack_chance": 150
+          }
+        }
+      },
+      "stats": {
+        "max_health": 230,
+        "melee_defense": 176,
+        "perception": 1,
+        "ranged_defense": 176,
+        "stun_chance": 37
+      },
+      "title": "General's Fury Headgear",
+      "traits": {
+        "cooldown_speed": 2,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0011",
+      "image": "./items/head/reapers_black_mask.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "attack_speed_bonus": 10
+          },
+          "two_items": {
+            "critical_damage": 21
+          }
+        },
+        "setName": "death_set",
+        "setTitle": "Part of the Death Set"
+      },
+      "stats": {
+        "cooldown_speed": 1.8,
+        "dexterity": 2,
+        "melee_defense": 168,
+        "ranged_defense": 152,
+        "wisdom": 1
+      },
+      "title": "Reaper's Black Mask",
+      "traits": {
+        "cooldown_speed": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0001",
+      "image": "./items/head/transcendental_clairvoyance.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "skill_heal": 25
+          },
+          "two_items": {
+            "cooldown_speed": 7.5
+          }
+        },
+        "setName": "transcended_one_set",
+        "setTitle": "Transcended One Set"
+      },
+      "stats": {
+        "cooldown_speed": 3.1,
+        "melee_defense": 152,
+        "perception": 4,
+        "ranged_defense": 136
+      },
+      "title": "Transcendental Clairvoyance",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "head_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0008",
+      "image": "./items/head/hell_guides_visor.png",
+      "stats": {
+        "critical_hit": 23,
+        "melee_defense": 168,
+        "ranged_defense": 184,
+        "strength": 2,
+        "stun_chance": 22
+      },
+      "title": "Hell Guide's Visor",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0006",
+      "image": "./items/head/grim_judicators_mask.png",
+      "stats": {
+        "critical_hit": 22,
+        "melee_defense": 160,
+        "perception": 2,
+        "ranged_defense": 160,
+        "weaken_chance": 43
+      },
+      "title": "Grim Judicator's Mask",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0007",
+      "image": "./items/head/heavenly_arbiter_mask.png",
+      "stats": {
+        "critical_hit": 83,
+        "dexterity": 3,
+        "melee_defense": 152,
+        "ranged_defense": 136
+      },
+      "title": "Heavenly Arbiter Mask",
+      "traits": {
+        "cooldown_speed": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "head_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0009",
+      "image": "./items/head/holy_warriors_judgment_headgear.png",
+      "stats": {
+        "critical_hit": 7,
+        "mana_regen": 10.5,
+        "melee_defense": 168,
+        "ranged_defense": 184,
+        "wisdom": 3
+      },
+      "title": "Holy Warrior's Judgment Headgear",
+      "traits": {
+        "cooldown_speed": 2,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0015",
+      "image": "./items/head/wind_soul_minds_eye.png",
+      "stats": {
+        "critical_hit": 50,
+        "hit": 77,
+        "melee_defense": 160,
+        "ranged_defense": 160
+      },
+      "title": "Wind Soul Mind's Eye",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0010",
+      "image": "./items/head/pitch_black_sorcery_hat.png",
+      "stats": {
+        "melee_defense": 160,
+        "perception": 1,
+        "ranged_defense": 128,
+        "sleep_chance": 91,
+        "wisdom": 1
+      },
+      "title": "Pitch Black Sorcery Hat",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "head_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0014",
+      "image": "./items/head/special_resistance_tactical_headgear.png",
+      "stats": {
+        "health_regen": 30.75,
+        "max_health": 525,
+        "melee_defense": 168,
+        "ranged_defense": 184
+      },
+      "title": "Special Resistance Tactical Headgear",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0012",
+      "image": "./items/head/special_resistance_ancient_dragon_mask.png",
+      "stats": {
+        "critical_hit": 72,
+        "melee_defense": 160,
+        "ranged_defense": 160,
+        "weaken_chance": 68
+      },
+      "title": "Special Resistance Ancient Dragon Mask",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "head_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "h-0013",
+      "image": "./items/head/special_resistance_magic_hat.png",
+      "stats": {
+        "critical_hit": 58,
+        "max_mana": 635,
+        "melee_defense": 152,
+        "ranged_defense": 136
+      },
+      "title": "Special Resistance Magic Hat",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    }
+  ],
+  "body": [
+    {
+      "type": "body_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0005",
+      "image": "./items/body/grand_generals_unbeaten_armor.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "shield_block_chance": 10
+          },
+          "two_items": {
+            "damage_reduction": 22
+          }
+        },
+        "setName": "chief_commander_set",
+        "setTitle": "Path of The Chief Commander Set"
+      },
+      "stats": {
+        "damage_reduction": 4,
+        "melee_defense": 170,
+        "ranged_defense": 204,
+        "strength": 4
+      },
+      "title": "Grand General's Unbeaten Armor",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0002",
+      "image": "./items/body/ghost_wolf_alter_ego_armor.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "off_hand_weapon_attack_chance_bonus": 30
+          },
+          "two_items": {
+            "damage_bonus": 22
+          }
+        },
+        "setName": "ghost_wolf_set",
+        "setTitle": "Ghost Wolf Set"
+      },
+      "stats": {
+        "magic_evasion": 40,
+        "melee_defense": 162,
+        "ranged_defense": 178,
+        "strength": 2,
+        "weaken_chance": 21
+      },
+      "title": "Ghost Wolf Alter Ego Armor",
+      "traits": {
+        "buff_duration": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0004",
+      "image": "./items/body/miracle_of_mother_nature_clothing.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "bonus_range": 10
+          },
+          "two_items": {
+            "weaken_duration": 7.5
+          }
+        },
+        "setName": "mother_nature_set",
+        "setTitle": "Part of the Mother Nature Set"
+      },
+      "stats": {
+        "dexterity": 3,
+        "heavy_attack_chance": 33,
+        "melee_defense": 153,
+        "ranged_defense": 153,
+        "wisdom": 1
+      },
+      "title": "Miracle of Mother Nature Clothing",
+      "traits": {
+        "buff_duration": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "body_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0003",
+      "image": "./items/body/generals_thunder_heart.png",
+      "steInfo": {
+        "setEffects": {
+          "four_items": {
+            "mobility_skills_move_range": 10
+          },
+          "two_items": {
+            "melee_heavy_attack_chance": 150
+          }
+        },
+        "setName": "imperator_set",
+        "setTitle": "Path of The Imperator Set"
+      },
+      "stats": {
+        "melee_defense": 187,
+        "perception": 1,
+        "ranged_defense": 187,
+        "strength": 2,
+        "stun_chance": 26
+      },
+      "title": "General's Thunder Heart",
+      "traits": {
+        "buff_duration": 2,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0006",
+      "image": "./items/body/reapers_concealing_shroud.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "attack_speed_bonus": 10
+          },
+          "two_items": {
+            "critical_damage": 21
+          }
+        },
+        "setName": "death_set",
+        "setTitle": "Path of The Death Set"
+      },
+      "stats": {
+        "bind_chance": 41,
+        "melee_defense": 170,
+        "ranged_defense": 170,
+        "ranged_evasion": 37,
+        "stamina_regen": 1.35
+      },
+      "title": "Reaper's Concealing Shroud",
+      "traits": {
+        "buff_duration": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0001",
+      "image": "./items/body/transcendental_saint_raiment.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "skill_heal": 25
+          },
+          "two_items": {
+            "cooldown_speed": 7.5
+          }
+        },
+        "setName": "transcended_one_set",
+        "setTitle": "Transcended One Set"
+      },
+      "stats": {
+        "max_health": 300,
+        "melee_defense": 162,
+        "perception": 2,
+        "ranged_defense": 144,
+        "stamina_regen": 1.65
+      },
+      "title": "Transcendental Saint Raiment",
+      "traits": {
+        "buff_duration": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "body_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0009",
+      "image": "./items/body/hell_guides_armor.png",
+      "stats": {
+        "dexterity": 3,
+        "melee_defense": 178,
+        "ranged_defense": 102
+      },
+      "title": "Hell Guide's Armor",
+      "traits": {
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0007",
+      "image": "./items/body/grim_judicators_armor.png",
+      "stats": {
+        "critical_hit": 40,
+        "melee_defense": 170,
+        "ranged_defense": 170,
+        "strength": 1,
+        "weaken_chance": 46
+      },
+      "title": "Grim Judicator's Armor",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0008",
+      "image": "./items/body/heavenly_arbiter_attire.png",
+      "stats": {
+        "melee_defense": 162,
+        "ranged_defense": 144,
+        "weaken_chance": 78,
+        "wisdom": 4
+      },
+      "title": "Heavenly Arbiter Attire",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "body_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0010",
+      "image": "./items/body/holy_warriors_sacred_armor.png",
+      "stats": {
+        "mana_regen": 7.5,
+        "melee_defense": 280,
+        "ranged_defense": 195,
+        "stamina_regen": 1
+      },
+      "title": "Holy Warrior's Sacred Armor",
+      "traits": {
+        "buff_duration": 2,
+        "mana_regen": 15,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0015",
+      "image": "./items/body/wind_soul_blessed_armor.png",
+      "stats": {
+        "max_health": 650,
+        "melee_defense": 178,
+        "perception": 2,
+        "ranged_defense": 162
+      },
+      "title": "Wind Soul Blessed Armor",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0011",
+      "image": "./items/body/pitch_black_celebration_cloth.png",
+      "stats": {
+        "critical_hit": 46,
+        "hit": 40,
+        "melee_defense": 170,
+        "melee_evasion": 27,
+        "ranged_defense": 136
+      },
+      "title": "Pitch Black Celebration Cloth",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "body_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0014",
+      "image": "./items/body/special_resistance_tactical_armor.png",
+      "stats": {
+        "max_health": 605,
+        "melee_defense": 178,
+        "melee_evasion": 60,
+        "ranged_defense": 195
+      },
+      "title": "Special Resistance Tactical Armor",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0012",
+      "image": "./items/body/special_resistance_ancient_dragon_armor.png",
+      "stats": {
+        "dexterity": 2,
+        "hit": 40,
+        "melee_defense": 170,
+        "ranged_defense": 170
+      },
+      "title": "Special Resistance Ancient Dragon Armor",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "body_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0013",
+      "image": "./items/body/special_resistance_magic_garb.png",
+      "stats": {
+        "mana_regen": 52.5,
+        "max_health": 545,
+        "melee_defense": 162,
+        "ranged_defense": 144
+      },
+      "title": "Special Resistance Magic Garb",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    }
+  ],
+  "legs": [
+    {
+      "type": "legs_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0005",
+      "image": "./items/legs/grand_generals_invincibility_gaiters.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "shield_block_chance": 10
+          },
+          "two_items": {
+            "damage_reduction": 22
+          }
+        },
+        "setName": "chief_commander_set",
+        "setTitle": "Path of The Chief Commander Set"
+      },
+      "stats": {
+        "damage_reduction": 3,
+        "melee_defense": 160,
+        "ranged_defense": 42,
+        "strength": 2
+      },
+      "title": "Grand General's Invincibility Gaiters",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0002",
+      "image": "./items/legs/ghost_wolf_alter_ego_pants.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "off-hand_weapon_attack_chance_boost": 30
+          },
+          "two_items": {
+            "damage_bonus": 22
+          }
+        },
+        "setName": "ghost_wolf_set",
+        "setTitle": "Part of the Ghost Wolf Set"
+      },
+      "stats": {
+        "damage_reduction": 4,
+        "magic_evasion": 30,
+        "melee_defense": 152,
+        "perception": 2,
+        "ranged_defense": 168
+      },
+      "title": "Ghost Wolf Alter Ego Pants",
+      "traits": {
+        "debuff_duration": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0009",
+      "image": "./items/legs/mysteries_of_mother_nature_pants.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "bonus_range": 10
+          },
+          "two_items": {
+            "weaken_duration": 7.5
+          }
+        },
+        "setName": "mother_nature_set",
+        "setTitle": "Path of The Mother Nature Set"
+      },
+      "stats": {
+        "mana_cost_efficiency": 4,
+        "melee_defense": 144,
+        "ranged_defense": 144,
+        "weaken_chance": 41,
+        "wisdom": 2
+      },
+      "title": "Mysteries of Mother Nature Pants",
+      "traits": {
+        "debuff_duration": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "legs_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0004",
+      "image": "./items/legs/generals_melee_gaiters.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "mobility_skills_move_range": 10
+          },
+          "two_items": {
+            "melee_heavy_attack_chance": 150
+          }
+        },
+        "setName": "imperator_set",
+        "setTitle": "Path of The Imperator Set"
+      },
+      "stats": {
+        "dexterity": 1,
+        "melee_defense": 42,
+        "ranged_defense": 176,
+        "strength": 2
+      },
+      "title": "General's Melee Gaiters",
+      "traits": {
+        "debuff_duration": 2,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0011",
+      "image": "./items/legs/reapers_interring_pants.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "attack_speed_bonus": 10
+          },
+          "two_items": {
+            "critical_damage": 21
+          }
+        },
+        "setName": "death_set",
+        "setTitle": "Path of The Death Set"
+      },
+      "stats": {
+        "hit": 22,
+        "mana_regen": 11.25,
+        "melee_defense": 160,
+        "perception": 3,
+        "ranged_defense": 160
+      },
+      "title": "Reaper's Interring Pants",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0001",
+      "image": "./items/legs/transcendental_salvation_pants.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "skill_heal": 25
+          },
+          "two_items": {
+            "cooldown_speed": 7.5
+          }
+        },
+        "setName": "transcended_one_set",
+        "setTitle": "Part of the Transcended One Set"
+      },
+      "stats": {
+        "collision_resistance": 41,
+        "damage_reduction": 3,
+        "melee_defense": 152,
+        "ranged_defense": 136,
+        "wisdom": 3
+      },
+      "title": "Transcendental Salvation Pants",
+      "traits": {
+        "debuff_duration": 2,
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "legs_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0003",
+      "image": "./items/legs/black_lion_black_gaiters.png",
+      "stats": {
+        "damage_reduction": 4,
+        "dexterity": 1,
+        "melee_defense": 168,
+        "melee_evasion": 31,
+        "ranged_defense": 184
+      },
+      "title": "Black Lion Black Gaiters",
+      "traits": {
+        "debuff_duration": 2,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0006",
+      "image": "./items/legs/grim_judicators_pants.webp",
+      "stats": {
+        "dexterity": 2,
+        "melee_defense": 160,
+        "ranged_defense": 160,
+        "stamina_regen": 0.85,
+        "wisdom": 2
+      },
+      "title": "Grim Judicator's Pants",
+      "traits": {
+        "debuff_duration": 2,
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0007",
+      "image": "./items/legs/heavenly_arbiter_pants.webp",
+      "stats": {
+        "critical_hit": 40,
+        "dexterity": 3,
+        "melee_defense": 152,
+        "ranged_defense": 136,
+        "weaken_resistance": 16
+      },
+      "title": "Heavenly Arbiter Pants ",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "legs_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0008",
+      "image": "./items/legs/hell_guidess_gaiters.webp",
+      "stats": {
+        "melee_defense": 168,
+        "perception": 2,
+        "ranged_defense": 184,
+        "stun_chance": 88
+      },
+      "title": "Hell Guide's Gaiters",
+      "traits": {
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0015",
+      "image": "./items/legs/wind_soul_mist_pants.webp",
+      "stats": {
+        "mana_regen": 65.25,
+        "melee_defense": 168,
+        "ranged_defense": 152,
+        "wisdom": 2
+      },
+      "title": "Wind Soul Mist Pants",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0010",
+      "image": "./items/legs/pitch_black_dark_pants.webp",
+      "stats": {
+        "melee_defense": 160,
+        "ranged_defense": 128,
+        "sleep_chance": 75,
+        "weaken_chance": 103
+      },
+      "title": "Pitch Black Dark Pants",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "legs_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0014",
+      "image": "./items/legs/special_resistance_tactical_gaiters.webp",
+      "stats": {
+        "max_health": 375,
+        "melee_defense": 152,
+        "ranged_defense": 136,
+        "weaken_resistance": 76
+      },
+      "title": "Special Resistance Tactical Gaiters",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0012",
+      "image": "./items/legs/special_resistance_ancient_dragon_pants.webp",
+      "stats": {
+        "max_health": 600,
+        "melee_defense": 160,
+        "ranged_defense": 160,
+        "ranged_evasion": 47
+      },
+      "title": "Special Resistance Ancient Dragon Pants",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "legs_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "l-0013",
+      "image": "./items/legs/special_resistance_judgment_pants.webp",
+      "stats": {
+        "critical_hit": 50,
+        "max_mana": 695,
+        "melee_defense": 152,
+        "ranged_defense": 136
+      },
+      "title": "Special Resistance Judgment Pants",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    }
+  ],
+  "gloves": [
+    {
+      "type": "gloves_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0005",
+      "image": "./items/gloves/grand_generals_strike_gloves.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "shield_block_chance": 10
+          },
+          "two_items": {
+            "damage_reduction": 22
+          }
+        },
+        "setName": "chief_commander_set",
+        "setTitle": "Part of the Chief Commander Set"
+      },
+      "stats": {
+        "bonus_range": 3,
+        "critical_hit": 31,
+        "dexterity": 1,
+        "melee_defense": 150,
+        "ranged_defense": 180
+      },
+      "title": "Grand General's Strike Gloves",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "health_regen": 15,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0002",
+      "image": "./items/gloves/ghost_wolf_incision_gloves.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "off_hand_weapon_attack_chance_bonus": 30
+          },
+          "two_items": {
+            "damage_bonus": 22
+          }
+        },
+        "setName": "ghost_wolf_set",
+        "setTitle": "Path of The Ghost Wolf Set"
+      },
+      "stats": {
+        "attack_speed_bonus": 2,
+        "dexterity": 2,
+        "melee_defense": 142,
+        "ranged_defense": 158,
+        "ranged_evasion": 27
+      },
+      "title": "Ghost Wolf Incision Gloves",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0015",
+      "image": "./items/gloves/touch_of_mother_nature_gloves.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "bonus_range": 10
+          },
+          "two_items": {
+            "weaken_duration": 7.5
+          }
+        },
+        "setName": "mother_nature_set",
+        "setTitle": "Part of the Mother Nature Set"
+      },
+      "stats": {
+        "bonus_range": 3.3,
+        "critical_hit": 40,
+        "melee_defense": 135,
+        "ranged_defense": 135,
+        "wisdom": 2
+      },
+      "title": "Touch of Mother Nature Gloves",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0004",
+      "image": "./items/gloves/generals_frenzy_gloves.png",
+      "seInfo": {
+        "setEffects": {
+          "four_items": {
+            "mobility_skills_move_range": 10
+          },
+          "two_items": {
+            "melee_heavy_attack_chance": 150
+          }
+        },
+        "setName": "imperator_set",
+        "setTitle": "Part of the Imperator Set"
+      },
+      "stats": {
+        "attack_speed_bonus": 2,
+        "melee_defense": 165,
+        "perception": 4,
+        "ranged_defense": 165
+      },
+      "title": "General's Frenzy Gloves",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0014",
+      "image": "./items/gloves/reapers_hand_of_death.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "attack_speed_bonus": 10
+          },
+          "two_items": {
+            "critical_damage": 21
+          }
+        },
+        "setName": "death_set",
+        "setTitle": "Part of the Death Set"
+      },
+      "stats": {
+        "bonus_range": 1.7,
+        "critical_hit": 20,
+        "dexterity": 3,
+        "melee_defense": 150,
+        "ranged_defense": 150
+      },
+      "title": "Reaper's Hand of Death",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0001",
+      "image": "./items/gloves/transcendental_mystery_gloves.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "skill_heal": 25
+          },
+          "two_items": {
+            "cooldown_speed": 7.5
+          }
+        },
+        "setName": "transcended_one_set",
+        "setTitle": "Path of The Transcended One Set"
+      },
+      "stats": {
+        "mana_cost_efficiency": 6.3,
+        "melee_defense": 142,
+        "perception": 4,
+        "ranged_defense": 128
+      },
+      "title": "Transcendental Mystery Gloves",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0008",
+      "image": "./items/gloves/hell_guides_gloves.png",
+      "stats": {
+        "bind_resistance": 26,
+        "dexterity": 1,
+        "melee_defense": 158,
+        "ranged_defense": 172,
+        "strength": 2
+      },
+      "title": "Hell Guide's Gloves",
+      "traits": {
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0006",
+      "image": "./items/gloves/grim_judicators_touch.png",
+      "stats": {
+        "attack_speed_bonus": 2.4,
+        "mana_regen": 15,
+        "melee_defense": 150,
+        "perception": 2,
+        "ranged_defense": 150
+      },
+      "title": "Grim Judicator's Touch",
+      "traits": {
+        "attack_speed_bonus": 2,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0007",
+      "image": "./items/gloves/heavenly_arbiter_gloves.png",
+      "stats": {
+        "attack_speed_bonus": 2.4,
+        "dexterity": 2,
+        "melee_defense": 142,
+        "ranged_defense": 128,
+        "weaken_chance": 45
+      },
+      "title": "Heavenly Arbiter Gloves",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0003",
+      "image": "./items/gloves/black_lion_brutality.png",
+      "stats": {
+        "attack_speed_bonus": 1.8,
+        "collision_chance": 17,
+        "melee_defense": 158,
+        "ranged_defense": 172,
+        "strength": 2
+      },
+      "title": "Black Lion Brutality",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0013",
+      "image": "./items/gloves/wind_soul_thunder_gloves.png",
+      "stats": {
+        "hit": 67,
+        "magic_evasion": 60,
+        "melee_defense": 150,
+        "ranged_defense": 150
+      },
+      "title": "Wind Soul Thunder Gloves",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0009",
+      "image": "./items/gloves/pitch_black_punishment_gloves.png",
+      "stats": {
+        "critical_hit": 60,
+        "mana_regen": 19.5,
+        "melee_defense": 150,
+        "ranged_defense": 120,
+        "sleep_chance": 33
+      },
+      "title": "Pitch Black Punishment Gloves",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0012",
+      "image": "./items/gloves/special_resistance_tactical_gloves.png",
+      "stats": {
+        "hit": 50,
+        "melee_defense": 158,
+        "ranged_defense": 172,
+        "stun_chance": 76
+      },
+      "title": "Special Resistance Tactical Gloves",
+      "traits": {
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0010",
+      "image": "./items/gloves/special_resistance_ancient_dragon_gloves.png",
+      "stats": {
+        "melee_defense": 158,
+        "ranged_defense": 142,
+        "strength": 2,
+        "weaken_chance": 108
+      },
+      "title": "Special Resistance Ancient Dragon Gloves",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "gloves_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "g-0011",
+      "image": "./items/gloves/special_resistance_judgment_gloves.png",
+      "stats": {
+        "hit": 63,
+        "melee_defense": 142,
+        "ranged_defense": 128,
+        "weaken_chance": 100
+      },
+      "title": "Special Resistance Judgment Gloves",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    }
+  ],
+  "boots": [
+    {
+      "type": "boots_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0015",
+      "image": "./items/boots/grand_generals_vanguard_boots.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "shield_block_chance": 10
+          },
+          "two_items": {
+            "damage_reduction": 22
+          }
+        },
+        "setName": "chief_commander_set",
+        "setTitle": "Path of The Chief Commander Set"
+      },
+      "stats": {
+        "collision_chance": 25,
+        "melee_defense": 150,
+        "move_speed_bonus": 1.4,
+        "ranged_defense": 180,
+        "strength": 2
+      },
+      "title": "Grand General's Vanguard Boots",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0002",
+      "image": "./items/boots/ghost_wolf_stealth_boots.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "off_hand_weapon_attack_chance_bonus": 30
+          },
+          "two_items": {
+            "damage_bonus": 22
+          }
+        },
+        "setName": "ghost_wolf_set",
+        "setTitle": "Part of The Ghost Wolf Set"
+      },
+      "stats": {
+        "melee_defense": 142,
+        "melee_evasion": 40,
+        "move_speed_bonus": 2,
+        "ranged_defense": 158,
+        "stamina_regen": 1.35
+      },
+      "title": "Ghost Wolf Stealth Boots",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "move_speed_bonus": 2,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0005",
+      "image": "./items/boots/resonance_of_mother_nature_boots.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "bonus_range": 10
+          },
+          "two_items": {
+            "weaken_duration": 7.5
+          }
+        },
+        "setName": "mother_nature_set",
+        "setTitle": "Part of the Mother Nature Set"
+      },
+      "stats": {
+        "critical_hit": 40,
+        "melee_defense": 135,
+        "perception": 2,
+        "ranged_defense": 135,
+        "stamina_regen": 1.65
+      },
+      "title": "Resonance of Mother Nature Boots",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "move_speed_bonus": 2
+      }
+    },
+    {
+      "type": "boots_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0003",
+      "image": "./items/boots/generals_charge_boots.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "mobility_skills_move_range": 10
+          },
+          "two_items": {
+            "melee_heavy_attack_chance": 150
+          }
+        },
+        "setName": "imperator_set",
+        "setTitle": "Part of the Imperator Set"
+      },
+      "stats": {
+        "melee_defense": 165,
+        "move_speed_bonus": 2,
+        "ranged_defense": 165,
+        "strength": 4
+      },
+      "title": "General's Charge Boots",
+      "traits": {
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "move_speed_bonus": 2,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0004",
+      "image": "./items/boots/reapers_footsteps.png",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "attack_speed_bonus": 10
+          },
+          "two_items": {
+            "critical_damage": 21
+          }
+        },
+        "setName": "death_set",
+        "setTitle": "Part of the Death Set"
+      },
+      "stats": {
+        "bind_chance": 21,
+        "melee_defense": 150,
+        "perception": 3,
+        "ranged_defense": 150,
+        "strength": 1
+      },
+      "title": "Reaper's Footsteps",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_mana": 150,
+        "move_speed_bonus": 2,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0001",
+      "image": "./items/boots/transcendental_wing_shoes.webp",
+      "setInfo": {
+        "setEffects": {
+          "four_items": {
+            "attack_speed_bonus": 10
+          },
+          "two_items": {
+            "critical_damage": 21
+          }
+        },
+        "setName": "death_set",
+        "setTitle": "Part of the Death Set"
+      },
+      "stats": {
+        "melee_defense": 142,
+        "melee_evasion": 43,
+        "move_speed_bonus": 6.6,
+        "ranged_defense": 128
+      },
+      "title": "Transcendental Wing Shoes",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "boots_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0009",
+      "image": "./items/boots/hell_guides_boots.png",
+      "stats": {
+        "dexterity": 2,
+        "melee_defense": 158,
+        "move_speed_bonus": 0.4,
+        "ranged_defense": 172,
+        "stun_chance": 42
+      },
+      "title": "Hell Guide's Boots",
+      "traits": {
+        "mana_regen": 15,
+        "max_mana": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0007",
+      "image": "./items/boots/grim_judicators_footsteps.png",
+      "stats": {
+        "dexterity": 2,
+        "melee_defense": 150,
+        "move_speed_bonus": 2.6,
+        "ranged_defense": 150,
+        "weaken_resistance": 21
+      },
+      "title": "Grim Judicator's Footsteps",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0008",
+      "image": "./items/boots/heavenly_arbiter_shoes.png",
+      "stats": {
+        "melee_defense": 142,
+        "move_speed_bonus": 2.8,
+        "ranged_defense": 128,
+        "wisdom": 5
+      },
+      "title": "Heavenly Arbiter Shoes",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "move_speed_bonus": 2
+      }
+    },
+    {
+      "type": "boots_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0006",
+      "image": "./items/boots/black_lion_dash.png",
+      "stats": {
+        "melee_defense": 158,
+        "melee_evasion": 41,
+        "perception": 1,
+        "ranged_defense": 172,
+        "stamina_regen": 1
+      },
+      "title": "Black Lion Dash",
+      "traits": {
+        "mana_regen": 15,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "move_speed_bonus": 2,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0014",
+      "image": "./items/boots/wind_soul_gust_boots.png",
+      "stats": {
+        "bind_chance": 96,
+        "critical_hit": 50,
+        "melee_defense": 150,
+        "ranged_defense": 150
+      },
+      "title": "Wind Soul Gust Boots",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0010",
+      "image": "./items/boots/pitch_black_silence_shoes.png",
+      "stats": {
+        "max_mana": 300,
+        "melee_defense": 150,
+        "perception": 2,
+        "ranged_defense": 120,
+        "weaken_chance": 41
+      },
+      "title": "Pitch Black Silence Shoes",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    },
+    {
+      "type": "boots_heavy",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0013",
+      "image": "./items/boots/special_resistance_tactical_boots.png",
+      "stats": {
+        "mana_regen": 15,
+        "melee_defense": 182,
+        "ranged_defense": 172
+      },
+      "title": "Special Resistance Tactical Boots",
+      "traits": {
+        "health_regen": 15,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_light",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0011",
+      "image": "./items/boots/special_resistance_ancient_dragon_boots.png",
+      "stats": {
+        "critical_hit": 70,
+        "melee_defense": 158,
+        "melee_evasion": 57,
+        "ranged_defense": 142
+      },
+      "title": "Special Resistance Ancient Dragon Boots",
+      "traits": {
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "ranged_endurance": 40,
+        "ranged_evasion": 40
+      }
+    },
+    {
+      "type": "boots_cloth",
+      "itemGroup": "armor",
+      "level": 0,
+      "tier": "epic",
+      "id": "b-0012",
+      "image": "./items/boots/special_resistance_judgment_boots.png",
+      "stats": {
+        "hit": 80,
+        "melee_defense": 142,
+        "ranged_defense": 128,
+        "weaken_chance": 78
+      },
+      "title": "Special Resistance Judgment Boots",
+      "traits": {
+        "health_regen": 15,
+        "magic_endurance": 40,
+        "magic_evasion": 40,
+        "max_health": 150,
+        "melee_endurance": 40,
+        "melee_evasion": 40
+      }
+    }
+  ],
+  "necklace": [
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0001",
+      "image": "./items/necklace/abyss_flame_necklace.png",
+      "stats": {
+        "magic_defense": 180,
+        "mana_cost_efficiency": 7.7,
+        "sleep_chance": 62
+      },
+      "title": "Abyss Flame Necklace",
+      "traits": {
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_boost": 20,
+        "sleep_chance": 25,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0002",
+      "image": "./items/necklace/destroyers_choker.png",
+      "stats": {
+        "cooldown_speed": 1.6,
+        "critical_hit": 35,
+        "magic_defense": 180,
+        "max_health": 225
+      },
+      "title": "Destroyer's Choker",
+      "traits": {
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "silence_chance": 25,
+        "skill_damage_boost": 20
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0003",
+      "image": "./items/necklace/great_sages_necklace.png",
+      "stats": {
+        "magic_defense": 180,
+        "mana_regen": 20.25,
+        "max_mana": 225,
+        "wisdom": 2
+      },
+      "title": "Great Sage's Necklace",
+      "traits": {
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "petrification_chance": 25,
+        "skill_damage_boost": 20,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0004",
+      "image": "./items/necklace/holy_warriors_choker.png",
+      "stats": {
+        "cooldown_speed": 2,
+        "magic_defense": 180,
+        "mana_cost_efficiency": 2.7,
+        "mana_regen": 22.5
+      },
+      "title": "Holy Warrior's Choker",
+      "traits": {
+        "bind_chance": 25,
+        "buff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0005",
+      "image": "./items/necklace/slaughterers_collar.png",
+      "stats": {
+        "magic_defense": 180,
+        "melee_evasion": 47,
+        "strength": 4
+      },
+      "title": "Slaughterer's Collar",
+      "traits": {
+        "bind_chance": 25,
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0006",
+      "image": "./items/necklace/abyss_conquerors_necklace.png",
+      "stats": {
+        "magic_defense": 180,
+        "perception": 2,
+        "strength": 1,
+        "mana_regen": 27.75
+      },
+      "title": "Abyss Conqueror's Necklace",
+      "traits": {
+        "bind_chance": 25,
+        "buff_duration": 1.5,
+        "stun_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0007",
+      "image": "./items/necklace/thunderstorm_necklace.png",
+      "stats": {
+        "magic_defense": 180,
+        "perception": 2,
+        "ranged_endurance": 60,
+        "cooldown_speed": 1.3
+      },
+      "title": "Thunderstorm Necklace",
+      "traits": {
+        "bind_chance": 25,
+        "buff_duration": 1.5,
+        "weaken_chance": 25,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_boost": 20
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0008",
+      "image": "./items/necklace/absolute_bulwark_necklace.png",
+      "stats": {
+        "magic_defense": 180,
+        "bind_resistance": 25,
+        "stun_resistance": 25,
+        "sleep_resistance": 25,
+        "collision_resistance": 25
+      },
+      "title": "Absolute Bulwark Necklace",
+      "traits": {
+        "stun_chance": 25,
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20
+      }
+    },
+    {
+      "type": "necklace",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "n-0009",
+      "image": "./items/necklace/thunder_cleaver_necklace.png",
+      "stats": {
+        "magic_defense": 180,
+        "dexterity": 4,
+        "magic_evasion": 94
+      },
+      "title": "Thunder Cleaver Necklace",
+      "traits": {
+        "silence_chance": 25,
+        "buff_duration": 1.5,
+        "bind_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20
+      }
+    }
+  ],
+  "bracelet": [
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0001",
+      "image": "./items/bracelet/abyssal_wind_wristband.png",
+      "stats": {
+        "bind_chance": 62,
+        "magic_defense": 180,
+        "mana_cost_efficiency": 7.7
+      },
+      "title": "Abyssal Wind Wristband",
+      "traits": {
+        "collision_resistance": 25,
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_resistance": 20,
+        "sleep_resistance": 25
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0002",
+      "image": "./items/bracelet/beast_kings_gilded_bracers.png",
+      "stats": {
+        "damage_bonus": 7,
+        "magic_defense": 180,
+        "perception": 4
+      },
+      "title": "Beast King's Gilded Bracers",
+      "traits": {
+        "collision_resistance": 25,
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "silence_resistance": 25,
+        "skill_damage_resistance": 20
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0003",
+      "image": "./items/bracelet/specters_frost_bracers.png",
+      "stats": {
+        "dexterity": 2,
+        "magic_defense": 180,
+        "mana_regen": 20.25,
+        "ranged_evasion": 30
+      },
+      "title": "Specter's Frost Bracers",
+      "traits": {
+        "bind_resistance": 25,
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_resistance": 20,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0004",
+      "image": "./items/bracelet/wild_gold_bracers.png",
+      "stats": {
+        "health_regen": 67.5,
+        "magic_defense": 180,
+        "weaken_resistance": 46
+      },
+      "title": "Wild Gold Bracers",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "sleep_resistance": 25,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0005",
+      "image": "./items/bracelet/worshipers_magic_bracers.png",
+      "stats": {
+        "damage_bonus": 4,
+        "hit": 40,
+        "magic_defense": 180,
+        "max_mana": 200
+      },
+      "title": "Worshiper's Magic Bracers",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "petrification_resistance": 25,
+        "skill_damage_resistance": 20,
+        "stun_resistance": 25
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0006",
+      "image": "./items/bracelet/unbeatable_bracers.png",
+      "stats": {
+        "strength": 2,
+        "bind_resistance": 43,
+        "magic_defense": 180,
+        "collision_resistance": 27
+      },
+      "title": "Unbeatable Bracers",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "collision_resistance": 25,
+        "skill_damage_resistance": 20,
+        "bind_resistance": 25
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0007",
+      "image": "./items/bracelet/transcendental_priests_bracelet.png",
+      "stats": {
+        "magic_defense": 180,
+        "wisdom": 2,
+        "max_mana": 300,
+        "stun_resistance": 21
+      },
+      "title": "Transcendental Priest's Bracelet",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "silence_resistance": 25,
+        "skill_damage_resistance": 20,
+        "stun_resistance": 25
+      }
+    },
+    {
+      "type": "bracelet",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "bracelet-0008",
+      "image": "./items/bracelet/immortal_warriors_bracers.png",
+      "stats": {
+        "magic_defense": 180,
+        "max_health": 375,
+        "magic_endurance": 50,
+        "hit": 22
+      },
+      "title": "Immortal Warrior's Bracers",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "weaken_resistance": 25,
+        "stun_resistance": 25
+      }
+    }
+  ],
+  "belt": [
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0001",
+      "image": "./items/belt/magna_dukes_belt.png",
+      "stats": {
+        "damage_reduction": 6,
+        "magic_defense": 180,
+        "max_health": 225,
+        "weaken_resistance": 33
+      },
+      "title": "Magna Duke's Belt",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20,
+        "stun_resistance": 25,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0002",
+      "image": "./items/belt/rex_chimaeruss_demonic_beast_hide.png",
+      "stats": {
+        "magic_defense": 180,
+        "melee_defense": 134,
+        "move_speed_bonus": 4
+      },
+      "title": "Rex Chimaerus's Demonic Beast Hide",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_resistance": 20,
+        "sleep_resistance": 25,
+        "weaken_resistance": 25
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0003",
+      "image": "./items/belt/skulls_spectral_belt.png",
+      "stats": {
+        "dexterity": 2,
+        "magic_defense": 180,
+        "mana_regen": 12.75,
+        "ranged_defense": 80
+      },
+      "title": "Skulls Spectral Belt",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "petrification_resistance": 25,
+        "skill_damage_resistance": 20,
+        "stun_resistance": 25
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0004",
+      "image": "./items/belt/tukuns_cast_iron_belt.png",
+      "stats": {
+        "collision_resistance": 33,
+        "magic_defense": 180,
+        "max_health": 225,
+        "melee_endurance": 40
+      },
+      "title": "Tukun's Cast Iron Belt",
+      "traits": {
+        "bind_resistance": 25,
+        "collision_resistance": 25,
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_resistance": 20
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0005",
+      "image": "./items/belt/tycans_bloodlust_belt.png",
+      "stats": {
+        "magic_defense": 180,
+        "max_health": 200,
+        "move_speed_bonus": 2,
+        "strength": 2
+      },
+      "title": "Tycan's Bloodlust Belt",
+      "traits": {
+        "collision_resistance": 25,
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "silence_resistance": 25,
+        "skill_damage_resistance": 20
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0006",
+      "image": "./items/belt/forbidden_eternal_chain.png",
+      "stats": {
+        "magic_defense": 280,
+        "max_health": 500,
+        "perception": 2
+      },
+      "title": "Forbidden Eternal Chain",
+      "traits": {
+        "stun_resistance": 25,
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "bind_resistance": 25,
+        "skill_damage_resistance": 20
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0007",
+      "image": "./items/belt/forbidden_reverberation_chain.png",
+      "stats": {
+        "magic_defense": 180,
+        "mana_regen": 12.75,
+        "silence_resistance": 25,
+        "wisdom": 3
+      },
+      "title": "Forbidden Reverberation Chain",
+      "traits": {
+        "debuff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "collision_resistance": 25,
+        "silence_resistance": 25,
+        "skill_damage_resistance": 20
+      }
+    },
+    {
+      "type": "belt",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "belt-0008",
+      "image": "./items/belt/forbidden_liberation_chain.png",
+      "stats": {
+        "magic_defense": 180,
+        "ranged_endurance": 60,
+        "petrification_resistance": 21,
+        "melee_evasion": 100
+      },
+      "title": "Forbidden Liberation Chain",
+      "traits": {
+        "debuff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "petrification_resistance": 25,
+        "weaken_resistance": 25,
+        "skill_damage_resistance": 20
+      }
+    }
+  ],
+  "ring": [
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0001",
+      "image": "./items/ring/abyssal_crystal_ring.png",
+      "stats": {
+        "attack_speed_bonus": 3.3,
+        "magic_defense": 180,
+        "mana_cost_efficiency": 7.7
+      },
+      "title": "Abyssal Crystal Ring",
+      "traits": {
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "petrification_chance": 25,
+        "skill_damage_boost": 20,
+        "sleep_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0002",
+      "image": "./items/ring/barbarians_stone_ring.png",
+      "stats": {
+        "collision_chance": 50,
+        "health_regen": 65.25,
+        "magic_defense": 180
+      },
+      "title": "Barbarian's Stone Ring",
+      "traits": {
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0003",
+      "image": "./items/ring/eternal_ring_of_dimension.png",
+      "setInfo": {
+        "setEffects": {
+          "two_items": {
+            "stamina_regen": -10
+          }
+        },
+        "setName": "dimensional_chaos_set",
+        "setTitle": "Part of the Dimensional Chaos"
+      },
+      "stats": {
+        "dexterity": 2,
+        "magic_defense": 180,
+        "move_speed_bonus": 2.4,
+        "strength": 1
+      },
+      "title": "Eternal Ring of Dimension",
+      "traits": {
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0004",
+      "image": "./items/ring/insightful_ring_of_dimension.png",
+      "setInfo": {
+        "setEffects": {
+          "two_items": {
+            "stamina_regen": -10
+          }
+        },
+        "setName": "dimensional_chaos_set",
+        "setTitle": "Part of the Dimensional Chaos"
+      },
+      "stats": {
+        "bonus_range": 1.7,
+        "magic_defense": 180,
+        "perception": 2,
+        "wisdom": 2
+      },
+      "title": "Insightful Ring of Dimension",
+      "traits": {
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0005",
+      "image": "./items/ring/indomitable_ring_of_dimension.png",
+      "stats": {
+        "magic_defense": 180
+      },
+      "title": "Indomitable Ring of Dimension",
+      "traits": {
+        "bind_chance": 25,
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_boost": 20,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0006",
+      "image": "./items/ring/lethal_frost_ring.png",
+      "stats": {
+        "dexterity": 4,
+        "magic_defense": 180,
+        "weaken_chance": 58
+      },
+      "title": "Lethal Frost Ring",
+      "traits": {
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "silence_chance": 25,
+        "skill_damage_boost": 20,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0007",
+      "image": "./items/ring/transcendent_magic_ring.png",
+      "stats": {
+        "dexterity": 1,
+        "magic_defense": 180,
+        "perception": 1,
+        "strength": 1,
+        "wisdom": 1
+      },
+      "title": "Transcendent Magic Ring",
+      "traits": {
+        "bind_chance": 25,
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_boost": 20,
+        "weaken_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0008",
+      "image": "./items/ring/unshakeable_gold_ring.png",
+      "stats": {
+        "attack_speed_bonus": 1.8,
+        "magic_defense": 180,
+        "strength": 2,
+        "stun_chance": 37
+      },
+      "title": "Unshakeable Gold Ring",
+      "traits": {
+        "buff_duration": 1.5,
+        "collision_chance": 25,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20,
+        "stun_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0009",
+      "image": "./items/ring/fallen_angels_band.webp",
+      "stats": {
+        "magic_defense": 180,
+        "wisdom": 2,
+        "mana_regen": 19.5,
+        "petrification_chance": 38
+      },
+      "title": "Fallen Angel's Band",
+      "traits": {
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_boost": 20,
+        "petrification_chance": 25,
+        "sleep_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0010",
+      "image": "./items/ring/deadeye_band.webp",
+      "stats": {
+        "magic_defense": 180,
+        "perception": 2,
+        "attack_speed_bonus": 2,
+        "bind_chance": 33
+      },
+      "title": "Deadeye Band",
+      "traits": {
+        "buff_duration": 1.5,
+        "health_regen": 15,
+        "max_health": 150,
+        "skill_damage_boost": 20,
+        "collision_chance": 25,
+        "bind_chance": 25
+      }
+    },
+    {
+      "type": "ring",
+      "itemGroup": "accessory",
+      "level": 0,
+      "tier": "epic",
+      "id": "ring-0011",
+      "image": "./items/ring/silence_blade_band.webp",
+      "stats": {
+        "magic_defense": 180,
+        "dexterity": 2,
+        "attack_speed_bonus": 1.1,
+        "silence_chance": 33
+      },
+      "title": "Silence Blade Band",
+      "traits": {
+        "buff_duration": 1.5,
+        "mana_regen": 15,
+        "max_mana": 150,
+        "skill_damage_boost": 20,
+        "silence_chance": 25,
+        "bind_chance": 25
+      }
+    }
+  ]
+}
