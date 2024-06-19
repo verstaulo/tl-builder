@@ -23,7 +23,7 @@ const Modal = ({ onClose, className, children }: ModalProps) => {
   });
 
   return createPortal(
-    <div className={"fixed inset-0 p-2 " + (className ? className : "")} onClick={clickHandler}>
+    <div className={"fixed inset-0 p-2 z-[99] " + (className ? className : "")} onClick={clickHandler}>
       {children ? children : null}
     </div>,
     document.querySelector<HTMLDivElement>("#portal")!

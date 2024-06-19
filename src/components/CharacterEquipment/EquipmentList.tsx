@@ -61,7 +61,7 @@ const EquipmentList = ({ equipmentType, className, handleSelect }: Props) => {
       initial={{ opacity: 0, borderRadius: "12px" }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      transition={{ duration: 0.1, ease: "linear" }}
+      transition={{ duration: 0.2, ease: "linear" }}
     >
       <motion.div layout className="flex flex-col gap-2 mb-4">
         <Filters
