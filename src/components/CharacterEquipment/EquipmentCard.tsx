@@ -36,7 +36,7 @@ const EquipmentCard = ({
   return (
     <div
       className={
-        "group rounded-[0.5rem] select-none lg:p-2 flex justify-center items-center gap-2 min-w-10 " +
+        "group rounded-[0.5rem] select-none p-2 flex justify-center items-center gap-2 min-w-10 " +
         (defaultStyle ? " size-auto " : " size-16 ") +
         backgroundStyles[tier as keyof typeof backgroundStyles] +
         " " +
@@ -56,7 +56,7 @@ const EquipmentCard = ({
         {title}
       </p>
       {level > 0 && (
-        <span className="hidden size-6 lg:inline-block px-2 text-[14px] font-semibold text-neutral4 leading-6 rounded-lg bg-neutral6">
+        <span className="size-6 lg:inline-block px-2 text-[14px] font-semibold text-neutral4 leading-6 rounded-lg bg-neutral6 sm:hidden">
           {level}
         </span>
       )}
