@@ -44,7 +44,7 @@ const EquipmentMenu_Stats = ({
               className={
                 "grid gap-2 " +
                 (mode === "edit" && itemLevel < 9
-                  ? "grid-cols-[1fr,_20%,_20%]"
+                  ? "grid-cols-[1fr,_25%,_25%]"
                   : "grid-cols-[1fr,_20%]")
               }
             >
@@ -69,7 +69,7 @@ const EquipmentMenu_Stats = ({
                 className={
                   "grid gap-2 items-center " +
                   (mode === "edit" && itemLevel < 9
-                    ? "grid-cols-[1fr,_20%,_20%]"
+                    ? "grid-cols-[1fr,_25%,_25%]"
                     : "grid-cols-[1fr,_20%]")
                 }
               >
@@ -103,7 +103,7 @@ const EquipmentMenu_Stats = ({
                 className={
                   "grid gap-2 items-center " +
                   (mode === "edit" && itemLevel < 9
-                    ? "grid-cols-[1fr,_20%,_20%]"
+                    ? "grid-cols-[1fr,_25%,_25%]"
                     : "grid-cols-[1fr,_20%]")
                 }
               >
@@ -133,7 +133,7 @@ const EquipmentMenu_Stats = ({
                 className={
                   "grid gap-2 " +
                   (mode === "edit" && itemLevel < 9
-                    ? "grid-cols-[1fr,_20%,_20%]"
+                    ? "grid-cols-[1fr,_25%,_25%]"
                     : "grid-cols-[1fr,_20%]")
                 }
               >
