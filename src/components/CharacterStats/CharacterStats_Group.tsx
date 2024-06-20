@@ -9,18 +9,19 @@ interface Props {
   keys: Array<keyof TCharacterStats>;
 }
 const ulVariants = {
-  hidden: { height: 0},
+  hidden: { height: 0, padding: "8px" },
   show: {
     height: "auto",
+    padding: "8px",
     transition: { staggerChildren: 0.05 },
   },
-  exit: { height: 0},
+  exit: { height: 0, padding: 0, transition: { duration: 0.2 } },
 };
 
 const liVariants = {
   hidden: { opacity: 0 },
-  show: { opacity: 1 },
-  exit: { opacity: 0 },
+  show: { opacity: 1},
+  exit: { opacity: 0, transition: { duration: 0.1 } },
 };
 
 const CharacterStats_Group = ({ groupName, keys }: Props) => {
@@ -42,11 +43,12 @@ const CharacterStats_Group = ({ groupName, keys }: Props) => {
             animate="show"
             exit="exit"
             className={
-              "select-none " + (groupName === "Others" && "xl:grid xl:grid-cols-2 xl:gap-x-5")
+              "select-none p-2 " +
+              (groupName === "Others" && "xl:grid xl:grid-cols-2 xl:gap-x-5")
             }
           >
             {keys.map((stateKey, i) => (
-              <motion.li variants={liVariants} className="flex justify-between pr-2 pl-2 last:pb-2 first:pt-2" key={stateKey}>
+              <motion.li variants={liVariants} className="flex justify-between " key={stateKey}>
                 <span>{keyToTitle(stateKey)}</span>
                 <CharacterStats_Item key={i} stateKey={stateKey} />
               </motion.li>
