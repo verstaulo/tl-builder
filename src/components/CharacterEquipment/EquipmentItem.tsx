@@ -48,16 +48,17 @@ const EquipmentItem = ({
 
   const selectItemHandler = (item: TWeapon | TAccessory | TArmor) => {
     console.log(item);
-    
-    dispatch(putOnEquipment({ itemStateKey: itemStateKey, item: item }));
+
     dispatch(
       setCharacterStats({
         stats: item.stats,
         operationSource: "equipment",
         operationType: "add",
         itemStateKey: itemStateKey,
+        weaponType: item.itemGroup === "weapon" ? item.type : undefined,
       })
     );
+    dispatch(putOnEquipment({ itemStateKey: itemStateKey, item: item }));
     setItemsListVisible(false);
   };
 
@@ -92,9 +93,9 @@ const EquipmentItem = ({
         {currentItem && isMenuVisible && (
           <motion.div
             className="sm:absolute sm:top-0 sm:left-[calc(100%+10px)] sm:w-[400px] lg:block lg:static lg:w-full"
-            initial={{ height: 0, opacity: 0, paddingTop:0 }}
-            animate={{ height: "auto", opacity: 1, paddingTop:8 }}
-            exit={{ height: 0, opacity: 0, paddingTop:0 }}
+            initial={{ height: 0, opacity: 0, paddingTop: 0 }}
+            animate={{ height: "auto", opacity: 1, paddingTop: 8 }}
+            exit={{ height: 0, opacity: 0, paddingTop: 0 }}
           >
             <EquipmenMenu
               item={currentItem}

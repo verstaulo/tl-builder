@@ -26,6 +26,7 @@ export const setCharacterStats = createAsyncThunk(
     if (incomeData.masteryStatsSource == "secondary_weapon") return;
 
     const currentState = getState() as RootState;
+    
     const config = {
       stats:
         incomeData.itemStateKey == "secondary_weapon"
@@ -54,6 +55,7 @@ export const setCharacterStats = createAsyncThunk(
     const preparedStats = prepareStats(config);
 
     if (incomeData.operationType == "add") {
+      
       dispatch(addCharacterStats(preparedStats));
     } else {
       dispatch(removeCharacterStats(preparedStats));

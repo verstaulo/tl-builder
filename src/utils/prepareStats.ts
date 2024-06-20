@@ -38,6 +38,7 @@ type TSet = {
 export const prepareStats = (config: TConfig): TOptionalStats => {
   const result: TOptionalStats = {};
   const SET_BONUS_STATS: TSet = BONUS_STATS;
+  
 
   // MAIN LOGIC (default, with weapon, weapon)
   const current_strength_bonus: number = config.currentWeapon
@@ -246,6 +247,8 @@ export const prepareStats = (config: TConfig): TOptionalStats => {
 
   // EQUIP MAIN WEAPON
   if (!config.currentWeapon && config.isMainWeapon && config.weaponType) {
+    console.log("DAMAGE is");
+    
     result.main_max_damage! +=
       pattern[config.weaponType].strength[(result.strength ?? 0) + (config.currentStrength - 10)] +
       pattern[config.weaponType].dexterity[
